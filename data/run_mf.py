@@ -7,6 +7,8 @@ import re
 import sys
 import glob
 
+#TEST COMMIT
+
 SUGARSCAPE = 'sugarscape.py'
 DEPENDENCIES = ('disease.py', 'ethics.py', 'environment.py', 'cell.py', 'agent.py')
 JSON = 'json'
