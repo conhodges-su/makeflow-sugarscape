@@ -157,7 +157,7 @@ def output_makeflow(config, configFiles, path):
             for dep in DEPENDENCIES:
                 output += f"{dep} "
             # print executable statement
-            output += f"\n\t./{SUGARSCAPE} --conf {file}\n\n"
+            output += f"\n\tpython3 {SUGARSCAPE} --conf {file}\n\n"
     
         fout.write(output)
 
