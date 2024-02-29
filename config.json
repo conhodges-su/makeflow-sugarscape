@@ -4,11 +4,11 @@
         "decisionModels": ["rawSugarscape"],
         "jobUpdateFrequency": 5,
         "numParallelSimJobs": 1,
-        "numSeeds": 2,
+        "numSeeds": 3,
         "pathToBash": "bash",
         "pathToPython": "python3",
         "plots": ["population", "meanttl", "starvationCombat", "wealth", "wealthNormalized", "meanAgeAtDeath"],
-        "plotTimesteps": 1000
+        "plotTimesteps": 10000
     },
     "sugarscapeOptions": {
         "__README__": "Default values for Sugarscape simulation provided here. Details can be found in the README.",
@@ -79,6 +79,6 @@
         "seed": -1,
         "startingAgents": 250,
         "startingDiseases": 50,
-        "timesteps": 50
+        "timesteps": 10000
     }
 }

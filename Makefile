@@ -1,12 +1,15 @@
+SHELL := /bin/bash
 CONFIG = config.json
 DATACHECK = data/data.complete
 PLOTCHECK = plots/plots.complete
+MAKECHECK = data/makeflow.complete
 
 DATASET = $(DATACHECK) \
 		data/*[[:digit:]]*.config \
 		data/*.json \
 		data/*.sh \
-		*.mf*
+		data/*.mf* \
+		data/*.complete
 
 PLOTS = $(PLOTCHECK) \
 		plots/*.dat \
@@ -20,20 +23,32 @@ CLEAN = log.json \
 # Change to python3 (or other alias) if needed
 PYTHON = python3
 SUGARSCAPE = sugarscape.py
+MAKEFLOW = sugarscape.mf
 
 $(DATACHECK):
-	cd data && $(PYTHON) mf_run.py --conf ../$(CONFIG)
+	cd data && $(PYTHON) run.py --conf ../$(CONFIG)
 	touch $(DATACHECK)
 
 $(PLOTCHECK): $(DATACHECK)
 	cd plots && $(PYTHON) plot.py --path ../data/ --conf ../$(CONFIG) --outf data.dat
 	touch $(PLOTCHECK)
 
+$(MAKEFLOW):
+	cd data && $(PYTHON) run_mf.py --conf ../$(CONFIG)
+
+$(MAKECHECK): $(MAKEFLOW)
+	cd data && time makeflow $(MAKEFLOW) -j 3
+	touch $(MAKECHECK)
+
 all: $(DATACHECK) $(PLOTCHECK)
 
 data: $(DATACHECK)
 
 plots: $(PLOTCHECK)
+
+flow: $(MAKEFLOW)
+
+local: $(MAKECHECK)
 
 setup:
 	@echo "Setup only works with a local Python 3 installation."
@@ -44,6 +59,7 @@ test:
 	$(PYTHON) $(SUGARSCAPE) --conf $(CONFIG)
 
 clean:
+	cd data && makeflow -c $(MAKEFLOW) || true
 	rm -rf $(CLEAN) || true
 
 lean:
