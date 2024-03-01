@@ -4,7 +4,7 @@
         "decisionModels": ["rawSugarscape"],
         "jobUpdateFrequency": 5,
         "numParallelSimJobs": 1,
-        "numSeeds": 3,
+        "numSeeds": 100,
         "pathToBash": "bash",
         "pathToPython": "python3",
         "plots": ["population", "meanttl", "starvationCombat", "wealth", "wealthNormalized", "meanAgeAtDeath"],
