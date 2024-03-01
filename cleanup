@@ -1,0 +1,29 @@
+#!/usr/bin/env perl
+
+use 5.10.0;
+use strict;
+
+print(STDERR "Cleaning up Work Queue Factory and remaining jobs.\n");
+my $usr = $ENV{"USER"};
+system("ps -AF | grep \"$usr\" > fs.txt");
+my $i = 0;
+open(INPUT, "fs.txt");
+while(my $line = <INPUT>) {
+	chomp $line;
+	my @parts = split(" ",$line);
+	foreach my $part (@parts) {
+		if($part eq "work_queue_factory") {
+			kill("KILL", @parts[1]);
+			last;
+		}
+		$i++;
+	}
+}
+close(INPUT);
+unlink("fs.txt");
+system("condor_rm $usr");
+print(STDERR "Cleanup complete.\n");
+
+exit 0;
+
+# vim: tabstop=8 shiftwidth=4 softtabstop=4 expandtab shiftround autoindent
