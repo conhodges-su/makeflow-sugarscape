@@ -2,14 +2,18 @@ SHELL := /bin/bash
 CONFIG = config.json
 DATACHECK = data/data.complete
 PLOTCHECK = plots/plots.complete
-MAKECHECK = data/makeflow.complete
+LOCALMAKECHECK = data/local.complete
+REMOTEMAKECHECK = data/remote.complete
+OUTPUTFOLDER = data/RENAMETHEFOLDER
+HOST = ap21.uc.osg-htc.org
+PORT = 1024
 
-DATASET = $(DATACHECK) \
+DATASET = $(LOCALMAKECHECK) \
+		$(REMOTEMAKECHECK) \
 		data/*[[:digit:]]*.config \
 		data/*.json \
 		data/*.sh \
-		data/*.mf* \
-		data/*.complete
+		data/*.mf*
 
 PLOTS = $(PLOTCHECK) \
 		plots/*.dat \
@@ -36,9 +40,19 @@ $(PLOTCHECK): $(DATACHECK)
 $(MAKEFLOW):
 	cd data && $(PYTHON) run_mf.py --conf ../$(CONFIG)
 
-$(MAKECHECK): $(MAKEFLOW)
-	cd data && time makeflow $(MAKEFLOW) -j 3
-	touch $(MAKECHECK)
+$(LOCALMAKECHECK): $(MAKEFLOW)
+	cd data && time makeflow $(MAKEFLOW) -j 1
+	touch $(LOCALMAKECHECK)
+	mkdir $(OUTPUTFOLDER) && mv $(DATASET) $(OUTPUTFOLDER)
+
+$(REMOTEMAKECHECK): $(MAKEFLOW)
+	# openssl req -x509 -newkey rsa:4096 -keyout MY_KEY.pem -out MY_CERT.pem -sha256 -days 365 -nodes
+	# work_queue_factory -T condor --password=mypwfile -M nessie -w 64 -W 64 --workers-per-cycle 20 --ssl=$(HOST):$(PORT) &
+	work_queue_factory -T condor --password=mypwfile -M nessie -w 64 -W 64 --workers-per-cycle 64 &
+	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log $(MAKEFLOW)
+	touch $(REMOTEMAKECHECK)
+	perl cleanup
+
 
 all: $(DATACHECK) $(PLOTCHECK)
 
@@ -48,7 +62,12 @@ plots: $(PLOTCHECK)
 
 flow: $(MAKEFLOW)
 
-local: $(MAKECHECK)
+local: $(LOCALMAKECHECK)
+
+remote: $(REMOTEMAKECHECK)
+
+
+
 
 setup:
 	@echo "Setup only works with a local Python 3 installation."
