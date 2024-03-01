@@ -1,0 +1,17 @@
+universe = vanilla
+executable = condor.sh
+arguments = "python3 sugarscape.py --conf rawSugarscape8647371521712814043.config "
+transfer_input_files = agent.py,cell.py,environment.py,ethics.py,disease.py,sugarscape.py,rawSugarscape8647371521712814043.config
+should_transfer_files = yes
+when_to_transfer_output = on_exit
+notification = never
+copy_to_spool = true
+transfer_executable = true
+keep_claim_idle = 30
+log = makeflow.11556756.condorlog
++JobMaxSuspendTime = 0
+getenv = true
+request_cpus = 1
+request_memory = 4000
+request_disk = 1048576
+queue
