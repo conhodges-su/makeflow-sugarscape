@@ -57,7 +57,8 @@ $(LOCALMAKECHECK): $(MAKEFLOW)
 $(REMOTEMAKECHECK): $(MAKEFLOW)
 	# openssl req -x509 -newkey rsa:4096 -keyout MY_KEY.pem -out MY_CERT.pem -sha256 -days 365 -nodes
 	# work_queue_factory -T condor --password=mypwfile -M nessie -w 64 -W 64 --workers-per-cycle 20 --ssl=$(HOST):$(PORT) &
-	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 64 --workers-per-cycle 20 --disk=4096 --memory=4096 &
+	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 100 --workers-per-cycle 20 --disk=4096 --memory=4096 --cores=1 &
+	sleep 5m
 	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log $(MAKEFLOW)
 	touch $(REMOTEMAKECHECK)
 	mkdir $(OUTPUTFOLDER) && mv $(REMOTEDATASET) $(OUTPUTFOLDER)
