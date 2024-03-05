@@ -12,7 +12,8 @@ LOCALDATASET = $(LOCALMAKECHECK) \
 				data/*.config \
 				data/*.json \
 				data/*makeflowlog \
-				data/*.mf*
+				data/*.mf* \
+				data/*.condor*
 
 REMOTEDATASET = $(REMOTEMAKECHECK) \
 		data/*[[:digit:]]*.config \
