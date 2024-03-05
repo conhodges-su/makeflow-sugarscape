@@ -18,8 +18,8 @@ DATA CLEANUP:    Run "make clean" for both local/remote after each run to remove
                  May have to run "perl cleanup" for remote if simulation was interrupted. 
 
 TROUBLESHOOTING: To perform root cause analysis or observe the details of jobs   
-                 sequence, simply check the condor log of simulation. For the remote run, a 
-                 wq-factory folder would be generated and that where the associated condor log can be found. 
+                 sequence, check makeflowlog for local run and condor log for remote run. Specifically in
+                 the case of remote simulation, a wq-factory folder would be generated and that's where the associated condor log can be found. 
 
 
 

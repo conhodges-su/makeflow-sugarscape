@@ -10,14 +10,12 @@ PORT = 1024
 
 LOCALDATASET = $(LOCALMAKECHECK) \
 				data/*.json \
-				data/*makeflowlog \
-				data/*.mf* \
-				data/*.condor*
+				data/*makeflowlog
 
 REMOTEDATASET = $(REMOTEMAKECHECK) \
 		data/*.json \
 		data/*.sh \
-		data/*.mf* \
+		data/*makeflowlog \
 		data/*.condor* \
 		wq-factory*
 
@@ -30,7 +28,6 @@ CLEAN = log.json \
 		wq-factory* \
 		data/*.json \
 		data/*.sh \
-		data/*.mf* \
 		data/*.condor*
 
 # Change to python3 (or other alias) if needed
@@ -57,7 +54,7 @@ $(LOCALMAKECHECK): $(MAKEFLOW)
 $(REMOTEMAKECHECK): $(MAKEFLOW)
 	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 100 --workers-per-cycle 64 --disk=4096 --memory=4096 --cores=1 &
 	sleep 5m
-	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log $(MAKEFLOW)
+	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log --cache-mode never $(MAKEFLOW)
 	touch $(REMOTEMAKECHECK)
 	mkdir $(OUTPUTFOLDER) && mv $(REMOTEDATASET) $(OUTPUTFOLDER)
 	perl cleanup
