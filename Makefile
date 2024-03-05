@@ -28,7 +28,8 @@ CLEAN = log.json \
 		wq-factory* \
 		data/*.json \
 		data/*.sh \
-		data/*.condor*
+		data/*.condor* \
+		data/*.failed*
 
 # Change to python3 (or other alias) if needed
 PYTHON = python3
@@ -52,7 +53,7 @@ $(LOCALMAKECHECK): $(MAKEFLOW)
 	mkdir $(OUTPUTFOLDER) && mv $(LOCALDATASET) $(OUTPUTFOLDER)
 
 $(REMOTEMAKECHECK): $(MAKEFLOW)
-	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 100 --workers-per-cycle 64 --disk=4096 --memory=4096 --cores=1 &
+	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 100 --workers-per-cycle 64 --disk=4096 --memory=8192 --cores=1 &
 	sleep 5m
 	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log --cache-mode never $(MAKEFLOW)
 	touch $(REMOTEMAKECHECK)
