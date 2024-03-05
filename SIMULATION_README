@@ -7,9 +7,7 @@ Two main rules of concern in the MakeFile are called LOCALMAKECHECK and REMOTEMA
           Hence, '-j 1' to run the simulation serially and '-j 64' to run with 64 jobs at the same time. 
 
 2) Remote: First line is just generating WQ factory with w minimum and W maximum workers.
-           [--condor-requirement='Memory > 4096']--> this option is meant to alleviate the imagesize updating issue where workers are idling and adding to execution time. This will give warning but I have run it without issue. Feel free to omit if it doesn't seem to improve the issue. Second line is the makeflow command. To change the max number of simultaneous jobs simply change the parameter of J, in similar fashion to local variant. 
-
-
+           [--condor-requirement='Memory > 4096']--> this option is meant to alleviate the imagesize updating issue where workers are idling and adding to execution time. This will give warning but I have run it without issue. Feel free to omit if it doesn't seem to improve the issue. Change 'worker-per-cycle' accordingly to number of parallel jobs. Second line is the makeflow command. To change the max number of simultaneous jobs simply change the parameter of J, in similar fashion to local variant. 
 
 WARNING: FOR EITHER RUN, RENAME THE OUTPUT FOLDER SO NEXT SIMULATION DOESN't JUMBLE UP YOUR DATA
 
