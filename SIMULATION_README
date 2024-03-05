@@ -4,7 +4,7 @@ Two main rules of concern in the MakeFile are called LOCALMAKECHECK and REMOTEMA
 
 1) Local: first line contain the makeflow command. 
           To change the max number of simultaneous jobs simply change the parameter of j.
-          Hence, '-j 1' to run the simulation serially and '-j 64' to run with 64 jobs at the same time. 
+          Hence, '-j 1' to run the simulation serially and '-j 64' to run with 64 jobs at the same time.
 
 2) Remote: First line is just generating WQ factory with w minimum and W maximum workers.
            [--condor-requirement='Memory > 4096']--> this option is meant to alleviate the imagesize updating issue where workers are idling and adding to execution time. This will give warning but I have run it without issue. Feel free to omit if it doesn't seem to improve the issue. Change 'worker-per-cycle' accordingly to number of parallel jobs. Second line is the makeflow command. To change the max number of simultaneous jobs simply change the parameter of J, in similar fashion to local variant. 
@@ -14,12 +14,12 @@ WARNING: FOR EITHER RUN, RENAME THE OUTPUT FOLDER SO NEXT SIMULATION DOESN't JUM
 DATA GENERATION: The format to rename folder is
                 result_[seed#]_[decision_model]_[local/_remote]_[job_parameter]_[ith_run]
 
-DATA CLEANUP:    Run "make clean" to remove artifacts. May have to run "perl cleanup" if 
-                simulation was interrupted. 
+DATA CLEANUP:    Run "make clean" for both local/remote after each run to remove artifacts. 
+                 May have to run "perl cleanup" for remote if simulation was interrupted. 
 
 TROUBLESHOOTING: To perform root cause analysis or observe the details of jobs   
                  sequence, simply check the condor log of simulation. For the remote run, a 
-                 wq-factory would be generated and that where the associated condor log can be found. 
+                 wq-factory folder would be generated and that where the associated condor log can be found. 
 
 
 
