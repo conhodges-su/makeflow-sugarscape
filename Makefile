@@ -9,14 +9,12 @@ HOST = ap21.uc.osg-htc.org
 PORT = 1024
 
 LOCALDATASET = $(LOCALMAKECHECK) \
-				data/*.config \
 				data/*.json \
 				data/*makeflowlog \
 				data/*.mf* \
 				data/*.condor*
 
 REMOTEDATASET = $(REMOTEMAKECHECK) \
-		data/*[[:digit:]]*.config \
 		data/*.json \
 		data/*.sh \
 		data/*.mf* \
@@ -30,8 +28,10 @@ PLOTS = $(PLOTCHECK) \
 
 CLEAN = log.json \
 		wq-factory* \
-		$(DATASET) \
-		$(PLOTS)
+		data/*.json \
+		data/*.sh \
+		data/*.mf* \
+		data/*.condor*
 
 # Change to python3 (or other alias) if needed
 PYTHON = python3
@@ -50,13 +50,11 @@ $(MAKEFLOW):
 	cd data && $(PYTHON) run_mf.py --conf ../$(CONFIG)
 
 $(LOCALMAKECHECK): $(MAKEFLOW)
-	cd data && time makeflow $(MAKEFLOW) -j 1
+	cd data && time makeflow $(MAKEFLOW) -j 64
 	touch $(LOCALMAKECHECK)
 	mkdir $(OUTPUTFOLDER) && mv $(LOCALDATASET) $(OUTPUTFOLDER)
 
 $(REMOTEMAKECHECK): $(MAKEFLOW)
-	# openssl req -x509 -newkey rsa:4096 -keyout MY_KEY.pem -out MY_CERT.pem -sha256 -days 365 -nodes
-	# work_queue_factory -T condor --password=mypwfile -M nessie -w 64 -W 64 --workers-per-cycle 20 --ssl=$(HOST):$(PORT) &
 	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 100 --workers-per-cycle 64 --disk=4096 --memory=4096 --cores=1 &
 	sleep 5m
 	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log $(MAKEFLOW)
