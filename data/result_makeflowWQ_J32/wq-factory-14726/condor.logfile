@@ -18688,3 +18688,100 @@
 ...
 000 (12995060.000.000) 2024-03-06 16:03:56 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
 ...
+040 (12995060.000.000) 2024-03-06 16:06:28 Started transferring input files
+	Transferring to host: <72.36.96.157:43856?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14176312%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3645367&PrivNet=mwt2-c028.campuscluster.illinois.edu&addrs=72.36.96.157-43856+[2620-0-e01-4800--67]-43856&alias=mwt2-c028.campuscluster.illinois.edu&noUDP>
+...
+040 (12995060.000.000) 2024-03-06 16:06:28 Finished transferring input files
+...
+040 (12995059.000.000) 2024-03-06 16:06:28 Started transferring input files
+	Transferring to host: <72.36.96.192:37004?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35804488%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3645368&PrivNet=mwt2-c063.campuscluster.illinois.edu&addrs=72.36.96.192-37004+[2620-0-e01-4800--102]-37004&alias=mwt2-c063.campuscluster.illinois.edu&noUDP>
+...
+040 (12995059.000.000) 2024-03-06 16:06:28 Finished transferring input files
+...
+040 (12995058.000.000) 2024-03-06 16:06:28 Started transferring input files
+	Transferring to host: <172.16.1.20:33777?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35804489%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3648159&PrivNet=chpc-compute020.cm.cluster&addrs=172.16.1.20-33777&alias=chpc-compute020.cm.cluster&noUDP>
+...
+040 (12995057.000.000) 2024-03-06 16:06:28 Started transferring input files
+	Transferring to host: <192.168.247.2:40851?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35804490%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3640898&PrivNet=mendel-c0002.mendel.sdmz.amnh.org&addrs=192.168.247.2-40851+[fde1-53ba-e9a0-de11-6e2b-59ff-feb1-47e4]-40851&alias=mendel-c0002.mendel.sdmz.amnh.org&noUDP>
+...
+040 (12995057.000.000) 2024-03-06 16:06:28 Finished transferring input files
+...
+040 (12995058.000.000) 2024-03-06 16:06:29 Finished transferring input files
+...
+021 (12995060.000.000) 2024-03-06 16:06:29 Message from starter on slot1_1@glidein_45245_524551842@mwt2-c028.campuscluster.illinois.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12995060.000.000) 2024-03-06 16:06:29 Job executing on host: <72.36.96.157:43423?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36577709%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3639733&PrivNet=mwt2-c028.campuscluster.illinois.edu&addrs=72.36.96.157-43423+[2620-0-e01-4800--67]-43423&alias=mwt2-c028.campuscluster.illinois.edu&noUDP>
+	SlotName: slot1_1@mwt2-c028.campuscluster.illinois.edu
+	CondorScratchDir = "/scratch.local/condor/execute/dir_45183/glide_5NszDL/execute/dir_13864"
+	Cpus = 1
+	Disk = 4822204
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+021 (12995059.000.000) 2024-03-06 16:06:29 Message from starter on slot1_1@glidein_96054_276599490@mwt2-c063.campuscluster.illinois.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12995059.000.000) 2024-03-06 16:06:29 Job executing on host: <72.36.96.192:46350?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35719695%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3628431&PrivNet=mwt2-c063.campuscluster.illinois.edu&addrs=72.36.96.192-46350+[2620-0-e01-4800--102]-46350&alias=mwt2-c063.campuscluster.illinois.edu&noUDP>
+	SlotName: slot1_1@mwt2-c063.campuscluster.illinois.edu
+	CondorScratchDir = "/scratch.local/condor/execute/dir_95855/glide_IWrg8d/execute/dir_5287"
+	Cpus = 1
+	Disk = 4739937
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+021 (12995057.000.000) 2024-03-06 16:06:30 Message from starter on slot1_3@glidein_2016863_964540070@mendel-c0002.mendel.sdmz.amnh.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/debian:12
+...
+001 (12995057.000.000) 2024-03-06 16:06:30 Job executing on host: <192.168.247.2:46501?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35788667%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3624815&PrivNet=mendel-c0002.mendel.sdmz.amnh.org&addrs=192.168.247.2-46501+[fde1-53ba-e9a0-de11-6e2b-59ff-feb1-47e4]-46501&alias=mendel-c0002.mendel.sdmz.amnh.org&noUDP>
+	SlotName: slot1_3@mendel-c0002.mendel.sdmz.amnh.org
+	CondorScratchDir = "/scratch_space/glide_mrS2V2/execute/dir_2321564"
+	Cpus = 1
+	Disk = 4293491
+	GLIDEIN_ResourceName = "AMNH-Mendel-CE1"
+	Memory = 8192
+...
+021 (12995058.000.000) 2024-03-06 16:06:30 Message from starter on slot1_6@glidein_149840_140272032@chpc-compute020.cm.cluster:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/ubuntu:22.04
+...
+001 (12995058.000.000) 2024-03-06 16:06:30 Job executing on host: <172.16.1.20:37077?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35615562%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3538079&PrivNet=chpc-compute020.cm.cluster&addrs=172.16.1.20-37077&alias=chpc-compute020.cm.cluster&noUDP>
+	SlotName: slot1_6@chpc-compute020.cm.cluster
+	CondorScratchDir = "/tmp/glide_Cl4AZf/execute/dir_1318067"
+	Cpus = 1
+	Disk = 15285405
+	GLIDEIN_ResourceName = "Alabama-CHPC-CE1"
+	Memory = 8192
+...
+006 (12995060.000.000) 2024-03-06 16:06:39 Image size of job updated: 1
+	3  -  MemoryUsage of job (MB)
+	2740  -  ResidentSetSize of job (KB)
+...
+006 (12995059.000.000) 2024-03-06 16:06:39 Image size of job updated: 1814072
+	32  -  MemoryUsage of job (MB)
+	32188  -  ResidentSetSize of job (KB)
+...
+006 (12995057.000.000) 2024-03-06 16:06:39 Image size of job updated: 2307484
+	51  -  MemoryUsage of job (MB)
+	51636  -  ResidentSetSize of job (KB)
+...
+006 (12995058.000.000) 2024-03-06 16:06:40 Image size of job updated: 2400920
+	49  -  MemoryUsage of job (MB)
+	49264  -  ResidentSetSize of job (KB)
+...
+006 (12994882.000.000) 2024-03-06 16:06:50 Image size of job updated: 1
+	4  -  MemoryUsage of job (MB)
+	3864  -  ResidentSetSize of job (KB)
+...
+004 (12994882.000.000) 2024-03-06 16:06:51 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1294     4194304   7463013 
+	   Memory (MB)          :     4        8192      8192 
+	   TimeExecute (s)      :   510                       
+	   TimeSlotBusy (s)     :   515                       
+...
