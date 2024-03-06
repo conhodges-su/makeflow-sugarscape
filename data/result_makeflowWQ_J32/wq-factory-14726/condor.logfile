@@ -18785,3 +18785,207 @@
 	   TimeExecute (s)      :   510                       
 	   TimeSlotBusy (s)     :   515                       
 ...
+006 (12994952.000.000) 2024-03-06 16:08:26 Image size of job updated: 1947324
+	54  -  MemoryUsage of job (MB)
+	54460  -  ResidentSetSize of job (KB)
+...
+040 (12994952.000.000) 2024-03-06 16:08:26 Started transferring output files
+...
+040 (12994952.000.000) 2024-03-06 16:08:26 Finished transferring output files
+...
+005 (12994952.000.000) 2024-03-06 16:08:26 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10780  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10780  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   4910539 
+	   Memory (MB)          :       54     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      305                    
+
+	Job terminated of its own accord at 2024-03-06T22:08:26Z with exit-code 0.
+...
+006 (12994950.000.000) 2024-03-06 16:08:26 Image size of job updated: 1947580
+	49  -  MemoryUsage of job (MB)
+	50000  -  ResidentSetSize of job (KB)
+...
+040 (12994950.000.000) 2024-03-06 16:08:26 Started transferring output files
+...
+040 (12994950.000.000) 2024-03-06 16:08:26 Finished transferring output files
+...
+005 (12994950.000.000) 2024-03-06 16:08:26 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10780  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10780  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1305     4194304   4419803 
+	   Memory (MB)          :    49        8192      8192 
+	   TimeExecute (s)      :   303                       
+	   TimeSlotBusy (s)     :   305                       
+
+	Job terminated of its own accord at 2024-03-06T22:08:26Z with exit-code 0.
+...
+006 (12994949.000.000) 2024-03-06 16:08:30 Image size of job updated: 1815936
+	30  -  MemoryUsage of job (MB)
+	29948  -  ResidentSetSize of job (KB)
+...
+040 (12994949.000.000) 2024-03-06 16:08:30 Started transferring output files
+...
+040 (12994949.000.000) 2024-03-06 16:08:30 Finished transferring output files
+...
+040 (12994951.000.000) 2024-03-06 16:08:31 Started transferring output files
+...
+040 (12994951.000.000) 2024-03-06 16:08:31 Finished transferring output files
+...
+005 (12994951.000.000) 2024-03-06 16:08:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10778  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10778  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1307     4194304  15224400 
+	   Memory (MB)          :    59        8192      8192 
+	   TimeExecute (s)      :   306                       
+	   TimeSlotBusy (s)     :   310                       
+
+	Job terminated of its own accord at 2024-03-06T22:08:30Z with exit-code 0.
+...
+005 (12994949.000.000) 2024-03-06 16:08:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   5142865 
+	   Memory (MB)          :       30     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      310                    
+
+	Job terminated of its own accord at 2024-03-06T22:08:30Z with exit-code 0.
+...
+000 (12995101.000.000) 2024-03-06 16:09:13 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (12995102.000.000) 2024-03-06 16:09:13 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (12995103.000.000) 2024-03-06 16:09:13 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (12995104.000.000) 2024-03-06 16:09:13 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+009 (12995101.000.000) 2024-03-06 16:09:54 Job was aborted.
+	via condor_rm (by user sunrise1001)
+...
+009 (12995102.000.000) 2024-03-06 16:09:54 Job was aborted.
+	via condor_rm (by user sunrise1001)
+...
+009 (12995103.000.000) 2024-03-06 16:09:54 Job was aborted.
+	via condor_rm (by user sunrise1001)
+...
+009 (12995104.000.000) 2024-03-06 16:09:54 Job was aborted.
+	via condor_rm (by user sunrise1001)
+...
+004 (12995057.000.000) 2024-03-06 16:09:54 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     1279  4194304   4293491 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      204                    
+	   TimeSlotBusy (s)     :      206                    
+...
+009 (12995057.000.000) 2024-03-06 16:09:55 Job was aborted.
+	via condor_rm (by user sunrise1001)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_59189> on <192.170.231.142:31351> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_2023810_fa33_2> at 2024-03-06T22:09:54Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (12995059.000.000) 2024-03-06 16:09:55 Image size of job updated: 1814136
+	32  -  MemoryUsage of job (MB)
+	32188  -  ResidentSetSize of job (KB)
+...
+006 (12995060.000.000) 2024-03-06 16:09:55 Image size of job updated: 1879928
+	31  -  MemoryUsage of job (MB)
+	31240  -  ResidentSetSize of job (KB)
+...
+004 (12995059.000.000) 2024-03-06 16:09:55 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1302     4194304   4739937 
+	   Memory (MB)          :    32        8192      8192 
+	   TimeExecute (s)      :   206                       
+	   TimeSlotBusy (s)     :   208                       
+...
+009 (12995059.000.000) 2024-03-06 16:09:55 Job was aborted.
+	via condor_rm (by user sunrise1001)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_59187> on <192.170.231.142:7787> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_2023773_e851_2> at 2024-03-06T22:09:54Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (12995060.000.000) 2024-03-06 16:09:55 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1302  4194304   4822204 
+	   Memory (MB)          :       31     8192      8192 
+	   TimeExecute (s)      :      206                    
+	   TimeSlotBusy (s)     :      208                    
+...
+009 (12995060.000.000) 2024-03-06 16:09:55 Job was aborted.
+	via condor_rm (by user sunrise1001)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_59186> on <192.170.231.142:14619> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_2023772_33f1_2> at 2024-03-06T22:09:54Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (12995058.000.000) 2024-03-06 16:09:58 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304  15285405 
+	   Memory (MB)          :       49     8192      8192 
+	   TimeExecute (s)      :      208                    
+	   TimeSlotBusy (s)     :      211                    
+...
+009 (12995058.000.000) 2024-03-06 16:09:58 Job was aborted.
+	via condor_rm (by user sunrise1001)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_59188> on <192.170.231.142:3671> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_2023806_28b2_2> at 2024-03-06T22:09:58Z (using method 1: DEACTIVATE_CLAIM).
+...
