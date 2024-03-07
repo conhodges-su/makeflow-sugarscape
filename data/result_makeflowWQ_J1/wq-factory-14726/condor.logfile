@@ -1,0 +1,1019 @@
+000 (12982193.000.000) 2024-03-05 16:49:45 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12982193.000.000) 2024-03-05 16:52:56 Started transferring input files
+	Transferring to host: <172.16.1.24:34667?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14123406%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3595417&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-34667&alias=chpc-compute024.cm.cluster&noUDP>
+...
+040 (12982193.000.000) 2024-03-05 16:52:57 Finished transferring input files
+...
+021 (12982193.000.000) 2024-03-05 16:52:59 Message from starter on slot1_4@glidein_1443281_147006900@chpc-compute024.cm.cluster:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12982193.000.000) 2024-03-05 16:52:59 Job executing on host: <172.16.1.24:33925?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14067833%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3533878&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-33925&alias=chpc-compute024.cm.cluster&noUDP>
+	SlotName: slot1_4@chpc-compute024.cm.cluster
+	CondorScratchDir = "/tmp/glide_ZKMwab/execute/dir_3755051"
+	Cpus = 1
+	Disk = 15246307
+	GLIDEIN_ResourceName = "Alabama-CHPC-CE1"
+	Memory = 8192
+...
+006 (12982193.000.000) 2024-03-05 16:53:09 Image size of job updated: 66540
+	6  -  MemoryUsage of job (MB)
+	5836  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 16:58:09 Image size of job updated: 3204544
+	746  -  MemoryUsage of job (MB)
+	763064  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:03:10 Image size of job updated: 4507436
+	2015  -  MemoryUsage of job (MB)
+	2063188  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:08:11 Image size of job updated: 5880844
+	3356  -  MemoryUsage of job (MB)
+	3435904  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:13:11 Image size of job updated: 7197620
+	4642  -  MemoryUsage of job (MB)
+	4752500  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:18:12 Image size of job updated: 8550412
+	5962  -  MemoryUsage of job (MB)
+	6105040  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:23:12 Image size of job updated: 9851952
+	7233  -  MemoryUsage of job (MB)
+	7406452  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:28:12 Image size of job updated: 11129752
+	8481  -  MemoryUsage of job (MB)
+	8683920  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:33:13 Image size of job updated: 12305848
+	9629  -  MemoryUsage of job (MB)
+	9860012  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:38:13 Image size of job updated: 13563140
+	10860  -  MemoryUsage of job (MB)
+	11120556  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:43:14 Image size of job updated: 14799732
+	12067  -  MemoryUsage of job (MB)
+	12356516  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:48:14 Image size of job updated: 16073160
+	13311  -  MemoryUsage of job (MB)
+	13629760  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-05 17:53:15 Image size of job updated: 16970736
+	13311  -  MemoryUsage of job (MB)
+	13629760  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-06 05:09:27 Image size of job updated: 16970736
+	14141  -  MemoryUsage of job (MB)
+	14479900  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-06 05:14:28 Image size of job updated: 18300188
+	15512  -  MemoryUsage of job (MB)
+	15884036  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-06 05:19:29 Image size of job updated: 19667404
+	16846  -  MemoryUsage of job (MB)
+	17250216  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-06 05:24:29 Image size of job updated: 19761380
+	16846  -  MemoryUsage of job (MB)
+	17250216  -  ResidentSetSize of job (KB)
+...
+006 (12982193.000.000) 2024-03-06 08:24:48 Image size of job updated: 19761380
+	16893  -  MemoryUsage of job (MB)
+	17297428  -  ResidentSetSize of job (KB)
+...
+040 (12982193.000.000) 2024-03-06 11:03:23 Started transferring output files
+...
+040 (12982193.000.000) 2024-03-06 11:03:24 Finished transferring output files
+...
+005 (12982193.000.000) 2024-03-06 11:03:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 16:56:59, Sys 0 00:13:26  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 16:56:59, Sys 0 00:13:26  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1027674  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	1027674  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :    12375  4194304  15246307 
+	   Memory (MB)          :    16893     8192      8192 
+	   TimeExecute (s)      :    65424                    
+	   TimeSlotBusy (s)     :    65428                    
+
+	Job terminated of its own accord at 2024-03-06T17:03:23Z with exit-code 0.
+...
+000 (12989650.000.000) 2024-03-06 11:04:15 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12989650.000.000) 2024-03-06 11:06:56 Started transferring input files
+	Transferring to host: <192.168.247.26:41073?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35731668%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3633111&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-41073+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-41073&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+...
+040 (12989650.000.000) 2024-03-06 11:06:56 Finished transferring input files
+...
+021 (12989650.000.000) 2024-03-06 11:06:58 Message from starter on slot1_2@glidein_3172170_325034628@mendel-b0002.mendel.sdmz.amnh.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12989650.000.000) 2024-03-06 11:06:58 Job executing on host: <192.168.247.26:37433?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35661164%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3562338&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-37433+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-37433&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+	SlotName: slot1_2@mendel-b0002.mendel.sdmz.amnh.org
+	CondorScratchDir = "/scratch_space/glide_WEhdmX/execute/dir_3695049"
+	Cpus = 1
+	Disk = 5305350
+	GLIDEIN_ResourceName = "AMNH-Mendel-CE1"
+	Memory = 8192
+...
+006 (12989650.000.000) 2024-03-06 11:07:07 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5676  -  ResidentSetSize of job (KB)
+...
+006 (12989650.000.000) 2024-03-06 11:12:08 Image size of job updated: 2484944
+	48  -  MemoryUsage of job (MB)
+	48628  -  ResidentSetSize of job (KB)
+...
+040 (12989650.000.000) 2024-03-06 11:13:34 Started transferring output files
+...
+040 (12989650.000.000) 2024-03-06 11:13:34 Finished transferring output files
+...
+005 (12989650.000.000) 2024-03-06 11:13:35 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7934  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	7934  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1303  4194304   5305350 
+	   Memory (MB)          :       48     8192      8192 
+	   TimeExecute (s)      :      396                    
+	   TimeSlotBusy (s)     :      398                    
+
+	Job terminated of its own accord at 2024-03-06T17:13:34Z with exit-code 0.
+...
+000 (12989771.000.000) 2024-03-06 11:14:08 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12989771.000.000) 2024-03-06 11:14:09 Started transferring input files
+	Transferring to host: <192.168.247.26:39473?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14165528%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3637342&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-39473+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-39473&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+...
+040 (12989771.000.000) 2024-03-06 11:14:09 Finished transferring input files
+...
+021 (12989771.000.000) 2024-03-06 11:14:10 Message from starter on slot1_2@glidein_3172170_325034628@mendel-b0002.mendel.sdmz.amnh.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12989771.000.000) 2024-03-06 11:14:10 Job executing on host: <192.168.247.26:37433?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35661164%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3562338&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-37433+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-37433&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+	SlotName: slot1_2@mendel-b0002.mendel.sdmz.amnh.org
+	CondorScratchDir = "/scratch_space/glide_WEhdmX/execute/dir_3740412"
+	Cpus = 1
+	Disk = 5305350
+	GLIDEIN_ResourceName = "AMNH-Mendel-CE1"
+	Memory = 8192
+...
+006 (12989771.000.000) 2024-03-06 11:14:19 Image size of job updated: 2485068
+	50  -  MemoryUsage of job (MB)
+	50480  -  ResidentSetSize of job (KB)
+...
+006 (12989771.000.000) 2024-03-06 11:19:19 Image size of job updated: 2485200
+	50  -  MemoryUsage of job (MB)
+	50480  -  ResidentSetSize of job (KB)
+...
+040 (12989771.000.000) 2024-03-06 11:20:49 Started transferring output files
+...
+040 (12989771.000.000) 2024-03-06 11:20:49 Finished transferring output files
+...
+005 (12989771.000.000) 2024-03-06 11:20:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7934  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	7934  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   5305350 
+	   Memory (MB)          :       50     8192      8192 
+	   TimeExecute (s)      :      398                    
+	   TimeSlotBusy (s)     :      401                    
+
+	Job terminated of its own accord at 2024-03-06T17:20:48Z with exit-code 0.
+...
+000 (12989888.000.000) 2024-03-06 11:21:40 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12989888.000.000) 2024-03-06 11:22:51 Started transferring input files
+	Transferring to host: <192.168.247.26:33311?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14174355%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3632574&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-33311+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-33311&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+...
+040 (12989888.000.000) 2024-03-06 11:22:51 Finished transferring input files
+...
+021 (12989888.000.000) 2024-03-06 11:22:52 Message from starter on slot1_2@glidein_3172170_325034628@mendel-b0002.mendel.sdmz.amnh.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12989888.000.000) 2024-03-06 11:22:52 Job executing on host: <192.168.247.26:37433?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35661164%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3562338&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-37433+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-37433&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+	SlotName: slot1_2@mendel-b0002.mendel.sdmz.amnh.org
+	CondorScratchDir = "/scratch_space/glide_WEhdmX/execute/dir_3798441"
+	Cpus = 1
+	Disk = 5305350
+	GLIDEIN_ResourceName = "AMNH-Mendel-CE1"
+	Memory = 8192
+...
+006 (12989888.000.000) 2024-03-06 11:23:01 Image size of job updated: 2484556
+	56  -  MemoryUsage of job (MB)
+	56376  -  ResidentSetSize of job (KB)
+...
+006 (12989888.000.000) 2024-03-06 11:28:01 Image size of job updated: 2484688
+	56  -  MemoryUsage of job (MB)
+	56724  -  ResidentSetSize of job (KB)
+...
+040 (12989888.000.000) 2024-03-06 11:28:14 Started transferring output files
+...
+040 (12989888.000.000) 2024-03-06 11:28:14 Finished transferring output files
+...
+005 (12989888.000.000) 2024-03-06 11:28:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7775  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	7775  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1303  4194304   5305350 
+	   Memory (MB)          :       56     8192      8192 
+	   TimeExecute (s)      :      322                    
+	   TimeSlotBusy (s)     :      324                    
+
+	Job terminated of its own accord at 2024-03-06T17:28:14Z with exit-code 0.
+...
+000 (12990015.000.000) 2024-03-06 11:29:11 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12990015.000.000) 2024-03-06 11:30:37 Started transferring input files
+	Transferring to host: <192.168.247.26:42735?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14166205%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3635298&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-42735+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-42735&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+...
+040 (12990015.000.000) 2024-03-06 11:30:37 Finished transferring input files
+...
+021 (12990015.000.000) 2024-03-06 11:30:38 Message from starter on slot1_2@glidein_3172170_325034628@mendel-b0002.mendel.sdmz.amnh.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990015.000.000) 2024-03-06 11:30:38 Job executing on host: <192.168.247.26:37433?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35661164%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3562338&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-37433+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-37433&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+	SlotName: slot1_2@mendel-b0002.mendel.sdmz.amnh.org
+	CondorScratchDir = "/scratch_space/glide_WEhdmX/execute/dir_3847864"
+	Cpus = 1
+	Disk = 5305350
+	GLIDEIN_ResourceName = "AMNH-Mendel-CE1"
+	Memory = 8192
+...
+006 (12990015.000.000) 2024-03-06 11:30:47 Image size of job updated: 2413256
+	51  -  MemoryUsage of job (MB)
+	51428  -  ResidentSetSize of job (KB)
+...
+006 (12990015.000.000) 2024-03-06 11:35:42 Image size of job updated: 2413256
+	51  -  MemoryUsage of job (MB)
+	51744  -  ResidentSetSize of job (KB)
+...
+040 (12990015.000.000) 2024-03-06 11:35:42 Started transferring output files
+...
+040 (12990015.000.000) 2024-03-06 11:35:42 Finished transferring output files
+...
+005 (12990015.000.000) 2024-03-06 11:35:42 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1306  4194304   5305350 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-06T17:35:42Z with exit-code 0.
+...
+000 (12990038.000.000) 2024-03-06 11:36:13 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12990038.000.000) 2024-03-06 11:36:14 Started transferring input files
+	Transferring to host: <192.168.247.26:45681?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35714245%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3638584&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-45681+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-45681&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+...
+040 (12990038.000.000) 2024-03-06 11:36:14 Finished transferring input files
+...
+021 (12990038.000.000) 2024-03-06 11:36:16 Message from starter on slot1_2@glidein_3172170_325034628@mendel-b0002.mendel.sdmz.amnh.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990038.000.000) 2024-03-06 11:36:16 Job executing on host: <192.168.247.26:37433?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35661164%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3562338&PrivNet=mendel-b0002.mendel.sdmz.amnh.org&addrs=192.168.247.26-37433+[fde1-53ba-e9a0-de11-72b5-e8ff-fed9-6805]-37433&alias=mendel-b0002.mendel.sdmz.amnh.org&noUDP>
+	SlotName: slot1_2@mendel-b0002.mendel.sdmz.amnh.org
+	CondorScratchDir = "/scratch_space/glide_WEhdmX/execute/dir_3886513"
+	Cpus = 1
+	Disk = 5305350
+	GLIDEIN_ResourceName = "AMNH-Mendel-CE1"
+	Memory = 8192
+...
+006 (12990038.000.000) 2024-03-06 11:36:25 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5672  -  ResidentSetSize of job (KB)
+...
+006 (12990038.000.000) 2024-03-06 11:41:19 Image size of job updated: 2484812
+	54  -  MemoryUsage of job (MB)
+	54788  -  ResidentSetSize of job (KB)
+...
+040 (12990038.000.000) 2024-03-06 11:41:20 Started transferring output files
+...
+040 (12990038.000.000) 2024-03-06 11:41:20 Finished transferring output files
+...
+005 (12990038.000.000) 2024-03-06 11:41:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1306  4194304   5305350 
+	   Memory (MB)          :       54     8192      8192 
+	   TimeExecute (s)      :      303                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-06T17:41:19Z with exit-code 0.
+...
+000 (12990162.000.000) 2024-03-06 11:42:00 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12990162.000.000) 2024-03-06 11:43:22 Started transferring input files
+	Transferring to host: <10.5.191.214:45192?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14166852%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3638987&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-45192&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:43:23 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:43:25 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:43:25 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_15343"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:43:26 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:43:32 Started transferring input files
+	Transferring to host: <10.5.191.214:33684?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35714597%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3637297&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-33684&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:43:33 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:43:35 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:43:35 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_16925"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:43:36 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:43:41 Started transferring input files
+	Transferring to host: <10.5.191.214:44474?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35733228%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3632169&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-44474&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:43:41 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:43:43 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:43:43 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_18333"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:43:44 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:43:50 Started transferring input files
+	Transferring to host: <10.5.191.214:45483?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14175310%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3632175&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-45483&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:43:50 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:43:52 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:43:52 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_18777"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:43:53 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:44:01 Started transferring input files
+	Transferring to host: <10.5.191.214:45065?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35795234%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3631488&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-45065&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:44:02 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:44:04 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:44:04 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_19275"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:44:05 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:46:36 Started transferring input files
+	Transferring to host: <10.5.191.214:35183?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14175433%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3634799&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-35183&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:46:36 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:46:37 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:46:37 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_20897"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:46:39 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:48:19 Started transferring input files
+	Transferring to host: <10.5.191.214:45699?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14194202%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3634889&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-45699&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:48:19 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:48:21 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:48:21 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_22237"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:48:24 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:48:30 Started transferring input files
+	Transferring to host: <10.5.191.214:33998?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14187443%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3637498&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-33998&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:48:30 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:48:32 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:48:32 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_22801"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:48:33 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:48:39 Started transferring input files
+	Transferring to host: <10.5.191.214:32830?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14175531%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3634912&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-32830&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:48:39 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:48:41 Message from starter on slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12990162.000.000) 2024-03-06 11:48:41 Job executing on host: <10.5.191.214:43151?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35652419%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3558086&PrivNet=CRUSH-OSG-C7-10-5-191-214&addrs=10.5.191.214-43151&alias=CRUSH-OSG-C7-10-5-191-214&noUDP>
+	SlotName: slot1_7@CRUSH-OSG-C7-10-5-191-214
+	CondorScratchDir = "/var/lib/condor/execute/dir_36873/glide_OLTF4F/execute/dir_23318"
+	Cpus = 1
+	Disk = 4338623
+	GLIDEIN_ResourceName = "SU-ITS-CE3"
+	Memory = 8192
+...
+007 (12990162.000.000) 2024-03-06 11:48:42 Shadow exception!
+	Error from slot1_7@glidein_36875_184006767@CRUSH-OSG-C7-10-5-191-214: Singularity test failed:open /home/sunrise1001/makeflow-sugarscape/data/RENAMETHEFOLDER/wq-factory-14726: no such file or directory
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+...
+040 (12990162.000.000) 2024-03-06 11:51:52 Started transferring input files
+	Transferring to host: <192.168.4.101:45761?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36577296%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3631809&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-45761&alias=lnxfarm301.colorado.edu&noUDP>
+...
+040 (12990162.000.000) 2024-03-06 11:51:53 Finished transferring input files
+...
+021 (12990162.000.000) 2024-03-06 11:51:54 Message from starter on slot1_3@glidein_8526_85159696@lnxfarm301.colorado.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:9
+...
+001 (12990162.000.000) 2024-03-06 11:51:54 Job executing on host: <192.168.4.101:44944?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14167450%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3614680&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-44944&alias=lnxfarm301.colorado.edu&noUDP>
+	SlotName: slot1_3@lnxfarm301.colorado.edu
+	CondorScratchDir = "/sge-batch/glide_PsyIaq/execute/dir_15171"
+	Cpus = 1
+	Disk = 4410443
+	GLIDEIN_ResourceName = "UColorado_HEP"
+	Memory = 8192
+...
+006 (12990162.000.000) 2024-03-06 11:52:03 Image size of job updated: 1
+	3  -  MemoryUsage of job (MB)
+	2824  -  ResidentSetSize of job (KB)
+...
+006 (12990162.000.000) 2024-03-06 11:56:58 Image size of job updated: 1728836
+	29  -  MemoryUsage of job (MB)
+	28720  -  ResidentSetSize of job (KB)
+...
+040 (12990162.000.000) 2024-03-06 11:56:59 Started transferring output files
+...
+040 (12990162.000.000) 2024-03-06 11:56:59 Finished transferring output files
+...
+005 (12990162.000.000) 2024-03-06 11:56:59 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	11804100  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1312  4194304   4410443 
+	   Memory (MB)          :       29     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      309                    
+
+	Job terminated of its own accord at 2024-03-06T17:56:58Z with exit-code 0.
+...
+000 (12990230.000.000) 2024-03-06 11:57:43 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12990230.000.000) 2024-03-06 12:00:16 Started transferring input files
+	Transferring to host: <192.168.4.101:41605?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14188078%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3633063&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-41605&alias=lnxfarm301.colorado.edu&noUDP>
+...
+040 (12990230.000.000) 2024-03-06 12:00:17 Finished transferring input files
+...
+021 (12990230.000.000) 2024-03-06 12:00:18 Message from starter on slot1_3@glidein_8526_85159696@lnxfarm301.colorado.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:9
+...
+001 (12990230.000.000) 2024-03-06 12:00:18 Job executing on host: <192.168.4.101:44944?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14167450%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3614680&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-44944&alias=lnxfarm301.colorado.edu&noUDP>
+	SlotName: slot1_3@lnxfarm301.colorado.edu
+	CondorScratchDir = "/sge-batch/glide_PsyIaq/execute/dir_19574"
+	Cpus = 1
+	Disk = 4410443
+	GLIDEIN_ResourceName = "UColorado_HEP"
+	Memory = 8192
+...
+006 (12990230.000.000) 2024-03-06 12:00:27 Image size of job updated: 1794240
+	28  -  MemoryUsage of job (MB)
+	28148  -  ResidentSetSize of job (KB)
+...
+006 (12990230.000.000) 2024-03-06 12:05:22 Image size of job updated: 1794240
+	28  -  MemoryUsage of job (MB)
+	28412  -  ResidentSetSize of job (KB)
+...
+040 (12990230.000.000) 2024-03-06 12:05:23 Started transferring output files
+...
+040 (12990230.000.000) 2024-03-06 12:05:23 Finished transferring output files
+...
+005 (12990230.000.000) 2024-03-06 12:05:23 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.08        1         1 
+	   Disk (KB)            :  1304     4194304   4410443 
+	   Memory (MB)          :    28        8192      8192 
+	   TimeExecute (s)      :   304                       
+	   TimeSlotBusy (s)     :   309                       
+
+	Job terminated of its own accord at 2024-03-06T18:05:22Z with exit-code 0.
+...
+000 (12990371.000.000) 2024-03-06 12:05:54 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12990371.000.000) 2024-03-06 12:08:01 Started transferring input files
+	Transferring to host: <192.168.4.101:44431?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14168311%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3637332&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-44431&alias=lnxfarm301.colorado.edu&noUDP>
+...
+040 (12990371.000.000) 2024-03-06 12:08:01 Finished transferring input files
+...
+021 (12990371.000.000) 2024-03-06 12:08:03 Message from starter on slot1_3@glidein_8526_85159696@lnxfarm301.colorado.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:9
+...
+001 (12990371.000.000) 2024-03-06 12:08:03 Job executing on host: <192.168.4.101:44944?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14167450%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3614680&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-44944&alias=lnxfarm301.colorado.edu&noUDP>
+	SlotName: slot1_3@lnxfarm301.colorado.edu
+	CondorScratchDir = "/sge-batch/glide_PsyIaq/execute/dir_24691"
+	Cpus = 1
+	Disk = 4410443
+	GLIDEIN_ResourceName = "UColorado_HEP"
+	Memory = 8192
+...
+006 (12990371.000.000) 2024-03-06 12:08:11 Image size of job updated: 1794240
+	29  -  MemoryUsage of job (MB)
+	28868  -  ResidentSetSize of job (KB)
+...
+006 (12990371.000.000) 2024-03-06 12:13:06 Image size of job updated: 1794372
+	29  -  MemoryUsage of job (MB)
+	28868  -  ResidentSetSize of job (KB)
+...
+040 (12990371.000.000) 2024-03-06 12:13:07 Started transferring output files
+...
+040 (12990371.000.000) 2024-03-06 12:13:07 Finished transferring output files
+...
+005 (12990371.000.000) 2024-03-06 12:13:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   4410443 
+	   Memory (MB)          :       29     8192      8192 
+	   TimeExecute (s)      :      303                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-06T18:13:06Z with exit-code 0.
+...
+000 (12990622.000.000) 2024-03-06 12:14:01 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12990622.000.000) 2024-03-06 12:16:33 Started transferring input files
+	Transferring to host: <192.168.4.101:40920?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14177146%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3635164&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-40920&alias=lnxfarm301.colorado.edu&noUDP>
+...
+040 (12990622.000.000) 2024-03-06 12:16:34 Finished transferring input files
+...
+021 (12990622.000.000) 2024-03-06 12:16:36 Message from starter on slot1_3@glidein_8526_85159696@lnxfarm301.colorado.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:9
+...
+001 (12990622.000.000) 2024-03-06 12:16:36 Job executing on host: <192.168.4.101:44944?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14167450%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3614680&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-44944&alias=lnxfarm301.colorado.edu&noUDP>
+	SlotName: slot1_3@lnxfarm301.colorado.edu
+	CondorScratchDir = "/sge-batch/glide_PsyIaq/execute/dir_29150"
+	Cpus = 1
+	Disk = 4410443
+	GLIDEIN_ResourceName = "UColorado_HEP"
+	Memory = 8192
+...
+006 (12990622.000.000) 2024-03-06 12:16:44 Image size of job updated: 1726652
+	28  -  MemoryUsage of job (MB)
+	28476  -  ResidentSetSize of job (KB)
+...
+040 (12990622.000.000) 2024-03-06 12:21:40 Started transferring output files
+...
+040 (12990622.000.000) 2024-03-06 12:21:40 Finished transferring output files
+...
+005 (12990622.000.000) 2024-03-06 12:21:41 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   4410443 
+	   Memory (MB)          :       28     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      309                    
+
+	Job terminated of its own accord at 2024-03-06T18:21:40Z with exit-code 0.
+...
+000 (12990768.000.000) 2024-03-06 12:22:11 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12990768.000.000) 2024-03-06 12:22:14 Started transferring input files
+	Transferring to host: <192.168.4.101:34647?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35735267%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3639304&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-34647&alias=lnxfarm301.colorado.edu&noUDP>
+...
+040 (12990768.000.000) 2024-03-06 12:22:15 Finished transferring input files
+...
+021 (12990768.000.000) 2024-03-06 12:22:16 Message from starter on slot1_3@glidein_8526_85159696@lnxfarm301.colorado.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:9
+...
+001 (12990768.000.000) 2024-03-06 12:22:16 Job executing on host: <192.168.4.101:44944?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14167450%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3614680&PrivNet=lnxfarm301.colorado.edu&addrs=192.168.4.101-44944&alias=lnxfarm301.colorado.edu&noUDP>
+	SlotName: slot1_3@lnxfarm301.colorado.edu
+	CondorScratchDir = "/sge-batch/glide_PsyIaq/execute/dir_31317"
+	Cpus = 1
+	Disk = 4410443
+	GLIDEIN_ResourceName = "UColorado_HEP"
+	Memory = 8192
+...
+006 (12990768.000.000) 2024-03-06 12:22:25 Image size of job updated: 1661116
+	28  -  MemoryUsage of job (MB)
+	28600  -  ResidentSetSize of job (KB)
+...
+040 (12990768.000.000) 2024-03-06 12:27:20 Started transferring output files
+...
+040 (12990768.000.000) 2024-03-06 12:27:21 Finished transferring output files
+...
+005 (12990768.000.000) 2024-03-06 12:27:21 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   4410443 
+	   Memory (MB)          :       28     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      309                    
+
+	Job terminated of its own accord at 2024-03-06T18:27:20Z with exit-code 0.
+...
+000 (12991002.000.000) 2024-03-06 12:27:58 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12991002.000.000) 2024-03-06 12:30:12 Started transferring input files
+	Transferring to host: <172.18.89.168:41527?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36579477%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3641244&PrivNet=a414.anvil.rcac.purdue.edu&addrs=172.18.89.168-41527&alias=a414.anvil.rcac.purdue.edu&noUDP>
+...
+040 (12991002.000.000) 2024-03-06 12:30:12 Finished transferring input files
+...
+021 (12991002.000.000) 2024-03-06 12:30:13 Message from starter on slot1_51@glidein_478606_371909560@a414.anvil.rcac.purdue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_q7CAsR/images/htc__rocky__8.sif
+...
+001 (12991002.000.000) 2024-03-06 12:30:14 Job executing on host: <172.18.89.168:45079?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14141758%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3585623&PrivNet=a414.anvil.rcac.purdue.edu&addrs=172.18.89.168-45079&alias=a414.anvil.rcac.purdue.edu&noUDP>
+	SlotName: slot1_51@a414.anvil.rcac.purdue.edu
+	CondorScratchDir = "/tmp/glide_q7CAsR/execute/dir_442747"
+	Cpus = 1
+	Disk = 4732169
+	GLIDEIN_ResourceName = "Purdue-Anvil-CE1"
+	Memory = 8192
+...
+006 (12991002.000.000) 2024-03-06 12:30:23 Image size of job updated: 2694520
+	54  -  MemoryUsage of job (MB)
+	55268  -  ResidentSetSize of job (KB)
+...
+006 (12991002.000.000) 2024-03-06 12:35:18 Image size of job updated: 2694584
+	54  -  MemoryUsage of job (MB)
+	55268  -  ResidentSetSize of job (KB)
+...
+040 (12991002.000.000) 2024-03-06 12:35:18 Started transferring output files
+...
+040 (12991002.000.000) 2024-03-06 12:35:18 Finished transferring output files
+...
+005 (12991002.000.000) 2024-03-06 12:35:18 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10782  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10782  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1318  4194304   4732169 
+	   Memory (MB)          :       54     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-06T18:35:18Z with exit-code 0.
+...
+000 (12991142.000.000) 2024-03-06 12:36:05 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12991142.000.000) 2024-03-06 12:37:14 Started transferring input files
+	Transferring to host: <172.18.89.168:34603?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35729969%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3638731&PrivNet=a414.anvil.rcac.purdue.edu&addrs=172.18.89.168-34603&alias=a414.anvil.rcac.purdue.edu&noUDP>
+...
+040 (12991142.000.000) 2024-03-06 12:37:14 Finished transferring input files
+...
+021 (12991142.000.000) 2024-03-06 12:37:16 Message from starter on slot1_51@glidein_478606_371909560@a414.anvil.rcac.purdue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_q7CAsR/images/htc__rocky__8.sif
+...
+001 (12991142.000.000) 2024-03-06 12:37:16 Job executing on host: <172.18.89.168:45079?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14141758%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3585623&PrivNet=a414.anvil.rcac.purdue.edu&addrs=172.18.89.168-45079&alias=a414.anvil.rcac.purdue.edu&noUDP>
+	SlotName: slot1_51@a414.anvil.rcac.purdue.edu
+	CondorScratchDir = "/tmp/glide_q7CAsR/execute/dir_458760"
+	Cpus = 1
+	Disk = 4732169
+	GLIDEIN_ResourceName = "Purdue-Anvil-CE1"
+	Memory = 8192
+...
+006 (12991142.000.000) 2024-03-06 12:37:25 Image size of job updated: 2831632
+	53  -  MemoryUsage of job (MB)
+	54204  -  ResidentSetSize of job (KB)
+...
+006 (12991142.000.000) 2024-03-06 12:42:20 Image size of job updated: 2831828
+	53  -  MemoryUsage of job (MB)
+	54204  -  ResidentSetSize of job (KB)
+...
+040 (12991142.000.000) 2024-03-06 12:42:20 Started transferring output files
+...
+040 (12991142.000.000) 2024-03-06 12:42:20 Finished transferring output files
+...
+005 (12991142.000.000) 2024-03-06 12:42:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10782  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10782  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1317  4194304   4732169 
+	   Memory (MB)          :       53     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-06T18:42:20Z with exit-code 0.
+...
+000 (12991281.000.000) 2024-03-06 12:43:01 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12991281.000.000) 2024-03-06 12:45:31 Started transferring input files
+	Transferring to host: <192.168.247.12:44383?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36580207%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3639201&PrivNet=mendel-c0012.mendel.sdmz.amnh.org&addrs=192.168.247.12-44383+[fde1-53ba-e9a0-de11-6e2b-59ff-feb1-497c]-44383&alias=mendel-c0012.mendel.sdmz.amnh.org&noUDP>
+...
+040 (12991281.000.000) 2024-03-06 12:45:31 Finished transferring input files
+...
+021 (12991281.000.000) 2024-03-06 12:45:33 Message from starter on slot1_6@glidein_835869_205083718@mendel-c0012.mendel.sdmz.amnh.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/ubuntu:22.04
+...
+001 (12991281.000.000) 2024-03-06 12:45:33 Job executing on host: <192.168.247.12:35899?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14179910%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3626277&PrivNet=mendel-c0012.mendel.sdmz.amnh.org&addrs=192.168.247.12-35899+[fde1-53ba-e9a0-de11-6e2b-59ff-feb1-497c]-35899&alias=mendel-c0012.mendel.sdmz.amnh.org&noUDP>
+	SlotName: slot1_6@mendel-c0012.mendel.sdmz.amnh.org
+	CondorScratchDir = "/scratch_space/glide_SX3M2B/execute/dir_1043279"
+	Cpus = 1
+	Disk = 4389315
+	GLIDEIN_ResourceName = "AMNH-Mendel-CE1"
+	Memory = 8192
+...
+006 (12991281.000.000) 2024-03-06 12:45:41 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5964  -  ResidentSetSize of job (KB)
+...
+006 (12991281.000.000) 2024-03-06 12:50:36 Image size of job updated: 2455284
+	50  -  MemoryUsage of job (MB)
+	50516  -  ResidentSetSize of job (KB)
+...
+040 (12991281.000.000) 2024-03-06 12:50:36 Started transferring output files
+...
+040 (12991281.000.000) 2024-03-06 12:50:36 Finished transferring output files
+...
+005 (12991281.000.000) 2024-03-06 12:50:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10779  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10779  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1306  4194304   4389315 
+	   Memory (MB)          :       50     8192      8192 
+	   TimeExecute (s)      :      303                    
+	   TimeSlotBusy (s)     :      305                    
+
+	Job terminated of its own accord at 2024-03-06T18:50:36Z with exit-code 0.
+...
+000 (12991327.000.000) 2024-03-06 12:51:08 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12991327.000.000) 2024-03-06 12:52:21 Started transferring input files
+	Transferring to host: <172.19.0.2:44193?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14197744%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3642758&PrivNet=osg-1369778.0-red-c5311.unl.edu&addrs=172.19.0.2-44193&alias=osg-1369778.0-red-c5311.unl.edu&noUDP>
+...
+040 (12991327.000.000) 2024-03-06 12:52:21 Finished transferring input files
+...
+021 (12991327.000.000) 2024-03-06 12:52:22 Message from starter on slot1_19@glidein_7_461071308@osg-1369778.0-red-c5311.unl.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12991327.000.000) 2024-03-06 12:52:22 Job executing on host: <172.19.0.2:34249?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14177417%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3615880&PrivNet=osg-1369778.0-red-c5311.unl.edu&addrs=172.19.0.2-34249&alias=osg-1369778.0-red-c5311.unl.edu&noUDP>
+	SlotName: slot1_19@osg-1369778.0-red-c5311.unl.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_1737117/glide_JiQr6f/execute/dir_347470"
+	Cpus = 1
+	Disk = 5471537
+	GLIDEIN_ResourceName = "Nebraska"
+	Memory = 8192
+...
+006 (12991327.000.000) 2024-03-06 12:52:31 Image size of job updated: 1
+	9  -  MemoryUsage of job (MB)
+	8228  -  ResidentSetSize of job (KB)
+...
+006 (12991327.000.000) 2024-03-06 12:57:26 Image size of job updated: 1949004
+	45  -  MemoryUsage of job (MB)
+	45552  -  ResidentSetSize of job (KB)
+...
+040 (12991327.000.000) 2024-03-06 12:57:31 Started transferring output files
+...
+040 (12991327.000.000) 2024-03-06 12:57:31 Finished transferring output files
+...
+005 (12991327.000.000) 2024-03-06 12:57:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10780  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	10780  -  Total Bytes Sent By Job
+	1180410  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1313     4194304   5471537 
+	   Memory (MB)          :    45        8192      8192 
+	   TimeExecute (s)      :   304                       
+	   TimeSlotBusy (s)     :   312                       
+
+	Job terminated of its own accord at 2024-03-06T18:57:26Z with exit-code 0.
+...
+000 (12991465.000.000) 2024-03-06 12:58:05 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (12991465.000.000) 2024-03-06 12:58:08 Started transferring input files
+	Transferring to host: <172.19.0.2:36729?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36580797%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3636308&PrivNet=osg-1369778.0-red-c5311.unl.edu&addrs=172.19.0.2-36729&alias=osg-1369778.0-red-c5311.unl.edu&noUDP>
+...
+040 (12991465.000.000) 2024-03-06 12:58:08 Finished transferring input files
+...
+021 (12991465.000.000) 2024-03-06 12:58:09 Message from starter on slot1_19@glidein_7_461071308@osg-1369778.0-red-c5311.unl.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (12991465.000.000) 2024-03-06 12:58:09 Job executing on host: <172.19.0.2:34249?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14177417%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3615880&PrivNet=osg-1369778.0-red-c5311.unl.edu&addrs=172.19.0.2-34249&alias=osg-1369778.0-red-c5311.unl.edu&noUDP>
+	SlotName: slot1_19@osg-1369778.0-red-c5311.unl.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_1737117/glide_JiQr6f/execute/dir_350507"
+	Cpus = 1
+	Disk = 5471537
+	GLIDEIN_ResourceName = "Nebraska"
+	Memory = 8192
+...
+006 (12991465.000.000) 2024-03-06 12:58:18 Image size of job updated: 1
+	8  -  MemoryUsage of job (MB)
+	8180  -  ResidentSetSize of job (KB)
+...
+006 (12991465.000.000) 2024-03-06 13:01:41 Image size of job updated: 1878724
+	47  -  MemoryUsage of job (MB)
+	47968  -  ResidentSetSize of job (KB)
+...
+004 (12991465.000.000) 2024-03-06 13:01:41 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1180410  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1311  4194304   5471537 
+	   Memory (MB)          :       47     8192      8192 
+	   TimeExecute (s)      :      212                    
+	   TimeSlotBusy (s)     :      216                    
+...

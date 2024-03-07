@@ -5,15 +5,11 @@ PLOTCHECK = plots/plots.complete
 LOCALMAKECHECK = data/local.complete
 REMOTEMAKECHECK = data/remote.complete
 OUTPUTFOLDER = data/RENAMETHEFOLDER
-HOST = ap21.uc.osg-htc.org
-PORT = 1024
 
 LOCALDATASET = $(LOCALMAKECHECK) \
-				data/*.json \
 				data/*makeflowlog
 
 REMOTEDATASET = $(REMOTEMAKECHECK) \
-		data/*.json \
 		data/*.sh \
 		data/*makeflowlog \
 		data/*.condor* \
