@@ -59139,3 +59139,2887 @@
 	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
 	Memory = 8192
 ...
+040 (13005853.000.000) 2024-03-07 00:17:36 Started transferring input files
+	Transferring to host: <137.99.174.19:36175?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14215640%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3662960&PrivNet=cn425.storrs.hpc.uconn.edu&addrs=137.99.174.19-36175&alias=cn425.storrs.hpc.uconn.edu&noUDP>
+...
+040 (13005853.000.000) 2024-03-07 00:17:37 Finished transferring input files
+...
+021 (13005853.000.000) 2024-03-07 00:17:38 Message from starter on slot1_1@glidein_3261492_569506350@cn425.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005853.000.000) 2024-03-07 00:17:38 Job executing on host: <137.99.174.19:35327?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35719453%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3642128&PrivNet=cn425.storrs.hpc.uconn.edu&addrs=137.99.174.19-35327&alias=cn425.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_1@cn425.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6197472/glide_EBG8cg/execute/dir_924188"
+	Cpus = 1
+	Disk = 5496021
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+006 (13005851.000.000) 2024-03-07 00:17:41 Image size of job updated: 2488432
+	50  -  MemoryUsage of job (MB)
+	50388  -  ResidentSetSize of job (KB)
+...
+006 (13005852.000.000) 2024-03-07 00:17:41 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5544  -  ResidentSetSize of job (KB)
+...
+040 (13005854.000.000) 2024-03-07 00:17:42 Started transferring input files
+	Transferring to host: <149.165.224.125:44961?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822183%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3659145&PrivNet=iut2-c425.iu.edu&addrs=149.165.224.125-44961+[2001-18e8-c02-5-1623-f2ff-fe4f-1770]-44961&alias=iut2-c425.iu.edu&noUDP>
+...
+040 (13005854.000.000) 2024-03-07 00:17:42 Finished transferring input files
+...
+021 (13005854.000.000) 2024-03-07 00:17:43 Message from starter on slot1_1@glidein_16849_896871253@iut2-c425.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/debian:12
+...
+001 (13005854.000.000) 2024-03-07 00:17:43 Job executing on host: <149.165.224.125:40413?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14195805%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3645670&PrivNet=iut2-c425.iu.edu&addrs=149.165.224.125-40413+[2001-18e8-c02-5-1623-f2ff-fe4f-1770]-40413&alias=iut2-c425.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c425.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_15381/glide_Gs0nki/execute/dir_3000359"
+	Cpus = 1
+	Disk = 5007604
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+006 (13005853.000.000) 2024-03-07 00:17:47 Image size of job updated: 2387592
+	56  -  MemoryUsage of job (MB)
+	57028  -  ResidentSetSize of job (KB)
+...
+006 (13005854.000.000) 2024-03-07 00:17:52 Image size of job updated: 2370124
+	60  -  MemoryUsage of job (MB)
+	60832  -  ResidentSetSize of job (KB)
+...
+006 (13005698.000.000) 2024-03-07 00:17:53 Image size of job updated: 1856728
+	51  -  MemoryUsage of job (MB)
+	51940  -  ResidentSetSize of job (KB)
+...
+040 (13005698.000.000) 2024-03-07 00:17:53 Started transferring output files
+...
+040 (13005698.000.000) 2024-03-07 00:17:53 Finished transferring output files
+...
+005 (13005698.000.000) 2024-03-07 00:17:53 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1306  4194304   5328788 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      307                    
+
+	Job terminated of its own accord at 2024-03-07T06:17:53Z with exit-code 0.
+...
+006 (13005700.000.000) 2024-03-07 00:17:59 Image size of job updated: 1748332
+	30  -  MemoryUsage of job (MB)
+	30052  -  ResidentSetSize of job (KB)
+...
+000 (13005858.000.000) 2024-03-07 00:17:59 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005859.000.000) 2024-03-07 00:17:59 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005700.000.000) 2024-03-07 00:17:59 Started transferring output files
+...
+040 (13005700.000.000) 2024-03-07 00:17:59 Finished transferring output files
+...
+005 (13005700.000.000) 2024-03-07 00:18:00 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10909  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10909  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   4528995 
+	   Memory (MB)          :       30     8192      8192 
+	   TimeExecute (s)      :      306                    
+	   TimeSlotBusy (s)     :      312                    
+
+	Job terminated of its own accord at 2024-03-07T06:17:59Z with exit-code 0.
+...
+006 (13005697.000.000) 2024-03-07 00:18:00 Image size of job updated: 2497840
+	56  -  MemoryUsage of job (MB)
+	56604  -  ResidentSetSize of job (KB)
+...
+006 (13005699.000.000) 2024-03-07 00:18:01 Image size of job updated: 2465104
+	48  -  MemoryUsage of job (MB)
+	48768  -  ResidentSetSize of job (KB)
+...
+040 (13005697.000.000) 2024-03-07 00:18:01 Started transferring output files
+...
+040 (13005697.000.000) 2024-03-07 00:18:01 Finished transferring output files
+...
+040 (13005699.000.000) 2024-03-07 00:18:01 Started transferring output files
+...
+040 (13005699.000.000) 2024-03-07 00:18:01 Finished transferring output files
+...
+005 (13005697.000.000) 2024-03-07 00:18:01 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1297     4194304   5122817 
+	   Memory (MB)          :    56        8192      8192 
+	   TimeExecute (s)      :   309                       
+	   TimeSlotBusy (s)     :   315                       
+
+	Job terminated of its own accord at 2024-03-07T06:18:00Z with exit-code 0.
+...
+005 (13005699.000.000) 2024-03-07 00:18:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1297     4194304   4940487 
+	   Memory (MB)          :    48        8192      8192 
+	   TimeExecute (s)      :   309                       
+	   TimeSlotBusy (s)     :   315                       
+
+	Job terminated of its own accord at 2024-03-07T06:18:01Z with exit-code 0.
+...
+040 (13005858.000.000) 2024-03-07 00:18:03 Started transferring input files
+	Transferring to host: <10.226.104.122:41273?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221214%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659094&PrivNet=tempest-epyc022&addrs=10.226.104.122-41273&alias=tempest-epyc022&noUDP>
+...
+040 (13005859.000.000) 2024-03-07 00:18:04 Started transferring input files
+	Transferring to host: <10.226.104.104:37563?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822205%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3659172&PrivNet=tempest-epyc004&addrs=10.226.104.104-37563&alias=tempest-epyc004&noUDP>
+...
+040 (13005858.000.000) 2024-03-07 00:18:04 Finished transferring input files
+...
+040 (13005859.000.000) 2024-03-07 00:18:04 Finished transferring input files
+...
+021 (13005858.000.000) 2024-03-07 00:18:06 Message from starter on slot1_4@glidein_1596775_199699766@tempest-epyc022:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2007988/glide_eTvk6t/images/htc__rocky__8.sif
+...
+001 (13005858.000.000) 2024-03-07 00:18:06 Job executing on host: <10.226.104.122:41983?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35710321%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3611627&PrivNet=tempest-epyc022&addrs=10.226.104.122-41983&alias=tempest-epyc022&noUDP>
+	SlotName: slot1_4@tempest-epyc022
+	CondorScratchDir = "/tmp/jobs/2007988/glide_eTvk6t/execute/dir_210418"
+	Cpus = 1
+	Disk = 5122817
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+021 (13005859.000.000) 2024-03-07 00:18:06 Message from starter on slot1_1@glidein_2707543_315816765@tempest-epyc004:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008211/glide_yQudYB/images/htc__ubuntu__22.04.sif
+...
+001 (13005859.000.000) 2024-03-07 00:18:06 Job executing on host: <10.226.104.104:40289?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35776932%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3614075&PrivNet=tempest-epyc004&addrs=10.226.104.104-40289&alias=tempest-epyc004&noUDP>
+	SlotName: slot1_1@tempest-epyc004
+	CondorScratchDir = "/tmp/jobs/2008211/glide_yQudYB/execute/dir_787384"
+	Cpus = 1
+	Disk = 4940487
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13005859.000.000) 2024-03-07 00:18:15 Image size of job updated: 2465872
+	50  -  MemoryUsage of job (MB)
+	51000  -  ResidentSetSize of job (KB)
+...
+006 (13005858.000.000) 2024-03-07 00:18:16 Image size of job updated: 2494812
+	50  -  MemoryUsage of job (MB)
+	51112  -  ResidentSetSize of job (KB)
+...
+000 (13005962.000.000) 2024-03-07 00:18:34 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005963.000.000) 2024-03-07 00:18:34 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005964.000.000) 2024-03-07 00:18:34 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005965.000.000) 2024-03-07 00:18:34 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005962.000.000) 2024-03-07 00:18:59 Started transferring input files
+	Transferring to host: <137.99.174.24:41367?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35760496%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659166&PrivNet=cn429.storrs.hpc.uconn.edu&addrs=137.99.174.24-41367&alias=cn429.storrs.hpc.uconn.edu&noUDP>
+...
+040 (13005962.000.000) 2024-03-07 00:18:59 Finished transferring input files
+...
+021 (13005962.000.000) 2024-03-07 00:19:01 Message from starter on slot1_4@glidein_2234639_719179968@cn429.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005962.000.000) 2024-03-07 00:19:01 Job executing on host: <137.99.174.24:37805?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35738074%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3643885&PrivNet=cn429.storrs.hpc.uconn.edu&addrs=137.99.174.24-37805&alias=cn429.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_4@cn429.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6197470/glide_gXCpJB/execute/dir_71361"
+	Cpus = 1
+	Disk = 5388006
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+040 (13005963.000.000) 2024-03-07 00:19:02 Started transferring input files
+	Transferring to host: <172.18.91.111:44585?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35760500%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3664387&PrivNet=a869.anvil.rcac.purdue.edu&addrs=172.18.91.111-44585&alias=a869.anvil.rcac.purdue.edu&noUDP>
+...
+040 (13005963.000.000) 2024-03-07 00:19:02 Finished transferring input files
+...
+040 (13005964.000.000) 2024-03-07 00:19:02 Started transferring input files
+	Transferring to host: <172.18.90.166:41489?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822280%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3658633&PrivNet=a668.anvil.rcac.purdue.edu&addrs=172.18.90.166-41489&alias=a668.anvil.rcac.purdue.edu&noUDP>
+...
+040 (13005964.000.000) 2024-03-07 00:19:03 Finished transferring input files
+...
+021 (13005963.000.000) 2024-03-07 00:19:03 Message from starter on slot1_21@glidein_1493169_164195598@a869.anvil.rcac.purdue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_n92mOy/images/htc__rocky__8.sif
+...
+001 (13005963.000.000) 2024-03-07 00:19:03 Job executing on host: <172.18.91.111:43365?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35696307%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3533284&PrivNet=a869.anvil.rcac.purdue.edu&addrs=172.18.91.111-43365&alias=a869.anvil.rcac.purdue.edu&noUDP>
+	SlotName: slot1_21@a869.anvil.rcac.purdue.edu
+	CondorScratchDir = "/tmp/glide_n92mOy/execute/dir_2864266"
+	Cpus = 1
+	Disk = 4732195
+	GLIDEIN_ResourceName = "Purdue-Anvil-CE1"
+	Memory = 8192
+...
+021 (13005964.000.000) 2024-03-07 00:19:04 Message from starter on slot1_4@glidein_2067070_476681088@a668.anvil.rcac.purdue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_to42NH/images/htc__rocky__8.sif
+...
+001 (13005964.000.000) 2024-03-07 00:19:04 Job executing on host: <172.18.90.166:45271?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14089765%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3539982&PrivNet=a668.anvil.rcac.purdue.edu&addrs=172.18.90.166-45271&alias=a668.anvil.rcac.purdue.edu&noUDP>
+	SlotName: slot1_4@a668.anvil.rcac.purdue.edu
+	CondorScratchDir = "/tmp/glide_to42NH/execute/dir_569560"
+	Cpus = 1
+	Disk = 4732198
+	GLIDEIN_ResourceName = "Purdue-Anvil-CE1"
+	Memory = 8192
+...
+006 (13005811.000.000) 2024-03-07 00:19:09 Image size of job updated: 1816492
+	53  -  MemoryUsage of job (MB)
+	54120  -  ResidentSetSize of job (KB)
+...
+040 (13005811.000.000) 2024-03-07 00:19:09 Started transferring output files
+...
+040 (13005811.000.000) 2024-03-07 00:19:09 Finished transferring output files
+...
+005 (13005811.000.000) 2024-03-07 00:19:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1306     4194304   5766286 
+	   Memory (MB)          :    53        8192      8192 
+	   TimeExecute (s)      :   303                       
+	   TimeSlotBusy (s)     :   307                       
+
+	Job terminated of its own accord at 2024-03-07T06:19:09Z with exit-code 0.
+...
+040 (13005965.000.000) 2024-03-07 00:19:09 Started transferring input files
+	Transferring to host: <192.170.241.55:38453?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14194185%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3659259&PrivNet=uct2-c522.mwt2.org&addrs=192.170.241.55-38453+[2605-9a00-10-200a-6a05-caff-feca-ae14]-38453&alias=uct2-c522.mwt2.org&noUDP>
+...
+040 (13005965.000.000) 2024-03-07 00:19:09 Finished transferring input files
+...
+006 (13005962.000.000) 2024-03-07 00:19:10 Image size of job updated: 1
+	4  -  MemoryUsage of job (MB)
+	3616  -  ResidentSetSize of job (KB)
+...
+006 (13005812.000.000) 2024-03-07 00:19:11 Image size of job updated: 2458200
+	58  -  MemoryUsage of job (MB)
+	58812  -  ResidentSetSize of job (KB)
+...
+040 (13005812.000.000) 2024-03-07 00:19:11 Started transferring output files
+...
+040 (13005812.000.000) 2024-03-07 00:19:11 Finished transferring output files
+...
+021 (13005965.000.000) 2024-03-07 00:19:11 Message from starter on slot1_2@glidein_38002_633568080@uct2-c522.mwt2.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005965.000.000) 2024-03-07 00:19:11 Job executing on host: <192.170.241.55:46213?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35738579%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3642551&PrivNet=uct2-c522.mwt2.org&addrs=192.170.241.55-46213+[2605-9a00-10-200a-6a05-caff-feca-ae14]-46213&alias=uct2-c522.mwt2.org&noUDP>
+	SlotName: slot1_2@uct2-c522.mwt2.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_37869/glide_EHYTC2/execute/dir_78579"
+	Cpus = 1
+	Disk = 5766286
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+005 (13005812.000.000) 2024-03-07 00:19:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   7771473 
+	   Memory (MB)          :       58     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      307                    
+
+	Job terminated of its own accord at 2024-03-07T06:19:11Z with exit-code 0.
+...
+006 (13005963.000.000) 2024-03-07 00:19:13 Image size of job updated: 2764080
+	57  -  MemoryUsage of job (MB)
+	58128  -  ResidentSetSize of job (KB)
+...
+006 (13005964.000.000) 2024-03-07 00:19:13 Image size of job updated: 2764152
+	55  -  MemoryUsage of job (MB)
+	56288  -  ResidentSetSize of job (KB)
+...
+006 (13005813.000.000) 2024-03-07 00:19:15 Image size of job updated: 2486644
+	58  -  MemoryUsage of job (MB)
+	58700  -  ResidentSetSize of job (KB)
+...
+040 (13005813.000.000) 2024-03-07 00:19:15 Started transferring output files
+...
+040 (13005813.000.000) 2024-03-07 00:19:15 Finished transferring output files
+...
+005 (13005813.000.000) 2024-03-07 00:19:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10909  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10909  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1307     4194304   4299760 
+	   Memory (MB)          :    58        8192      8192 
+	   TimeExecute (s)      :   306                       
+	   TimeSlotBusy (s)     :   309                       
+
+	Job terminated of its own accord at 2024-03-07T06:19:15Z with exit-code 0.
+...
+006 (13005965.000.000) 2024-03-07 00:19:19 Image size of job updated: 1814120
+	51  -  MemoryUsage of job (MB)
+	51868  -  ResidentSetSize of job (KB)
+...
+006 (13005814.000.000) 2024-03-07 00:19:28 Image size of job updated: 2453908
+	50  -  MemoryUsage of job (MB)
+	50304  -  ResidentSetSize of job (KB)
+...
+040 (13005814.000.000) 2024-03-07 00:19:29 Started transferring output files
+...
+040 (13005814.000.000) 2024-03-07 00:19:29 Finished transferring output files
+...
+005 (13005814.000.000) 2024-03-07 00:19:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10909  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10909  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1307  4194304   4293491 
+	   Memory (MB)          :       50     8192      8192 
+	   TimeExecute (s)      :      306                    
+	   TimeSlotBusy (s)     :      310                    
+
+	Job terminated of its own accord at 2024-03-07T06:19:28Z with exit-code 0.
+...
+000 (13005968.000.000) 2024-03-07 00:19:44 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005969.000.000) 2024-03-07 00:19:45 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005968.000.000) 2024-03-07 00:19:47 Started transferring input files
+	Transferring to host: <10.226.104.122:40349?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14215787%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3663099&PrivNet=tempest-epyc022&addrs=10.226.104.122-40349&alias=tempest-epyc022&noUDP>
+...
+040 (13005968.000.000) 2024-03-07 00:19:47 Finished transferring input files
+...
+006 (13005820.000.000) 2024-03-07 00:19:48 Image size of job updated: 2426448
+	52  -  MemoryUsage of job (MB)
+	52952  -  ResidentSetSize of job (KB)
+...
+040 (13005820.000.000) 2024-03-07 00:19:49 Started transferring output files
+...
+040 (13005820.000.000) 2024-03-07 00:19:49 Finished transferring output files
+...
+005 (13005820.000.000) 2024-03-07 00:19:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10908  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10908  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1308     4194304  15239340 
+	   Memory (MB)          :    52        8192      8192 
+	   TimeExecute (s)      :   306                       
+	   TimeSlotBusy (s)     :   310                       
+
+	Job terminated of its own accord at 2024-03-07T06:19:48Z with exit-code 0.
+...
+021 (13005968.000.000) 2024-03-07 00:19:49 Message from starter on slot1_4@glidein_125456_95010582@tempest-epyc022:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2006490/glide_SuhICe/images/htc__rocky__8.sif
+...
+001 (13005968.000.000) 2024-03-07 00:19:49 Job executing on host: <10.226.104.122:35365?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14153337%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3591588&PrivNet=tempest-epyc022&addrs=10.226.104.122-35365&alias=tempest-epyc022&noUDP>
+	SlotName: slot1_4@tempest-epyc022
+	CondorScratchDir = "/tmp/jobs/2006490/glide_SuhICe/execute/dir_223331"
+	Cpus = 1
+	Disk = 4621635
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13005969.000.000) 2024-03-07 00:19:53 Started transferring input files
+	Transferring to host: <172.16.1.4:44805?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14214648%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3666578&PrivNet=chpc-compute004.cm.cluster&addrs=172.16.1.4-44805&alias=chpc-compute004.cm.cluster&noUDP>
+...
+040 (13005969.000.000) 2024-03-07 00:19:53 Finished transferring input files
+...
+021 (13005969.000.000) 2024-03-07 00:19:55 Message from starter on slot1_4@glidein_2182077_27580040@chpc-compute004.cm.cluster:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005969.000.000) 2024-03-07 00:19:55 Job executing on host: <172.16.1.4:41943?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36478620%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3533701&PrivNet=chpc-compute004.cm.cluster&addrs=172.16.1.4-41943&alias=chpc-compute004.cm.cluster&noUDP>
+	SlotName: slot1_4@chpc-compute004.cm.cluster
+	CondorScratchDir = "/tmp/glide_04XFya/execute/dir_1218341"
+	Cpus = 1
+	Disk = 15239340
+	GLIDEIN_ResourceName = "Alabama-CHPC-CE1"
+	Memory = 8192
+...
+006 (13005968.000.000) 2024-03-07 00:19:58 Image size of job updated: 2350376
+	53  -  MemoryUsage of job (MB)
+	54156  -  ResidentSetSize of job (KB)
+...
+006 (13005969.000.000) 2024-03-07 00:20:04 Image size of job updated: 2426192
+	55  -  MemoryUsage of job (MB)
+	55596  -  ResidentSetSize of job (KB)
+...
+040 (13005829.000.000) 2024-03-07 00:20:13 Started transferring output files
+...
+040 (13005829.000.000) 2024-03-07 00:20:13 Finished transferring output files
+...
+005 (13005829.000.000) 2024-03-07 00:20:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10909  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10909  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5068851 
+	   Memory (MB)          :       31     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      307                    
+
+	Job terminated of its own accord at 2024-03-07T06:20:13Z with exit-code 0.
+...
+006 (13005827.000.000) 2024-03-07 00:20:14 Image size of job updated: 2688552
+	65  -  MemoryUsage of job (MB)
+	66020  -  ResidentSetSize of job (KB)
+...
+040 (13005827.000.000) 2024-03-07 00:20:14 Started transferring output files
+...
+040 (13005827.000.000) 2024-03-07 00:20:14 Finished transferring output files
+...
+005 (13005827.000.000) 2024-03-07 00:20:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10909  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10909  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1300  4194304   4442483 
+	   GPUs                 :                           0 
+	   Memory (MB)          :       65     8192      8192 
+	   TimeExecute (s)      :      307                    
+	   TimeSlotBusy (s)     :      310                    
+
+	Job terminated of its own accord at 2024-03-07T06:20:14Z with exit-code 0.
+...
+006 (13005826.000.000) 2024-03-07 00:20:15 Image size of job updated: 2391384
+	59  -  MemoryUsage of job (MB)
+	60276  -  ResidentSetSize of job (KB)
+...
+040 (13005826.000.000) 2024-03-07 00:20:16 Started transferring output files
+...
+040 (13005826.000.000) 2024-03-07 00:20:16 Finished transferring output files
+...
+005 (13005826.000.000) 2024-03-07 00:20:17 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10907  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10907  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   7999507 
+	   Memory (MB)          :       59     8192      8192 
+	   TimeExecute (s)      :      310                    
+	   TimeSlotBusy (s)     :      314                    
+
+	Job terminated of its own accord at 2024-03-07T06:20:15Z with exit-code 0.
+...
+000 (13005972.000.000) 2024-03-07 00:20:20 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005973.000.000) 2024-03-07 00:20:21 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005974.000.000) 2024-03-07 00:20:21 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005972.000.000) 2024-03-07 00:20:23 Started transferring input files
+	Transferring to host: <128.186.19.150:35575?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35741735%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3666609&PrivNet=scigrid9.physics.fsu.edu&addrs=128.186.19.150-35575&alias=scigrid9.physics.fsu.edu&noUDP>
+...
+040 (13005972.000.000) 2024-03-07 00:20:23 Finished transferring input files
+...
+040 (13005019.000.000) 2024-03-07 00:20:24 Started transferring output files
+...
+040 (13005019.000.000) 2024-03-07 00:20:24 Finished transferring output files
+...
+005 (13005019.000.000) 2024-03-07 00:20:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10907  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10907  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1304     4194304   7463013 
+	   Memory (MB)          :    66        8192      8192 
+	   TimeExecute (s)      :  1479                       
+	   TimeSlotBusy (s)     :  1486                       
+
+	Job terminated of its own accord at 2024-03-07T06:20:23Z with exit-code 0.
+...
+021 (13005972.000.000) 2024-03-07 00:20:25 Message from starter on slot1_5@glidein_2369679_857995892@scigrid9.physics.fsu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005972.000.000) 2024-03-07 00:20:25 Job executing on host: <128.186.19.150:45881?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14136461%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3601339&PrivNet=scigrid9.physics.fsu.edu&addrs=128.186.19.150-45881&alias=scigrid9.physics.fsu.edu&noUDP>
+	SlotName: slot1_5@scigrid9.physics.fsu.edu
+	CondorScratchDir = "/scratch/glide_6TJRvO/execute/dir_369482"
+	Cpus = 1
+	Disk = 7999507
+	GLIDEIN_ResourceName = "OSG_US_FSU_HNPGRID"
+	Memory = 8192
+...
+040 (13005973.000.000) 2024-03-07 00:20:27 Started transferring input files
+	Transferring to host: <128.186.19.149:40327?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14214687%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659236&PrivNet=scigrid8.physics.fsu.edu&addrs=128.186.19.149-40327&alias=scigrid8.physics.fsu.edu&noUDP>
+...
+040 (13005973.000.000) 2024-03-07 00:20:29 Finished transferring input files
+...
+021 (13005973.000.000) 2024-03-07 00:20:31 Message from starter on slot1_5@glidein_3560722_112274068@scigrid8.physics.fsu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005973.000.000) 2024-03-07 00:20:31 Job executing on host: <128.186.19.149:40549?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36575050%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3630463&PrivNet=scigrid8.physics.fsu.edu&addrs=128.186.19.149-40549&alias=scigrid8.physics.fsu.edu&noUDP>
+	SlotName: slot1_5@scigrid8.physics.fsu.edu
+	CondorScratchDir = "/scratch/glide_kW59lB/execute/dir_2521393"
+	Cpus = 1
+	Disk = 7463013
+	GLIDEIN_ResourceName = "OSG_US_FSU_HNPGRID"
+	Memory = 8192
+...
+006 (13005831.000.000) 2024-03-07 00:20:34 Image size of job updated: 2392608
+	63  -  MemoryUsage of job (MB)
+	63568  -  ResidentSetSize of job (KB)
+...
+040 (13005831.000.000) 2024-03-07 00:20:34 Started transferring output files
+...
+040 (13005831.000.000) 2024-03-07 00:20:34 Finished transferring output files
+...
+005 (13005831.000.000) 2024-03-07 00:20:34 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1304     4194304   5048065 
+	   Memory (MB)          :    63        8192      8192 
+	   TimeExecute (s)      :   305                       
+	   TimeSlotBusy (s)     :   307                       
+
+	Job terminated of its own accord at 2024-03-07T06:20:34Z with exit-code 0.
+...
+040 (13005830.000.000) 2024-03-07 00:20:34 Started transferring output files
+...
+040 (13005830.000.000) 2024-03-07 00:20:34 Finished transferring output files
+...
+040 (13005974.000.000) 2024-03-07 00:20:34 Started transferring input files
+	Transferring to host: <149.165.225.18:40803?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14215840%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3666045&PrivNet=iut2-c285.iu.edu&addrs=149.165.225.18-40803+[2001-18e8-c02-5-3efd-feff-fe53-4680]-40803&alias=iut2-c285.iu.edu&noUDP>
+...
+040 (13005974.000.000) 2024-03-07 00:20:34 Finished transferring input files
+...
+006 (13005972.000.000) 2024-03-07 00:20:35 Image size of job updated: 2390552
+	59  -  MemoryUsage of job (MB)
+	59596  -  ResidentSetSize of job (KB)
+...
+005 (13005830.000.000) 2024-03-07 00:20:35 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   4548092 
+	   Memory (MB)          :       52     8192      8192 
+	   TimeExecute (s)      :      309                    
+	   TimeSlotBusy (s)     :      314                    
+
+	Job terminated of its own accord at 2024-03-07T06:20:33Z with exit-code 0.
+...
+021 (13005974.000.000) 2024-03-07 00:20:36 Message from starter on slot1_1@glidein_36532_5056137@iut2-c285.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005974.000.000) 2024-03-07 00:20:36 Job executing on host: <149.165.225.18:36201?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35737030%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3648648&PrivNet=iut2-c285.iu.edu&addrs=149.165.225.18-36201+[2001-18e8-c02-5-3efd-feff-fe53-4680]-36201&alias=iut2-c285.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c285.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_36494/glide_XsNXYA/execute/dir_2616407"
+	Cpus = 1
+	Disk = 5048065
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+006 (13005974.000.000) 2024-03-07 00:20:45 Image size of job updated: 2391776
+	56  -  MemoryUsage of job (MB)
+	56752  -  ResidentSetSize of job (KB)
+...
+000 (13005975.000.000) 2024-03-07 00:20:56 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005976.000.000) 2024-03-07 00:20:56 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005977.000.000) 2024-03-07 00:20:56 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005978.000.000) 2024-03-07 00:20:57 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005975.000.000) 2024-03-07 00:20:57 Started transferring input files
+	Transferring to host: <172.19.0.2:35157?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14194267%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3663171&PrivNet=osg-1365650.0-red-c5409.unl.edu&addrs=172.19.0.2-35157&alias=osg-1365650.0-red-c5409.unl.edu&noUDP>
+...
+040 (13005975.000.000) 2024-03-07 00:20:57 Finished transferring input files
+...
+021 (13005975.000.000) 2024-03-07 00:20:59 Message from starter on slot1_7@glidein_7_153835136@osg-1365650.0-red-c5409.unl.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005975.000.000) 2024-03-07 00:20:59 Job executing on host: <172.19.0.2:42981?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35671525%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3576525&PrivNet=osg-1365650.0-red-c5409.unl.edu&addrs=172.19.0.2-42981&alias=osg-1365650.0-red-c5409.unl.edu&noUDP>
+	SlotName: slot1_7@osg-1365650.0-red-c5409.unl.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_595704/glide_cuVcl4/execute/dir_1994127"
+	Cpus = 1
+	Disk = 5128956
+	GLIDEIN_ResourceName = "Nebraska"
+	Memory = 8192
+...
+040 (13005977.000.000) 2024-03-07 00:21:02 Started transferring input files
+	Transferring to host: <72.36.96.215:34776?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221402%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3664528&PrivNet=mwt2-c086.campuscluster.illinois.edu&addrs=72.36.96.215-34776+[2620-0-e01-4800--125]-34776&alias=mwt2-c086.campuscluster.illinois.edu&noUDP>
+...
+040 (13005977.000.000) 2024-03-07 00:21:02 Finished transferring input files
+...
+040 (13005976.000.000) 2024-03-07 00:21:04 Started transferring input files
+	Transferring to host: <10.226.104.104:39093?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36604131%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3658740&PrivNet=tempest-epyc004&addrs=10.226.104.104-39093&alias=tempest-epyc004&noUDP>
+...
+040 (13005976.000.000) 2024-03-07 00:21:04 Finished transferring input files
+...
+021 (13005977.000.000) 2024-03-07 00:21:04 Message from starter on slot1_1@glidein_75443_998817570@mwt2-c086.campuscluster.illinois.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005977.000.000) 2024-03-07 00:21:04 Job executing on host: <72.36.96.215:37834?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35742266%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3646161&PrivNet=mwt2-c086.campuscluster.illinois.edu&addrs=72.36.96.215-37834+[2620-0-e01-4800--125]-37834&alias=mwt2-c086.campuscluster.illinois.edu&noUDP>
+	SlotName: slot1_1@mwt2-c086.campuscluster.illinois.edu
+	CondorScratchDir = "/scratch.local/condor/execute/dir_75130/glide_C3WdKF/execute/dir_93601"
+	Cpus = 1
+	Disk = 5236250
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+021 (13005976.000.000) 2024-03-07 00:21:07 Message from starter on slot1_4@glidein_2838363_128332788@tempest-epyc004:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008217/glide_OWErIt/images/htc__rocky__8.sif
+...
+001 (13005976.000.000) 2024-03-07 00:21:07 Job executing on host: <10.226.104.104:40643?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35715847%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3617234&PrivNet=tempest-epyc004&addrs=10.226.104.104-40643&alias=tempest-epyc004&noUDP>
+	SlotName: slot1_4@tempest-epyc004
+	CondorScratchDir = "/tmp/jobs/2008217/glide_OWErIt/execute/dir_822779"
+	Cpus = 1
+	Disk = 4548092
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13005975.000.000) 2024-03-07 00:21:09 Image size of job updated: 1885112
+	47  -  MemoryUsage of job (MB)
+	47680  -  ResidentSetSize of job (KB)
+...
+006 (13005836.000.000) 2024-03-07 00:21:10 Image size of job updated: 2370188
+	62  -  MemoryUsage of job (MB)
+	62596  -  ResidentSetSize of job (KB)
+...
+040 (13005836.000.000) 2024-03-07 00:21:10 Started transferring output files
+...
+040 (13005836.000.000) 2024-03-07 00:21:10 Finished transferring output files
+...
+005 (13005836.000.000) 2024-03-07 00:21:10 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   4926592 
+	   Memory (MB)          :       62     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:21:10Z with exit-code 0.
+...
+040 (13005978.000.000) 2024-03-07 00:21:11 Started transferring input files
+	Transferring to host: <149.165.224.123:44851?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35741780%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3660910&PrivNet=iut2-c423.iu.edu&addrs=149.165.224.123-44851+[2001-18e8-c02-5-1623-f2ff-fe4e-92b0]-44851&alias=iut2-c423.iu.edu&noUDP>
+...
+040 (13005978.000.000) 2024-03-07 00:21:11 Finished transferring input files
+...
+006 (13005837.000.000) 2024-03-07 00:21:11 Image size of job updated: 2395612
+	28  -  MemoryUsage of job (MB)
+	28616  -  ResidentSetSize of job (KB)
+...
+040 (13005837.000.000) 2024-03-07 00:21:11 Started transferring output files
+...
+040 (13005837.000.000) 2024-03-07 00:21:11 Finished transferring output files
+...
+005 (13005837.000.000) 2024-03-07 00:21:12 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1313  4194304   6061510 
+	   Memory (MB)          :       28     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:21:11Z with exit-code 0.
+...
+021 (13005978.000.000) 2024-03-07 00:21:12 Message from starter on slot1_1@glidein_52879_439771352@iut2-c423.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/debian:12
+...
+001 (13005978.000.000) 2024-03-07 00:21:12 Job executing on host: <149.165.224.123:46273?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14185335%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3644794&PrivNet=iut2-c423.iu.edu&addrs=149.165.224.123-46273+[2001-18e8-c02-5-1623-f2ff-fe4e-92b0]-46273&alias=iut2-c423.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c423.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_52873/glide_oBf8cS/execute/dir_3556674"
+	Cpus = 1
+	Disk = 4926592
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+006 (13005977.000.000) 2024-03-07 00:21:14 Image size of job updated: 1
+	3  -  MemoryUsage of job (MB)
+	2744  -  ResidentSetSize of job (KB)
+...
+006 (13005976.000.000) 2024-03-07 00:21:16 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5540  -  ResidentSetSize of job (KB)
+...
+006 (13005978.000.000) 2024-03-07 00:21:21 Image size of job updated: 2371148
+	63  -  MemoryUsage of job (MB)
+	63504  -  ResidentSetSize of job (KB)
+...
+006 (13005839.000.000) 2024-03-07 00:21:24 Image size of job updated: 2497840
+	55  -  MemoryUsage of job (MB)
+	56264  -  ResidentSetSize of job (KB)
+...
+040 (13005839.000.000) 2024-03-07 00:21:24 Started transferring output files
+...
+040 (13005839.000.000) 2024-03-07 00:21:25 Finished transferring output files
+...
+005 (13005839.000.000) 2024-03-07 00:21:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1297     4194304   5328905 
+	   Memory (MB)          :    55        8192      8192 
+	   TimeExecute (s)      :   310                       
+	   TimeSlotBusy (s)     :   315                       
+
+	Job terminated of its own accord at 2024-03-07T06:21:24Z with exit-code 0.
+...
+000 (13005980.000.000) 2024-03-07 00:21:32 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005981.000.000) 2024-03-07 00:21:32 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005980.000.000) 2024-03-07 00:21:34 Started transferring input files
+	Transferring to host: <10.226.104.106:46127?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14214759%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3660933&PrivNet=tempest-epyc006&addrs=10.226.104.106-46127&alias=tempest-epyc006&noUDP>
+...
+040 (13005980.000.000) 2024-03-07 00:21:35 Finished transferring input files
+...
+021 (13005980.000.000) 2024-03-07 00:21:37 Message from starter on slot1_4@glidein_1389745_334547060@tempest-epyc006:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2007537/glide_vyF7Ai/images/htc__rocky__8.sif
+...
+001 (13005980.000.000) 2024-03-07 00:21:37 Job executing on host: <10.226.104.106:45577?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14137931%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3610034&PrivNet=tempest-epyc006&addrs=10.226.104.106-45577&alias=tempest-epyc006&noUDP>
+	SlotName: slot1_4@tempest-epyc006
+	CondorScratchDir = "/tmp/jobs/2007537/glide_vyF7Ai/execute/dir_2651194"
+	Cpus = 1
+	Disk = 5328905
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13005981.000.000) 2024-03-07 00:21:37 Started transferring input files
+	Transferring to host: <146.163.142.18:42463?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221432%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3664553&PrivNet=cc-cpu-08.hpc.siue.edu&addrs=146.163.142.18-42463&alias=cc-cpu-08.hpc.siue.edu&noUDP>
+...
+040 (13005981.000.000) 2024-03-07 00:21:37 Finished transferring input files
+...
+021 (13005981.000.000) 2024-03-07 00:21:38 Message from starter on slot1_15@glidein_2052166_266420936@cc-cpu-08.hpc.siue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005981.000.000) 2024-03-07 00:21:38 Job executing on host: <146.163.142.18:41197?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35793171%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3636957&PrivNet=cc-cpu-08.hpc.siue.edu&addrs=146.163.142.18-41197&alias=cc-cpu-08.hpc.siue.edu&noUDP>
+	SlotName: slot1_15@cc-cpu-08.hpc.siue.edu
+	CondorScratchDir = "/scratch/glide_fWY0IO/execute/dir_3088849"
+	Cpus = 1
+	Disk = 6061510
+	GLIDEIN_ResourceName = "SIUE-CC-production"
+	Memory = 8192
+...
+040 (13005842.000.000) 2024-03-07 00:21:44 Started transferring output files
+...
+040 (13005842.000.000) 2024-03-07 00:21:44 Finished transferring output files
+...
+005 (13005842.000.000) 2024-03-07 00:21:45 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1305     4194304   5436404 
+	   Memory (MB)          :    59        8192      8192 
+	   TimeExecute (s)      :   304                       
+	   TimeSlotBusy (s)     :   306                       
+
+	Job terminated of its own accord at 2024-03-07T06:21:44Z with exit-code 0.
+...
+006 (13005980.000.000) 2024-03-07 00:21:46 Image size of job updated: 2498352
+	52  -  MemoryUsage of job (MB)
+	53072  -  ResidentSetSize of job (KB)
+...
+006 (13005981.000.000) 2024-03-07 00:21:48 Image size of job updated: 1
+	4  -  MemoryUsage of job (MB)
+	3368  -  ResidentSetSize of job (KB)
+...
+040 (13005844.000.000) 2024-03-07 00:21:55 Started transferring output files
+...
+040 (13005844.000.000) 2024-03-07 00:21:55 Finished transferring output files
+...
+005 (13005844.000.000) 2024-03-07 00:21:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10908  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10908  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1308  4194304  15252153 
+	   Memory (MB)          :       33     8192      8192 
+	   TimeExecute (s)      :      307                    
+	   TimeSlotBusy (s)     :      309                    
+
+	Job terminated of its own accord at 2024-03-07T06:21:55Z with exit-code 0.
+...
+006 (13005843.000.000) 2024-03-07 00:22:00 Image size of job updated: 2389036
+	57  -  MemoryUsage of job (MB)
+	58128  -  ResidentSetSize of job (KB)
+...
+040 (13005843.000.000) 2024-03-07 00:22:01 Started transferring output files
+...
+040 (13005843.000.000) 2024-03-07 00:22:01 Finished transferring output files
+...
+040 (13005845.000.000) 2024-03-07 00:22:01 Started transferring output files
+...
+040 (13005845.000.000) 2024-03-07 00:22:01 Finished transferring output files
+...
+005 (13005843.000.000) 2024-03-07 00:22:01 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10907  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10907  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   8023321 
+	   Memory (MB)          :       57     8192      8192 
+	   TimeExecute (s)      :      311                    
+	   TimeSlotBusy (s)     :      316                    
+
+	Job terminated of its own accord at 2024-03-07T06:22:00Z with exit-code 0.
+...
+005 (13005845.000.000) 2024-03-07 00:22:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1297     4194304   4552008 
+	   Memory (MB)          :    54        8192      8192 
+	   TimeExecute (s)      :   310                       
+	   TimeSlotBusy (s)     :   315                       
+
+	Job terminated of its own accord at 2024-03-07T06:22:00Z with exit-code 0.
+...
+040 (13005849.000.000) 2024-03-07 00:22:06 Started transferring output files
+...
+040 (13005849.000.000) 2024-03-07 00:22:06 Finished transferring output files
+...
+005 (13005849.000.000) 2024-03-07 00:22:07 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1297     4194304   5094058 
+	   Memory (MB)          :    53        8192      8192 
+	   TimeExecute (s)      :   310                       
+	   TimeSlotBusy (s)     :   315                       
+
+	Job terminated of its own accord at 2024-03-07T06:22:06Z with exit-code 0.
+...
+000 (13005983.000.000) 2024-03-07 00:22:07 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005984.000.000) 2024-03-07 00:22:08 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005985.000.000) 2024-03-07 00:22:08 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005985.000.000) 2024-03-07 00:22:12 Started transferring input files
+	Transferring to host: <149.165.225.141:41437?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221488%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3662408&PrivNet=cit2-c011.mwt2.org&addrs=149.165.225.141-41437+[2001-18e8-c02-5-ca1f-66ff-fed1-dcac]-41437&alias=cit2-c011.mwt2.org&noUDP>
+...
+040 (13005985.000.000) 2024-03-07 00:22:12 Finished transferring input files
+...
+040 (13005983.000.000) 2024-03-07 00:22:14 Started transferring input files
+	Transferring to host: <10.226.104.103:43145?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35760699%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3666729&PrivNet=tempest-epyc003&addrs=10.226.104.103-43145&alias=tempest-epyc003&noUDP>
+...
+021 (13005985.000.000) 2024-03-07 00:22:14 Message from starter on slot1_2@glidein_34788_213845000@cit2-c011.mwt2.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+040 (13005984.000.000) 2024-03-07 00:22:14 Started transferring input files
+	Transferring to host: <10.226.104.121:44117?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14194345%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3666180&PrivNet=tempest-epyc021&addrs=10.226.104.121-44117&alias=tempest-epyc021&noUDP>
+...
+001 (13005985.000.000) 2024-03-07 00:22:14 Job executing on host: <149.165.225.141:36329?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35743666%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3647525&PrivNet=cit2-c011.mwt2.org&addrs=149.165.225.141-36329+[2001-18e8-c02-5-ca1f-66ff-fed1-dcac]-36329&alias=cit2-c011.mwt2.org&noUDP>
+	SlotName: slot1_2@cit2-c011.mwt2.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_34621/glide_iHPF5n/execute/dir_1084954"
+	Cpus = 1
+	Disk = 5436404
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+040 (13005983.000.000) 2024-03-07 00:22:14 Finished transferring input files
+...
+040 (13005984.000.000) 2024-03-07 00:22:14 Finished transferring input files
+...
+021 (13005983.000.000) 2024-03-07 00:22:16 Message from starter on slot1_1@glidein_628809_162784160@tempest-epyc003:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008205/glide_IRf9Ac/images/htc__rocky__9.sif
+...
+001 (13005983.000.000) 2024-03-07 00:22:16 Job executing on host: <10.226.104.103:39249?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35708852%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3620116&PrivNet=tempest-epyc003&addrs=10.226.104.103-39249&alias=tempest-epyc003&noUDP>
+	SlotName: slot1_1@tempest-epyc003
+	CondorScratchDir = "/tmp/jobs/2008205/glide_IRf9Ac/execute/dir_2889669"
+	Cpus = 1
+	Disk = 5011577
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+021 (13005984.000.000) 2024-03-07 00:22:18 Message from starter on slot1_3@glidein_1301703_181725600@tempest-epyc021:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2007953/glide_4vVxwe/images/htc__rocky__8.sif
+...
+001 (13005984.000.000) 2024-03-07 00:22:18 Job executing on host: <10.226.104.121:37639?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14164366%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3611643&PrivNet=tempest-epyc021&addrs=10.226.104.121-37639&alias=tempest-epyc021&noUDP>
+	SlotName: slot1_3@tempest-epyc021
+	CondorScratchDir = "/tmp/jobs/2007953/glide_4vVxwe/execute/dir_819443"
+	Cpus = 1
+	Disk = 4552008
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13005848.000.000) 2024-03-07 00:22:18 Image size of job updated: 2406912
+	60  -  MemoryUsage of job (MB)
+	60732  -  ResidentSetSize of job (KB)
+...
+040 (13005847.000.000) 2024-03-07 00:22:20 Started transferring output files
+...
+040 (13005847.000.000) 2024-03-07 00:22:20 Finished transferring output files
+...
+005 (13005847.000.000) 2024-03-07 00:22:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	20049  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	20049  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1312  4194304   7165330 
+	   Memory (MB)          :       61     8192      8192 
+	   TimeExecute (s)      :      326                    
+	   TimeSlotBusy (s)     :      329                    
+
+	Job terminated of its own accord at 2024-03-07T06:22:20Z with exit-code 0.
+...
+040 (13005848.000.000) 2024-03-07 00:22:21 Started transferring output files
+...
+040 (13005848.000.000) 2024-03-07 00:22:21 Finished transferring output files
+...
+005 (13005848.000.000) 2024-03-07 00:22:21 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	20049  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	20049  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1311  4194304   6936670 
+	   Memory (MB)          :       60     8192      8192 
+	   TimeExecute (s)      :      327                    
+	   TimeSlotBusy (s)     :      330                    
+
+	Job terminated of its own accord at 2024-03-07T06:22:21Z with exit-code 0.
+...
+006 (13005985.000.000) 2024-03-07 00:22:23 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5904  -  ResidentSetSize of job (KB)
+...
+006 (13005983.000.000) 2024-03-07 00:22:25 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5480  -  ResidentSetSize of job (KB)
+...
+006 (13005984.000.000) 2024-03-07 00:22:28 Image size of job updated: 2498096
+	52  -  MemoryUsage of job (MB)
+	52388  -  ResidentSetSize of job (KB)
+...
+006 (13005851.000.000) 2024-03-07 00:22:40 Image size of job updated: 2488432
+	50  -  MemoryUsage of job (MB)
+	50660  -  ResidentSetSize of job (KB)
+...
+040 (13005851.000.000) 2024-03-07 00:22:40 Started transferring output files
+...
+040 (13005851.000.000) 2024-03-07 00:22:40 Finished transferring output files
+...
+006 (13005852.000.000) 2024-03-07 00:22:41 Image size of job updated: 2498096
+	51  -  MemoryUsage of job (MB)
+	52180  -  ResidentSetSize of job (KB)
+...
+005 (13005851.000.000) 2024-03-07 00:22:41 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     1279  4194304   4868285 
+	   Memory (MB)          :       50     8192      8192 
+	   TimeExecute (s)      :      308                    
+	   TimeSlotBusy (s)     :      313                    
+
+	Job terminated of its own accord at 2024-03-07T06:22:40Z with exit-code 0.
+...
+040 (13005852.000.000) 2024-03-07 00:22:41 Started transferring output files
+...
+040 (13005852.000.000) 2024-03-07 00:22:41 Finished transferring output files
+...
+005 (13005852.000.000) 2024-03-07 00:22:42 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1298  4194304   4753711 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      309                    
+	   TimeSlotBusy (s)     :      313                    
+
+	Job terminated of its own accord at 2024-03-07T06:22:41Z with exit-code 0.
+...
+006 (13005853.000.000) 2024-03-07 00:22:43 Image size of job updated: 2387912
+	56  -  MemoryUsage of job (MB)
+	57028  -  ResidentSetSize of job (KB)
+...
+040 (13005853.000.000) 2024-03-07 00:22:43 Started transferring output files
+...
+040 (13005853.000.000) 2024-03-07 00:22:43 Finished transferring output files
+...
+000 (13005989.000.000) 2024-03-07 00:22:43 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+005 (13005853.000.000) 2024-03-07 00:22:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5496021 
+	   Memory (MB)          :       56     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      307                    
+
+	Job terminated of its own accord at 2024-03-07T06:22:43Z with exit-code 0.
+...
+000 (13005990.000.000) 2024-03-07 00:22:43 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005991.000.000) 2024-03-07 00:22:43 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005992.000.000) 2024-03-07 00:22:44 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13005993.000.000) 2024-03-07 00:22:44 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005989.000.000) 2024-03-07 00:22:45 Started transferring input files
+	Transferring to host: <10.226.104.109:36043?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35760726%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3662440&PrivNet=tempest-epyc009&addrs=10.226.104.109-36043&alias=tempest-epyc009&noUDP>
+...
+040 (13005989.000.000) 2024-03-07 00:22:47 Finished transferring input files
+...
+006 (13005854.000.000) 2024-03-07 00:22:47 Image size of job updated: 2370188
+	60  -  MemoryUsage of job (MB)
+	60832  -  ResidentSetSize of job (KB)
+...
+040 (13005854.000.000) 2024-03-07 00:22:47 Started transferring output files
+...
+040 (13005854.000.000) 2024-03-07 00:22:47 Finished transferring output files
+...
+005 (13005854.000.000) 2024-03-07 00:22:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1305     4194304   5007604 
+	   Memory (MB)          :    60        8192      8192 
+	   TimeExecute (s)      :   304                       
+	   TimeSlotBusy (s)     :   306                       
+
+	Job terminated of its own accord at 2024-03-07T06:22:47Z with exit-code 0.
+...
+040 (13005990.000.000) 2024-03-07 00:22:47 Started transferring input files
+	Transferring to host: <149.165.224.125:40633?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14215972%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3666191&PrivNet=iut2-c425.iu.edu&addrs=149.165.224.125-40633+[2001-18e8-c02-5-1623-f2ff-fe4f-1770]-40633&alias=iut2-c425.iu.edu&noUDP>
+...
+040 (13005990.000.000) 2024-03-07 00:22:47 Finished transferring input files
+...
+040 (13005992.000.000) 2024-03-07 00:22:48 Started transferring input files
+	Transferring to host: <137.99.174.19:41831?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35741908%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659407&PrivNet=cn425.storrs.hpc.uconn.edu&addrs=137.99.174.19-41831&alias=cn425.storrs.hpc.uconn.edu&noUDP>
+...
+040 (13005991.000.000) 2024-03-07 00:22:48 Started transferring input files
+	Transferring to host: <137.99.174.36:46415?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14194377%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3659495&PrivNet=cn441.storrs.hpc.uconn.edu&addrs=137.99.174.36-46415&alias=cn441.storrs.hpc.uconn.edu&noUDP>
+...
+040 (13005991.000.000) 2024-03-07 00:22:48 Finished transferring input files
+...
+021 (13005989.000.000) 2024-03-07 00:22:48 Message from starter on slot1_5@glidein_1227270_70474152@tempest-epyc009:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2006766/glide_WH7zbv/images/htc__centos__7.sif
+...
+001 (13005989.000.000) 2024-03-07 00:22:48 Job executing on host: <10.226.104.109:41281?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35694015%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3600013&PrivNet=tempest-epyc009&addrs=10.226.104.109-41281&alias=tempest-epyc009&noUDP>
+	SlotName: slot1_5@tempest-epyc009
+	CondorScratchDir = "/tmp/jobs/2006766/glide_WH7zbv/execute/dir_178841"
+	Cpus = 1
+	Disk = 4868285
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13005992.000.000) 2024-03-07 00:22:49 Finished transferring input files
+...
+021 (13005990.000.000) 2024-03-07 00:22:49 Message from starter on slot1_1@glidein_16849_896871253@iut2-c425.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/debian:12
+...
+001 (13005990.000.000) 2024-03-07 00:22:49 Job executing on host: <149.165.224.125:40413?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14195805%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3645670&PrivNet=iut2-c425.iu.edu&addrs=149.165.224.125-40413+[2001-18e8-c02-5-1623-f2ff-fe4f-1770]-40413&alias=iut2-c425.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c425.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_15381/glide_Gs0nki/execute/dir_3030324"
+	Cpus = 1
+	Disk = 5007604
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+021 (13005991.000.000) 2024-03-07 00:22:50 Message from starter on slot1_5@glidein_2123106_42855450@cn441.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005991.000.000) 2024-03-07 00:22:50 Job executing on host: <137.99.174.36:39223?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35672244%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3580414&PrivNet=cn441.storrs.hpc.uconn.edu&addrs=137.99.174.36-39223&alias=cn441.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_5@cn441.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6185891/glide_bFuAvH/execute/dir_3872384"
+	Cpus = 1
+	Disk = 5384161
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+040 (13005993.000.000) 2024-03-07 00:22:50 Started transferring input files
+	Transferring to host: <10.226.104.112:36157?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14194382%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3658852&PrivNet=tempest-epyc012&addrs=10.226.104.112-36157&alias=tempest-epyc012&noUDP>
+...
+021 (13005992.000.000) 2024-03-07 00:22:50 Message from starter on slot1_1@glidein_3261492_569506350@cn425.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13005992.000.000) 2024-03-07 00:22:50 Job executing on host: <137.99.174.19:35327?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35719453%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3642128&PrivNet=cn425.storrs.hpc.uconn.edu&addrs=137.99.174.19-35327&alias=cn425.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_1@cn425.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6197472/glide_EBG8cg/execute/dir_939582"
+	Cpus = 1
+	Disk = 5496021
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+040 (13005993.000.000) 2024-03-07 00:22:51 Finished transferring input files
+...
+021 (13005993.000.000) 2024-03-07 00:22:52 Message from starter on slot1_3@glidein_4008871_462372120@tempest-epyc012:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2002241/glide_7TIDot/images/htc__rocky__8.sif
+...
+001 (13005993.000.000) 2024-03-07 00:22:52 Job executing on host: <10.226.104.112:37451?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35692796%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3536449&PrivNet=tempest-epyc012&addrs=10.226.104.112-37451&alias=tempest-epyc012&noUDP>
+	SlotName: slot1_3@tempest-epyc012
+	CondorScratchDir = "/tmp/jobs/2002241/glide_7TIDot/execute/dir_1483392"
+	Cpus = 1
+	Disk = 4753711
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13005989.000.000) 2024-03-07 00:22:57 Image size of job updated: 2340968
+	52  -  MemoryUsage of job (MB)
+	53088  -  ResidentSetSize of job (KB)
+...
+006 (13005990.000.000) 2024-03-07 00:22:58 Image size of job updated: 2370124
+	58  -  MemoryUsage of job (MB)
+	59128  -  ResidentSetSize of job (KB)
+...
+006 (13005992.000.000) 2024-03-07 00:22:59 Image size of job updated: 1
+	4  -  MemoryUsage of job (MB)
+	3552  -  ResidentSetSize of job (KB)
+...
+006 (13005991.000.000) 2024-03-07 00:22:59 Image size of job updated: 2387080
+	53  -  MemoryUsage of job (MB)
+	53664  -  ResidentSetSize of job (KB)
+...
+006 (13005993.000.000) 2024-03-07 00:23:02 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5480  -  ResidentSetSize of job (KB)
+...
+006 (13005859.000.000) 2024-03-07 00:23:15 Image size of job updated: 2465872
+	51  -  MemoryUsage of job (MB)
+	51324  -  ResidentSetSize of job (KB)
+...
+006 (13005858.000.000) 2024-03-07 00:23:16 Image size of job updated: 2497584
+	53  -  MemoryUsage of job (MB)
+	54016  -  ResidentSetSize of job (KB)
+...
+040 (13005858.000.000) 2024-03-07 00:23:16 Started transferring output files
+...
+040 (13005858.000.000) 2024-03-07 00:23:16 Finished transferring output files
+...
+040 (13005859.000.000) 2024-03-07 00:23:16 Started transferring output files
+...
+040 (13005859.000.000) 2024-03-07 00:23:16 Finished transferring output files
+...
+005 (13005858.000.000) 2024-03-07 00:23:17 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   5122817 
+	   Memory (MB)          :       53     8192      8192 
+	   TimeExecute (s)      :      310                    
+	   TimeSlotBusy (s)     :      314                    
+
+	Job terminated of its own accord at 2024-03-07T06:23:16Z with exit-code 0.
+...
+005 (13005859.000.000) 2024-03-07 00:23:17 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   4940487 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      310                    
+	   TimeSlotBusy (s)     :      314                    
+
+	Job terminated of its own accord at 2024-03-07T06:23:16Z with exit-code 0.
+...
+000 (13006000.000.000) 2024-03-07 00:23:19 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006001.000.000) 2024-03-07 00:23:19 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006002.000.000) 2024-03-07 00:23:20 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006003.000.000) 2024-03-07 00:23:20 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006004.000.000) 2024-03-07 00:23:20 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006005.000.000) 2024-03-07 00:23:20 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13006000.000.000) 2024-03-07 00:23:22 Started transferring input files
+	Transferring to host: <10.226.104.122:41255?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221552%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3661048&PrivNet=tempest-epyc022&addrs=10.226.104.122-41255&alias=tempest-epyc022&noUDP>
+...
+040 (13006000.000.000) 2024-03-07 00:23:22 Finished transferring input files
+...
+021 (13006000.000.000) 2024-03-07 00:23:24 Message from starter on slot1_4@glidein_1596775_199699766@tempest-epyc022:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2007988/glide_eTvk6t/images/htc__rocky__8.sif
+...
+001 (13006000.000.000) 2024-03-07 00:23:24 Job executing on host: <10.226.104.122:41983?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35710321%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3611627&PrivNet=tempest-epyc022&addrs=10.226.104.122-41983&alias=tempest-epyc022&noUDP>
+	SlotName: slot1_4@tempest-epyc022
+	CondorScratchDir = "/tmp/jobs/2007988/glide_eTvk6t/execute/dir_253198"
+	Cpus = 1
+	Disk = 5122817
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13006002.000.000) 2024-03-07 00:23:25 Started transferring input files
+	Transferring to host: <10.226.104.117:35017?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221557%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3661054&PrivNet=tempest-epyc017&addrs=10.226.104.117-35017&alias=tempest-epyc017&noUDP>
+...
+040 (13006001.000.000) 2024-03-07 00:23:25 Started transferring input files
+	Transferring to host: <192.168.4.108:39942?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221556%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3666801&PrivNet=lnxfarm308.colorado.edu&addrs=192.168.4.108-39942&alias=lnxfarm308.colorado.edu&noUDP>
+...
+040 (13006002.000.000) 2024-03-07 00:23:25 Finished transferring input files
+...
+040 (13006003.000.000) 2024-03-07 00:23:26 Started transferring input files
+	Transferring to host: <10.226.104.104:33353?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35741941%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659439&PrivNet=tempest-epyc004&addrs=10.226.104.104-33353&alias=tempest-epyc004&noUDP>
+...
+040 (13006001.000.000) 2024-03-07 00:23:26 Finished transferring input files
+...
+040 (13006003.000.000) 2024-03-07 00:23:27 Finished transferring input files
+...
+021 (13006002.000.000) 2024-03-07 00:23:27 Message from starter on slot1_6@glidein_769130_15575040@tempest-epyc017:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2002128/glide_C7ZY9d/images/htc__rocky__8.sif
+...
+001 (13006002.000.000) 2024-03-07 00:23:27 Job executing on host: <10.226.104.117:42977?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14071833%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3535215&PrivNet=tempest-epyc017&addrs=10.226.104.117-42977&alias=tempest-epyc017&noUDP>
+	SlotName: slot1_6@tempest-epyc017
+	CondorScratchDir = "/tmp/jobs/2002128/glide_C7ZY9d/execute/dir_937410"
+	Cpus = 1
+	Disk = 4874968
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+021 (13006001.000.000) 2024-03-07 00:23:27 Message from starter on slot1_2@glidein_23023_83949600@lnxfarm308.colorado.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006001.000.000) 2024-03-07 00:23:27 Job executing on host: <192.168.4.108:45701?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14147098%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3603886&PrivNet=lnxfarm308.colorado.edu&addrs=192.168.4.108-45701&alias=lnxfarm308.colorado.edu&noUDP>
+	SlotName: slot1_2@lnxfarm308.colorado.edu
+	CondorScratchDir = "/sge-batch/glide_R5xqvC/execute/dir_27269"
+	Cpus = 1
+	Disk = 4528995
+	GLIDEIN_ResourceName = "UColorado_HEP"
+	Memory = 8192
+...
+021 (13006003.000.000) 2024-03-07 00:23:29 Message from starter on slot1_1@glidein_2707543_315816765@tempest-epyc004:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008211/glide_yQudYB/images/htc__ubuntu__22.04.sif
+...
+001 (13006003.000.000) 2024-03-07 00:23:29 Job executing on host: <10.226.104.104:40289?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35776932%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3614075&PrivNet=tempest-epyc004&addrs=10.226.104.104-40289&alias=tempest-epyc004&noUDP>
+	SlotName: slot1_1@tempest-epyc004
+	CondorScratchDir = "/tmp/jobs/2008211/glide_yQudYB/execute/dir_854593"
+	Cpus = 1
+	Disk = 4940487
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13006000.000.000) 2024-03-07 00:23:35 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5472  -  ResidentSetSize of job (KB)
+...
+040 (13006004.000.000) 2024-03-07 00:23:36 Started transferring input files
+	Transferring to host: <172.16.1.24:38963?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221565%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3662474&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-38963&alias=chpc-compute024.cm.cluster&noUDP>
+...
+006 (13006002.000.000) 2024-03-07 00:23:36 Image size of job updated: 2498096
+	52  -  MemoryUsage of job (MB)
+	52260  -  ResidentSetSize of job (KB)
+...
+006 (13006001.000.000) 2024-03-07 00:23:36 Image size of job updated: 1
+	3  -  MemoryUsage of job (MB)
+	2772  -  ResidentSetSize of job (KB)
+...
+040 (13006004.000.000) 2024-03-07 00:23:37 Finished transferring input files
+...
+006 (13006003.000.000) 2024-03-07 00:23:38 Image size of job updated: 2465360
+	48  -  MemoryUsage of job (MB)
+	48888  -  ResidentSetSize of job (KB)
+...
+021 (13006004.000.000) 2024-03-07 00:23:39 Message from starter on slot1_7@glidein_1443281_147006900@chpc-compute024.cm.cluster:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006004.000.000) 2024-03-07 00:23:39 Job executing on host: <172.16.1.24:33925?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14067833%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3533878&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-33925&alias=chpc-compute024.cm.cluster&noUDP>
+	SlotName: slot1_7@chpc-compute024.cm.cluster
+	CondorScratchDir = "/tmp/glide_ZKMwab/execute/dir_2583086"
+	Cpus = 1
+	Disk = 15246307
+	GLIDEIN_ResourceName = "Alabama-CHPC-CE1"
+	Memory = 8192
+...
+006 (13006004.000.000) 2024-03-07 00:23:48 Image size of job updated: 1
+	7  -  MemoryUsage of job (MB)
+	6344  -  ResidentSetSize of job (KB)
+...
+040 (13006005.000.000) 2024-03-07 00:23:52 Started transferring input files
+	Transferring to host: <10.226.104.104:46555?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14203189%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3666842&PrivNet=tempest-epyc004&addrs=10.226.104.104-46555&alias=tempest-epyc004&noUDP>
+...
+040 (13006005.000.000) 2024-03-07 00:23:53 Finished transferring input files
+...
+021 (13006005.000.000) 2024-03-07 00:23:55 Message from starter on slot1_5@glidein_2838387_551538918@tempest-epyc004:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008216/glide_xj66wd/images/htc__rocky__8.sif
+...
+001 (13006005.000.000) 2024-03-07 00:23:55 Job executing on host: <10.226.104.104:41457?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14176534%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3614982&PrivNet=tempest-epyc004&addrs=10.226.104.104-41457&alias=tempest-epyc004&noUDP>
+	SlotName: slot1_5@tempest-epyc004
+	CondorScratchDir = "/tmp/jobs/2008216/glide_xj66wd/execute/dir_858874"
+	Cpus = 1
+	Disk = 4548010
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+000 (13006011.000.000) 2024-03-07 00:23:55 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006012.000.000) 2024-03-07 00:23:55 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+006 (13006005.000.000) 2024-03-07 00:24:04 Image size of job updated: 2424108
+	51  -  MemoryUsage of job (MB)
+	51968  -  ResidentSetSize of job (KB)
+...
+006 (13005962.000.000) 2024-03-07 00:24:06 Image size of job updated: 2387656
+	51  -  MemoryUsage of job (MB)
+	52020  -  ResidentSetSize of job (KB)
+...
+040 (13005962.000.000) 2024-03-07 00:24:06 Started transferring output files
+...
+040 (13005962.000.000) 2024-03-07 00:24:06 Finished transferring output files
+...
+005 (13005962.000.000) 2024-03-07 00:24:07 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5388006 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:24:06Z with exit-code 0.
+...
+006 (13005963.000.000) 2024-03-07 00:24:08 Image size of job updated: 2764400
+	57  -  MemoryUsage of job (MB)
+	58128  -  ResidentSetSize of job (KB)
+...
+040 (13005963.000.000) 2024-03-07 00:24:08 Started transferring output files
+...
+040 (13005963.000.000) 2024-03-07 00:24:08 Finished transferring output files
+...
+005 (13005963.000.000) 2024-03-07 00:24:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10912  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10912  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1315  4194304   4732195 
+	   Memory (MB)          :       57     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:24:08Z with exit-code 0.
+...
+006 (13005964.000.000) 2024-03-07 00:24:08 Image size of job updated: 2764472
+	55  -  MemoryUsage of job (MB)
+	56288  -  ResidentSetSize of job (KB)
+...
+040 (13005964.000.000) 2024-03-07 00:24:08 Started transferring output files
+...
+040 (13005964.000.000) 2024-03-07 00:24:08 Finished transferring output files
+...
+040 (13006012.000.000) 2024-03-07 00:24:08 Started transferring input files
+	Transferring to host: <172.18.91.111:38249?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35754451%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3658962&PrivNet=a869.anvil.rcac.purdue.edu&addrs=172.18.91.111-38249&alias=a869.anvil.rcac.purdue.edu&noUDP>
+...
+040 (13006011.000.000) 2024-03-07 00:24:08 Started transferring input files
+	Transferring to host: <137.99.174.24:45717?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822624%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3666337&PrivNet=cn429.storrs.hpc.uconn.edu&addrs=137.99.174.24-45717&alias=cn429.storrs.hpc.uconn.edu&noUDP>
+...
+040 (13006012.000.000) 2024-03-07 00:24:08 Finished transferring input files
+...
+005 (13005964.000.000) 2024-03-07 00:24:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10912  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10912  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1317  4194304   4732198 
+	   Memory (MB)          :       55     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:24:08Z with exit-code 0.
+...
+040 (13006011.000.000) 2024-03-07 00:24:09 Finished transferring input files
+...
+021 (13006012.000.000) 2024-03-07 00:24:10 Message from starter on slot1_21@glidein_1493169_164195598@a869.anvil.rcac.purdue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_n92mOy/images/htc__rocky__8.sif
+...
+001 (13006012.000.000) 2024-03-07 00:24:10 Job executing on host: <172.18.91.111:43365?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35696307%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3533284&PrivNet=a869.anvil.rcac.purdue.edu&addrs=172.18.91.111-43365&alias=a869.anvil.rcac.purdue.edu&noUDP>
+	SlotName: slot1_21@a869.anvil.rcac.purdue.edu
+	CondorScratchDir = "/tmp/glide_n92mOy/execute/dir_2886624"
+	Cpus = 1
+	Disk = 4732195
+	GLIDEIN_ResourceName = "Purdue-Anvil-CE1"
+	Memory = 8192
+...
+021 (13006011.000.000) 2024-03-07 00:24:10 Message from starter on slot1_4@glidein_2234639_719179968@cn429.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006011.000.000) 2024-03-07 00:24:10 Job executing on host: <137.99.174.24:37805?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35738074%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3643885&PrivNet=cn429.storrs.hpc.uconn.edu&addrs=137.99.174.24-37805&alias=cn429.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_4@cn429.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6197470/glide_gXCpJB/execute/dir_110423"
+	Cpus = 1
+	Disk = 5388006
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+006 (13005965.000.000) 2024-03-07 00:24:14 Image size of job updated: 1814184
+	51  -  MemoryUsage of job (MB)
+	51868  -  ResidentSetSize of job (KB)
+...
+040 (13005965.000.000) 2024-03-07 00:24:14 Started transferring output files
+...
+040 (13005965.000.000) 2024-03-07 00:24:14 Finished transferring output files
+...
+005 (13005965.000.000) 2024-03-07 00:24:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1306  4194304   5766286 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      303                    
+	   TimeSlotBusy (s)     :      305                    
+
+	Job terminated of its own accord at 2024-03-07T06:24:14Z with exit-code 0.
+...
+006 (13006011.000.000) 2024-03-07 00:24:19 Image size of job updated: 2387080
+	52  -  MemoryUsage of job (MB)
+	52848  -  ResidentSetSize of job (KB)
+...
+006 (13006012.000.000) 2024-03-07 00:24:20 Image size of job updated: 1
+	5  -  MemoryUsage of job (MB)
+	4784  -  ResidentSetSize of job (KB)
+...
+040 (13005968.000.000) 2024-03-07 00:25:00 Started transferring output files
+...
+040 (13005968.000.000) 2024-03-07 00:25:00 Finished transferring output files
+...
+005 (13005968.000.000) 2024-03-07 00:25:01 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1298  4194304   4621635 
+	   Memory (MB)          :       53     8192      8192 
+	   TimeExecute (s)      :      311                    
+	   TimeSlotBusy (s)     :      315                    
+
+	Job terminated of its own accord at 2024-03-07T06:24:59Z with exit-code 0.
+...
+040 (13005969.000.000) 2024-03-07 00:25:01 Started transferring output files
+...
+040 (13005969.000.000) 2024-03-07 00:25:01 Finished transferring output files
+...
+005 (13005969.000.000) 2024-03-07 00:25:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10908  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10908  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1308  4194304  15239340 
+	   Memory (MB)          :       55     8192      8192 
+	   TimeExecute (s)      :      306                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:25:01Z with exit-code 0.
+...
+000 (13006017.000.000) 2024-03-07 00:25:06 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006018.000.000) 2024-03-07 00:25:06 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006019.000.000) 2024-03-07 00:25:06 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006020.000.000) 2024-03-07 00:25:06 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13006019.000.000) 2024-03-07 00:25:24 Started transferring input files
+	Transferring to host: <10.32.86.121:44286?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822676%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3659015&PrivNet=d12chas563.crc.nd.edu&addrs=10.32.86.121-44286&alias=d12chas563.crc.nd.edu&noUDP>
+...
+040 (13006019.000.000) 2024-03-07 00:25:24 Finished transferring input files
+...
+006 (13005973.000.000) 2024-03-07 00:25:24 Image size of job updated: 2236944
+	50  -  MemoryUsage of job (MB)
+	51192  -  ResidentSetSize of job (KB)
+...
+021 (13006019.000.000) 2024-03-07 00:25:26 Message from starter on slot1_1@glidein_27965_754752200@d12chas563.crc.nd.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006019.000.000) 2024-03-07 00:25:26 Job executing on host: <10.32.86.121:40996?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14217180%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3658104&PrivNet=d12chas563.crc.nd.edu&addrs=10.32.86.121-40996&alias=d12chas563.crc.nd.edu&noUDP>
+	SlotName: slot1_1@d12chas563.crc.nd.edu
+	CondorScratchDir = "/var/condor/execute/dir_27963/glide_oJxyyv/execute/dir_32659"
+	Cpus = 1
+	Disk = 5570588
+	GLIDEIN_ResourceName = "NWICG_NDCMS"
+	Memory = 8192
+...
+040 (13006017.000.000) 2024-03-07 00:25:26 Started transferring input files
+	Transferring to host: <149.165.224.115:34809?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35760886%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3664789&PrivNet=iut2-c415.iu.edu&addrs=149.165.224.115-34809+[2001-18e8-c02-5-1623-f2ff-fe4f-21a0]-34809&alias=iut2-c415.iu.edu&noUDP>
+...
+040 (13006017.000.000) 2024-03-07 00:25:26 Finished transferring input files
+...
+040 (13006018.000.000) 2024-03-07 00:25:26 Started transferring input files
+	Transferring to host: <172.16.1.24:33171?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822683%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3666376&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-33171&alias=chpc-compute024.cm.cluster&noUDP>
+...
+040 (13006018.000.000) 2024-03-07 00:25:27 Finished transferring input files
+...
+040 (13006020.000.000) 2024-03-07 00:25:27 Started transferring input files
+	Transferring to host: <10.226.104.121:41617?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector10#14215013%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3664790&PrivNet=tempest-epyc021&addrs=10.226.104.121-41617&alias=tempest-epyc021&noUDP>
+...
+021 (13006017.000.000) 2024-03-07 00:25:27 Message from starter on slot1_1@glidein_80363_709849374@iut2-c415.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/centos:7
+...
+001 (13006017.000.000) 2024-03-07 00:25:27 Job executing on host: <149.165.224.115:39559?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14186013%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3647698&PrivNet=iut2-c415.iu.edu&addrs=149.165.224.115-39559+[2001-18e8-c02-5-1623-f2ff-fe4f-21a0]-39559&alias=iut2-c415.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c415.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_80206/glide_JyVdd7/execute/dir_3241562"
+	Cpus = 1
+	Disk = 4953632
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+040 (13006020.000.000) 2024-03-07 00:25:28 Finished transferring input files
+...
+021 (13006018.000.000) 2024-03-07 00:25:28 Message from starter on slot1_1@glidein_1443281_147006900@chpc-compute024.cm.cluster:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006018.000.000) 2024-03-07 00:25:29 Job executing on host: <172.16.1.24:33925?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14067833%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3533878&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-33925&alias=chpc-compute024.cm.cluster&noUDP>
+	SlotName: slot1_1@chpc-compute024.cm.cluster
+	CondorScratchDir = "/tmp/glide_ZKMwab/execute/dir_2585871"
+	Cpus = 1
+	Disk = 15246307
+	GLIDEIN_ResourceName = "Alabama-CHPC-CE1"
+	Memory = 8192
+...
+021 (13006020.000.000) 2024-03-07 00:25:30 Message from starter on slot1_1@glidein_727742_39181192@tempest-epyc021:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2006428/glide_y522VA/images/htc__ubuntu__22.04.sif
+...
+001 (13006020.000.000) 2024-03-07 00:25:30 Job executing on host: <10.226.104.121:43121?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35688891%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3588163&PrivNet=tempest-epyc021&addrs=10.226.104.121-43121&alias=tempest-epyc021&noUDP>
+	SlotName: slot1_1@tempest-epyc021
+	CondorScratchDir = "/tmp/jobs/2006428/glide_y522VA/execute/dir_857798"
+	Cpus = 1
+	Disk = 4594460
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13005972.000.000) 2024-03-07 00:25:32 Image size of job updated: 2390872
+	59  -  MemoryUsage of job (MB)
+	59596  -  ResidentSetSize of job (KB)
+...
+040 (13005972.000.000) 2024-03-07 00:25:33 Started transferring output files
+...
+040 (13005972.000.000) 2024-03-07 00:25:33 Finished transferring output files
+...
+005 (13005972.000.000) 2024-03-07 00:25:34 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10907  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10907  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   7999507 
+	   Memory (MB)          :       59     8192      8192 
+	   TimeExecute (s)      :      307                    
+	   TimeSlotBusy (s)     :      312                    
+
+	Job terminated of its own accord at 2024-03-07T06:25:32Z with exit-code 0.
+...
+006 (13006019.000.000) 2024-03-07 00:25:35 Image size of job updated: 1
+	3  -  MemoryUsage of job (MB)
+	3020  -  ResidentSetSize of job (KB)
+...
+006 (13006017.000.000) 2024-03-07 00:25:37 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5936  -  ResidentSetSize of job (KB)
+...
+006 (13006018.000.000) 2024-03-07 00:25:38 Image size of job updated: 2426320
+	54  -  MemoryUsage of job (MB)
+	54832  -  ResidentSetSize of job (KB)
+...
+006 (13006020.000.000) 2024-03-07 00:25:40 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5668  -  ResidentSetSize of job (KB)
+...
+006 (13005974.000.000) 2024-03-07 00:25:41 Image size of job updated: 2392096
+	56  -  MemoryUsage of job (MB)
+	56752  -  ResidentSetSize of job (KB)
+...
+040 (13005974.000.000) 2024-03-07 00:25:41 Started transferring output files
+...
+040 (13005974.000.000) 2024-03-07 00:25:41 Finished transferring output files
+...
+005 (13005974.000.000) 2024-03-07 00:25:41 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1305     4194304   5048065 
+	   Memory (MB)          :    56        8192      8192 
+	   TimeExecute (s)      :   305                       
+	   TimeSlotBusy (s)     :   307                       
+
+	Job terminated of its own accord at 2024-03-07T06:25:41Z with exit-code 0.
+...
+000 (13006024.000.000) 2024-03-07 00:25:41 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006025.000.000) 2024-03-07 00:25:41 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13006025.000.000) 2024-03-07 00:25:49 Started transferring input files
+	Transferring to host: <149.165.225.18:44443?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35754531%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3666408&PrivNet=iut2-c285.iu.edu&addrs=149.165.225.18-44443+[2001-18e8-c02-5-3efd-feff-fe53-4680]-44443&alias=iut2-c285.iu.edu&noUDP>
+...
+040 (13006025.000.000) 2024-03-07 00:25:49 Finished transferring input files
+...
+021 (13006025.000.000) 2024-03-07 00:25:50 Message from starter on slot1_1@glidein_36532_5056137@iut2-c285.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006025.000.000) 2024-03-07 00:25:50 Job executing on host: <149.165.225.18:36201?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35737030%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3648648&PrivNet=iut2-c285.iu.edu&addrs=149.165.225.18-36201+[2001-18e8-c02-5-3efd-feff-fe53-4680]-36201&alias=iut2-c285.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c285.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_36494/glide_XsNXYA/execute/dir_2644124"
+	Cpus = 1
+	Disk = 5048065
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+040 (13006024.000.000) 2024-03-07 00:25:51 Started transferring input files
+	Transferring to host: <128.186.19.150:38403?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14203310%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3664823&PrivNet=scigrid9.physics.fsu.edu&addrs=128.186.19.150-38403&alias=scigrid9.physics.fsu.edu&noUDP>
+...
+040 (13006024.000.000) 2024-03-07 00:25:52 Finished transferring input files
+...
+021 (13006024.000.000) 2024-03-07 00:25:53 Message from starter on slot1_5@glidein_2369679_857995892@scigrid9.physics.fsu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006024.000.000) 2024-03-07 00:25:53 Job executing on host: <128.186.19.150:45881?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14136461%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3601339&PrivNet=scigrid9.physics.fsu.edu&addrs=128.186.19.150-45881&alias=scigrid9.physics.fsu.edu&noUDP>
+	SlotName: slot1_5@scigrid9.physics.fsu.edu
+	CondorScratchDir = "/scratch/glide_6TJRvO/execute/dir_399189"
+	Cpus = 1
+	Disk = 7999507
+	GLIDEIN_ResourceName = "OSG_US_FSU_HNPGRID"
+	Memory = 8192
+...
+006 (13006025.000.000) 2024-03-07 00:26:00 Image size of job updated: 2391776
+	60  -  MemoryUsage of job (MB)
+	60604  -  ResidentSetSize of job (KB)
+...
+006 (13006024.000.000) 2024-03-07 00:26:03 Image size of job updated: 2391064
+	59  -  MemoryUsage of job (MB)
+	60312  -  ResidentSetSize of job (KB)
+...
+006 (13005975.000.000) 2024-03-07 00:26:04 Image size of job updated: 1885176
+	47  -  MemoryUsage of job (MB)
+	47680  -  ResidentSetSize of job (KB)
+...
+040 (13005975.000.000) 2024-03-07 00:26:05 Started transferring output files
+...
+040 (13005975.000.000) 2024-03-07 00:26:05 Finished transferring output files
+...
+005 (13005975.000.000) 2024-03-07 00:26:05 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1325  4194304   5128956 
+	   Memory (MB)          :       47     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:26:04Z with exit-code 0.
+...
+006 (13005977.000.000) 2024-03-07 00:26:10 Image size of job updated: 1949296
+	31  -  MemoryUsage of job (MB)
+	31496  -  ResidentSetSize of job (KB)
+...
+040 (13005977.000.000) 2024-03-07 00:26:10 Started transferring output files
+...
+040 (13005977.000.000) 2024-03-07 00:26:10 Finished transferring output files
+...
+005 (13005977.000.000) 2024-03-07 00:26:10 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1306  4194304   5236250 
+	   Memory (MB)          :       31     8192      8192 
+	   TimeExecute (s)      :      306                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:26:10Z with exit-code 0.
+...
+006 (13005978.000.000) 2024-03-07 00:26:16 Image size of job updated: 2371212
+	63  -  MemoryUsage of job (MB)
+	63504  -  ResidentSetSize of job (KB)
+...
+006 (13005976.000.000) 2024-03-07 00:26:16 Image size of job updated: 2497584
+	54  -  MemoryUsage of job (MB)
+	54528  -  ResidentSetSize of job (KB)
+...
+040 (13005978.000.000) 2024-03-07 00:26:16 Started transferring output files
+...
+040 (13005978.000.000) 2024-03-07 00:26:16 Finished transferring output files
+...
+005 (13005978.000.000) 2024-03-07 00:26:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   4926592 
+	   Memory (MB)          :       63     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:26:16Z with exit-code 0.
+...
+000 (13006027.000.000) 2024-03-07 00:26:17 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006028.000.000) 2024-03-07 00:26:17 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005976.000.000) 2024-03-07 00:26:17 Started transferring output files
+...
+040 (13005976.000.000) 2024-03-07 00:26:17 Finished transferring output files
+...
+040 (13006027.000.000) 2024-03-07 00:26:17 Started transferring input files
+	Transferring to host: <149.165.224.123:32777?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14216174%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3659068&PrivNet=iut2-c423.iu.edu&addrs=149.165.224.123-32777+[2001-18e8-c02-5-1623-f2ff-fe4e-92b0]-32777&alias=iut2-c423.iu.edu&noUDP>
+...
+040 (13006027.000.000) 2024-03-07 00:26:17 Finished transferring input files
+...
+005 (13005976.000.000) 2024-03-07 00:26:18 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   4548092 
+	   Memory (MB)          :       54     8192      8192 
+	   TimeExecute (s)      :      309                    
+	   TimeSlotBusy (s)     :      315                    
+
+	Job terminated of its own accord at 2024-03-07T06:26:16Z with exit-code 0.
+...
+040 (13006028.000.000) 2024-03-07 00:26:18 Started transferring input files
+	Transferring to host: <172.19.0.2:37817?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14203330%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3662621&PrivNet=osg-1365650.0-red-c5409.unl.edu&addrs=172.19.0.2-37817&alias=osg-1365650.0-red-c5409.unl.edu&noUDP>
+...
+040 (13006028.000.000) 2024-03-07 00:26:19 Finished transferring input files
+...
+021 (13006027.000.000) 2024-03-07 00:26:19 Message from starter on slot1_1@glidein_52879_439771352@iut2-c423.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/debian:12
+...
+001 (13006027.000.000) 2024-03-07 00:26:19 Job executing on host: <149.165.224.123:46273?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14185335%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3644794&PrivNet=iut2-c423.iu.edu&addrs=149.165.224.123-46273+[2001-18e8-c02-5-1623-f2ff-fe4e-92b0]-46273&alias=iut2-c423.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c423.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_52873/glide_oBf8cS/execute/dir_3587996"
+	Cpus = 1
+	Disk = 4926592
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+021 (13006028.000.000) 2024-03-07 00:26:21 Message from starter on slot1_7@glidein_7_153835136@osg-1365650.0-red-c5409.unl.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006028.000.000) 2024-03-07 00:26:21 Job executing on host: <172.19.0.2:42981?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35671525%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3576525&PrivNet=osg-1365650.0-red-c5409.unl.edu&addrs=172.19.0.2-42981&alias=osg-1365650.0-red-c5409.unl.edu&noUDP>
+	SlotName: slot1_7@osg-1365650.0-red-c5409.unl.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_595704/glide_cuVcl4/execute/dir_1999250"
+	Cpus = 1
+	Disk = 5128956
+	GLIDEIN_ResourceName = "Nebraska"
+	Memory = 8192
+...
+006 (13006027.000.000) 2024-03-07 00:26:28 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5684  -  ResidentSetSize of job (KB)
+...
+006 (13006028.000.000) 2024-03-07 00:26:30 Image size of job updated: 1
+	9  -  MemoryUsage of job (MB)
+	8456  -  ResidentSetSize of job (KB)
+...
+006 (13005981.000.000) 2024-03-07 00:26:43 Image size of job updated: 2395612
+	51  -  MemoryUsage of job (MB)
+	52092  -  ResidentSetSize of job (KB)
+...
+040 (13005981.000.000) 2024-03-07 00:26:43 Started transferring output files
+...
+040 (13005981.000.000) 2024-03-07 00:26:43 Finished transferring output files
+...
+005 (13005981.000.000) 2024-03-07 00:26:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1312  4194304   6061510 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:26:43Z with exit-code 0.
+...
+040 (13005980.000.000) 2024-03-07 00:26:46 Started transferring output files
+...
+040 (13005980.000.000) 2024-03-07 00:26:47 Finished transferring output files
+...
+005 (13005980.000.000) 2024-03-07 00:26:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   5328905 
+	   Memory (MB)          :       52     8192      8192 
+	   TimeExecute (s)      :      309                    
+	   TimeSlotBusy (s)     :      315                    
+
+	Job terminated of its own accord at 2024-03-07T06:26:46Z with exit-code 0.
+...
+000 (13006030.000.000) 2024-03-07 00:26:52 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006031.000.000) 2024-03-07 00:26:53 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006032.000.000) 2024-03-07 00:26:53 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006033.000.000) 2024-03-07 00:26:53 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13006031.000.000) 2024-03-07 00:26:54 Started transferring input files
+	Transferring to host: <146.163.142.18:40753?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14203342%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3664852&PrivNet=cc-cpu-08.hpc.siue.edu&addrs=146.163.142.18-40753&alias=cc-cpu-08.hpc.siue.edu&noUDP>
+...
+040 (13006031.000.000) 2024-03-07 00:26:54 Finished transferring input files
+...
+040 (13006030.000.000) 2024-03-07 00:26:55 Started transferring input files
+	Transferring to host: <10.226.104.106:35547?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35760953%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3666998&PrivNet=tempest-epyc006&addrs=10.226.104.106-35547&alias=tempest-epyc006&noUDP>
+...
+021 (13006031.000.000) 2024-03-07 00:26:55 Message from starter on slot1_15@glidein_2052166_266420936@cc-cpu-08.hpc.siue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006031.000.000) 2024-03-07 00:26:55 Job executing on host: <146.163.142.18:41197?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35793171%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3636957&PrivNet=cc-cpu-08.hpc.siue.edu&addrs=146.163.142.18-41197&alias=cc-cpu-08.hpc.siue.edu&noUDP>
+	SlotName: slot1_15@cc-cpu-08.hpc.siue.edu
+	CondorScratchDir = "/scratch/glide_fWY0IO/execute/dir_3094774"
+	Cpus = 1
+	Disk = 6061510
+	GLIDEIN_ResourceName = "SIUE-CC-production"
+	Memory = 8192
+...
+040 (13006030.000.000) 2024-03-07 00:26:56 Finished transferring input files
+...
+021 (13006030.000.000) 2024-03-07 00:26:58 Message from starter on slot1_4@glidein_1389745_334547060@tempest-epyc006:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2007537/glide_vyF7Ai/images/htc__rocky__8.sif
+...
+001 (13006030.000.000) 2024-03-07 00:26:58 Job executing on host: <10.226.104.106:45577?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14137931%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3610034&PrivNet=tempest-epyc006&addrs=10.226.104.106-45577&alias=tempest-epyc006&noUDP>
+	SlotName: slot1_4@tempest-epyc006
+	CondorScratchDir = "/tmp/jobs/2007537/glide_vyF7Ai/execute/dir_2656665"
+	Cpus = 1
+	Disk = 5328905
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13006032.000.000) 2024-03-07 00:27:04 Started transferring input files
+	Transferring to host: <192.170.241.55:37687?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14203347%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3661247&PrivNet=uct2-c522.mwt2.org&addrs=192.170.241.55-37687+[2605-9a00-10-200a-6a05-caff-feca-ae14]-37687&alias=uct2-c522.mwt2.org&noUDP>
+...
+040 (13006032.000.000) 2024-03-07 00:27:04 Finished transferring input files
+...
+040 (13006033.000.000) 2024-03-07 00:27:04 Started transferring input files
+	Transferring to host: <149.165.224.89:42441?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14194620%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3659710&PrivNet=iut2-c389.iu.edu&addrs=149.165.224.89-42441+[2001-18e8-c02-5-5e6f-69ff-feb7-14f0]-42441&alias=iut2-c389.iu.edu&noUDP>
+...
+040 (13006033.000.000) 2024-03-07 00:27:04 Finished transferring input files
+...
+006 (13006031.000.000) 2024-03-07 00:27:04 Image size of job updated: 1
+	4  -  MemoryUsage of job (MB)
+	3380  -  ResidentSetSize of job (KB)
+...
+021 (13006032.000.000) 2024-03-07 00:27:05 Message from starter on slot1_2@glidein_38002_633568080@uct2-c522.mwt2.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006032.000.000) 2024-03-07 00:27:05 Job executing on host: <192.170.241.55:46213?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35738579%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3642551&PrivNet=uct2-c522.mwt2.org&addrs=192.170.241.55-46213+[2605-9a00-10-200a-6a05-caff-feca-ae14]-46213&alias=uct2-c522.mwt2.org&noUDP>
+	SlotName: slot1_2@uct2-c522.mwt2.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_37869/glide_EHYTC2/execute/dir_29797"
+	Cpus = 1
+	Disk = 5766286
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+021 (13006033.000.000) 2024-03-07 00:27:05 Message from starter on slot1_1@glidein_38770_161550948@iut2-c389.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006033.000.000) 2024-03-07 00:27:05 Job executing on host: <149.165.224.89:38979?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14187465%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3645505&PrivNet=iut2-c389.iu.edu&addrs=149.165.224.89-38979+[2001-18e8-c02-5-5e6f-69ff-feb7-14f0]-38979&alias=iut2-c389.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c389.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_38462/glide_5ZKy1q/execute/dir_2875236"
+	Cpus = 1
+	Disk = 7811869
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+006 (13006030.000.000) 2024-03-07 00:27:07 Image size of job updated: 2495696
+	52  -  MemoryUsage of job (MB)
+	52556  -  ResidentSetSize of job (KB)
+...
+006 (13006032.000.000) 2024-03-07 00:27:14 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5740  -  ResidentSetSize of job (KB)
+...
+006 (13006033.000.000) 2024-03-07 00:27:15 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5708  -  ResidentSetSize of job (KB)
+...
+006 (13005985.000.000) 2024-03-07 00:27:18 Image size of job updated: 2391712
+	61  -  MemoryUsage of job (MB)
+	62184  -  ResidentSetSize of job (KB)
+...
+040 (13005985.000.000) 2024-03-07 00:27:18 Started transferring output files
+...
+040 (13005985.000.000) 2024-03-07 00:27:18 Finished transferring output files
+...
+005 (13005985.000.000) 2024-03-07 00:27:18 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5436404 
+	   Memory (MB)          :       61     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:27:18Z with exit-code 0.
+...
+006 (13005983.000.000) 2024-03-07 00:27:25 Image size of job updated: 2470548
+	54  -  MemoryUsage of job (MB)
+	54716  -  ResidentSetSize of job (KB)
+...
+040 (13005983.000.000) 2024-03-07 00:27:25 Started transferring output files
+...
+040 (13005983.000.000) 2024-03-07 00:27:25 Finished transferring output files
+...
+005 (13005983.000.000) 2024-03-07 00:27:26 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   5011577 
+	   Memory (MB)          :       54     8192      8192 
+	   TimeExecute (s)      :      309                    
+	   TimeSlotBusy (s)     :      314                    
+
+	Job terminated of its own accord at 2024-03-07T06:27:24Z with exit-code 0.
+...
+000 (13006035.000.000) 2024-03-07 00:27:28 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006036.000.000) 2024-03-07 00:27:28 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13005984.000.000) 2024-03-07 00:27:29 Started transferring output files
+...
+040 (13005984.000.000) 2024-03-07 00:27:29 Finished transferring output files
+...
+005 (13005984.000.000) 2024-03-07 00:27:30 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.02        1         1 
+	   Disk (KB)            :  1297     4194304   4552008 
+	   Memory (MB)          :    52        8192      8192 
+	   TimeExecute (s)      :   310                       
+	   TimeSlotBusy (s)     :   317                       
+
+	Job terminated of its own accord at 2024-03-07T06:27:28Z with exit-code 0.
+...
+040 (13006036.000.000) 2024-03-07 00:27:30 Started transferring input files
+	Transferring to host: <149.165.225.141:33611?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36604499%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3666472&PrivNet=cit2-c011.mwt2.org&addrs=149.165.225.141-33611+[2001-18e8-c02-5-ca1f-66ff-fed1-dcac]-33611&alias=cit2-c011.mwt2.org&noUDP>
+...
+040 (13006036.000.000) 2024-03-07 00:27:30 Finished transferring input files
+...
+040 (13006035.000.000) 2024-03-07 00:27:30 Started transferring input files
+	Transferring to host: <10.226.104.103:39677?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35742153%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3661277&PrivNet=tempest-epyc003&addrs=10.226.104.103-39677&alias=tempest-epyc003&noUDP>
+...
+040 (13006035.000.000) 2024-03-07 00:27:31 Finished transferring input files
+...
+021 (13006036.000.000) 2024-03-07 00:27:32 Message from starter on slot1_2@glidein_34788_213845000@cit2-c011.mwt2.org:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006036.000.000) 2024-03-07 00:27:32 Job executing on host: <149.165.225.141:36329?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35743666%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3647525&PrivNet=cit2-c011.mwt2.org&addrs=149.165.225.141-36329+[2001-18e8-c02-5-ca1f-66ff-fed1-dcac]-36329&alias=cit2-c011.mwt2.org&noUDP>
+	SlotName: slot1_2@cit2-c011.mwt2.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_34621/glide_iHPF5n/execute/dir_1098747"
+	Cpus = 1
+	Disk = 5436404
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+021 (13006035.000.000) 2024-03-07 00:27:33 Message from starter on slot1_1@glidein_628809_162784160@tempest-epyc003:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008205/glide_IRf9Ac/images/htc__rocky__9.sif
+...
+001 (13006035.000.000) 2024-03-07 00:27:33 Job executing on host: <10.226.104.103:39249?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35708852%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3620116&PrivNet=tempest-epyc003&addrs=10.226.104.103-39249&alias=tempest-epyc003&noUDP>
+	SlotName: slot1_1@tempest-epyc003
+	CondorScratchDir = "/tmp/jobs/2008205/glide_IRf9Ac/execute/dir_2922558"
+	Cpus = 1
+	Disk = 5011577
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13006036.000.000) 2024-03-07 00:27:41 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5836  -  ResidentSetSize of job (KB)
+...
+006 (13006035.000.000) 2024-03-07 00:27:42 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5500  -  ResidentSetSize of job (KB)
+...
+006 (13005990.000.000) 2024-03-07 00:27:53 Image size of job updated: 2370444
+	58  -  MemoryUsage of job (MB)
+	59128  -  ResidentSetSize of job (KB)
+...
+040 (13005990.000.000) 2024-03-07 00:27:53 Started transferring output files
+...
+040 (13005990.000.000) 2024-03-07 00:27:53 Finished transferring output files
+...
+005 (13005990.000.000) 2024-03-07 00:27:53 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5007604 
+	   Memory (MB)          :       58     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:27:53Z with exit-code 0.
+...
+006 (13005991.000.000) 2024-03-07 00:27:54 Image size of job updated: 2387400
+	53  -  MemoryUsage of job (MB)
+	53664  -  ResidentSetSize of job (KB)
+...
+040 (13005991.000.000) 2024-03-07 00:27:55 Started transferring output files
+...
+040 (13005991.000.000) 2024-03-07 00:27:55 Finished transferring output files
+...
+005 (13005991.000.000) 2024-03-07 00:27:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5384161 
+	   Memory (MB)          :       53     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:27:54Z with exit-code 0.
+...
+006 (13005992.000.000) 2024-03-07 00:27:55 Image size of job updated: 2387400
+	51  -  MemoryUsage of job (MB)
+	51756  -  ResidentSetSize of job (KB)
+...
+040 (13005992.000.000) 2024-03-07 00:27:55 Started transferring output files
+...
+040 (13005992.000.000) 2024-03-07 00:27:55 Finished transferring output files
+...
+005 (13005992.000.000) 2024-03-07 00:27:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5496021 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:27:55Z with exit-code 0.
+...
+006 (13005989.000.000) 2024-03-07 00:27:57 Image size of job updated: 2340968
+	53  -  MemoryUsage of job (MB)
+	53288  -  ResidentSetSize of job (KB)
+...
+040 (13005989.000.000) 2024-03-07 00:27:57 Started transferring output files
+...
+040 (13005989.000.000) 2024-03-07 00:27:57 Finished transferring output files
+...
+005 (13005989.000.000) 2024-03-07 00:27:58 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.04        1         1 
+	   Disk (KB)            :  1298     4194304   4868285 
+	   Memory (MB)          :    53        8192      8192 
+	   TimeExecute (s)      :   309                       
+	   TimeSlotBusy (s)     :   314                       
+
+	Job terminated of its own accord at 2024-03-07T06:27:57Z with exit-code 0.
+...
+006 (13005993.000.000) 2024-03-07 00:28:00 Image size of job updated: 2498096
+	56  -  MemoryUsage of job (MB)
+	56408  -  ResidentSetSize of job (KB)
+...
+040 (13005993.000.000) 2024-03-07 00:28:01 Started transferring output files
+...
+040 (13005993.000.000) 2024-03-07 00:28:01 Finished transferring output files
+...
+005 (13005993.000.000) 2024-03-07 00:28:01 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.01        1         1 
+	   Disk (KB)            :  1298     4194304   4753711 
+	   Memory (MB)          :    56        8192      8192 
+	   TimeExecute (s)      :   308                       
+	   TimeSlotBusy (s)     :   312                       
+
+	Job terminated of its own accord at 2024-03-07T06:28:00Z with exit-code 0.
+...
+000 (13006037.000.000) 2024-03-07 00:28:04 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006038.000.000) 2024-03-07 00:28:04 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006039.000.000) 2024-03-07 00:28:04 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13006037.000.000) 2024-03-07 00:28:06 Started transferring input files
+	Transferring to host: <10.226.104.109:33737?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822785%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3663539&PrivNet=tempest-epyc009&addrs=10.226.104.109-33737&alias=tempest-epyc009&noUDP>
+...
+040 (13006037.000.000) 2024-03-07 00:28:06 Finished transferring input files
+...
+040 (13006039.000.000) 2024-03-07 00:28:08 Started transferring input files
+	Transferring to host: <137.99.174.19:38333?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822788%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3663543&PrivNet=cn425.storrs.hpc.uconn.edu&addrs=137.99.174.19-38333&alias=cn425.storrs.hpc.uconn.edu&noUDP>
+...
+021 (13006037.000.000) 2024-03-07 00:28:08 Message from starter on slot1_5@glidein_1227270_70474152@tempest-epyc009:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2006766/glide_WH7zbv/images/htc__centos__7.sif
+...
+001 (13006037.000.000) 2024-03-07 00:28:08 Job executing on host: <10.226.104.109:41281?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35694015%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3600013&PrivNet=tempest-epyc009&addrs=10.226.104.109-41281&alias=tempest-epyc009&noUDP>
+	SlotName: slot1_5@tempest-epyc009
+	CondorScratchDir = "/tmp/jobs/2006766/glide_WH7zbv/execute/dir_186512"
+	Cpus = 1
+	Disk = 4868285
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13006038.000.000) 2024-03-07 00:28:08 Started transferring input files
+	Transferring to host: <137.99.174.36:39037?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822789%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3666487&PrivNet=cn441.storrs.hpc.uconn.edu&addrs=137.99.174.36-39037&alias=cn441.storrs.hpc.uconn.edu&noUDP>
+...
+040 (13006039.000.000) 2024-03-07 00:28:08 Finished transferring input files
+...
+040 (13006038.000.000) 2024-03-07 00:28:08 Finished transferring input files
+...
+021 (13006039.000.000) 2024-03-07 00:28:10 Message from starter on slot1_1@glidein_3261492_569506350@cn425.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006039.000.000) 2024-03-07 00:28:10 Job executing on host: <137.99.174.19:35327?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35719453%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3642128&PrivNet=cn425.storrs.hpc.uconn.edu&addrs=137.99.174.19-35327&alias=cn425.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_1@cn425.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6197472/glide_EBG8cg/execute/dir_952623"
+	Cpus = 1
+	Disk = 5496021
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+021 (13006038.000.000) 2024-03-07 00:28:10 Message from starter on slot1_5@glidein_2123106_42855450@cn441.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006038.000.000) 2024-03-07 00:28:10 Job executing on host: <137.99.174.36:39223?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35672244%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3580414&PrivNet=cn441.storrs.hpc.uconn.edu&addrs=137.99.174.36-39223&alias=cn441.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_5@cn441.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6185891/glide_bFuAvH/execute/dir_3882847"
+	Cpus = 1
+	Disk = 5384161
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+006 (13006037.000.000) 2024-03-07 00:28:17 Image size of job updated: 2487920
+	49  -  MemoryUsage of job (MB)
+	50088  -  ResidentSetSize of job (KB)
+...
+006 (13006039.000.000) 2024-03-07 00:28:19 Image size of job updated: 2319492
+	53  -  MemoryUsage of job (MB)
+	54052  -  ResidentSetSize of job (KB)
+...
+006 (13006038.000.000) 2024-03-07 00:28:19 Image size of job updated: 2319492
+	53  -  MemoryUsage of job (MB)
+	53520  -  ResidentSetSize of job (KB)
+...
+006 (13006001.000.000) 2024-03-07 00:28:32 Image size of job updated: 1748588
+	30  -  MemoryUsage of job (MB)
+	30180  -  ResidentSetSize of job (KB)
+...
+040 (13006001.000.000) 2024-03-07 00:28:33 Started transferring output files
+...
+040 (13006001.000.000) 2024-03-07 00:28:33 Finished transferring output files
+...
+005 (13006001.000.000) 2024-03-07 00:28:34 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10909  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10909  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   4528995 
+	   Memory (MB)          :       30     8192      8192 
+	   TimeExecute (s)      :      306                    
+	   TimeSlotBusy (s)     :      310                    
+
+	Job terminated of its own accord at 2024-03-07T06:28:32Z with exit-code 0.
+...
+006 (13006000.000.000) 2024-03-07 00:28:34 Image size of job updated: 2497840
+	53  -  MemoryUsage of job (MB)
+	53680  -  ResidentSetSize of job (KB)
+...
+040 (13006000.000.000) 2024-03-07 00:28:35 Started transferring output files
+...
+040 (13006000.000.000) 2024-03-07 00:28:35 Finished transferring output files
+...
+005 (13006000.000.000) 2024-03-07 00:28:35 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1297     4194304   5122817 
+	   Memory (MB)          :    53        8192      8192 
+	   TimeExecute (s)      :   310                       
+	   TimeSlotBusy (s)     :   315                       
+
+	Job terminated of its own accord at 2024-03-07T06:28:34Z with exit-code 0.
+...
+040 (13006002.000.000) 2024-03-07 00:28:37 Started transferring output files
+...
+040 (13006002.000.000) 2024-03-07 00:28:37 Finished transferring output files
+...
+005 (13006002.000.000) 2024-03-07 00:28:38 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1298  4194304   4874968 
+	   Memory (MB)          :       52     8192      8192 
+	   TimeExecute (s)      :      310                    
+	   TimeSlotBusy (s)     :      314                    
+
+	Job terminated of its own accord at 2024-03-07T06:28:37Z with exit-code 0.
+...
+006 (13006003.000.000) 2024-03-07 00:28:38 Image size of job updated: 2465360
+	49  -  MemoryUsage of job (MB)
+	49212  -  ResidentSetSize of job (KB)
+...
+040 (13006003.000.000) 2024-03-07 00:28:39 Started transferring output files
+...
+040 (13006003.000.000) 2024-03-07 00:28:39 Finished transferring output files
+...
+000 (13006040.000.000) 2024-03-07 00:28:39 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+005 (13006003.000.000) 2024-03-07 00:28:40 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   4940487 
+	   Memory (MB)          :       49     8192      8192 
+	   TimeExecute (s)      :      309                    
+	   TimeSlotBusy (s)     :      316                    
+
+	Job terminated of its own accord at 2024-03-07T06:28:38Z with exit-code 0.
+...
+000 (13006041.000.000) 2024-03-07 00:28:40 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006042.000.000) 2024-03-07 00:28:40 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006043.000.000) 2024-03-07 00:28:40 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006044.000.000) 2024-03-07 00:28:40 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13006041.000.000) 2024-03-07 00:28:42 Started transferring input files
+	Transferring to host: <10.226.104.122:36347?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221803%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3661320&PrivNet=tempest-epyc022&addrs=10.226.104.122-36347&alias=tempest-epyc022&noUDP>
+...
+040 (13006040.000.000) 2024-03-07 00:28:42 Started transferring input files
+	Transferring to host: <10.226.104.104:45557?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822814%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#3663567&PrivNet=tempest-epyc004&addrs=10.226.104.104-45557&alias=tempest-epyc004&noUDP>
+...
+040 (13006041.000.000) 2024-03-07 00:28:42 Finished transferring input files
+...
+040 (13006043.000.000) 2024-03-07 00:28:43 Started transferring input files
+	Transferring to host: <10.226.104.117:44241?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14203429%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3662725&PrivNet=tempest-epyc017&addrs=10.226.104.117-44241&alias=tempest-epyc017&noUDP>
+...
+040 (13006043.000.000) 2024-03-07 00:28:44 Finished transferring input files
+...
+040 (13006042.000.000) 2024-03-07 00:28:44 Started transferring input files
+	Transferring to host: <192.168.4.108:45454?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35822815%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3659165&PrivNet=lnxfarm308.colorado.edu&addrs=192.168.4.108-45454&alias=lnxfarm308.colorado.edu&noUDP>
+...
+040 (13006040.000.000) 2024-03-07 00:28:44 Finished transferring input files
+...
+021 (13006041.000.000) 2024-03-07 00:28:44 Message from starter on slot1_4@glidein_1596775_199699766@tempest-epyc022:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2007988/glide_eTvk6t/images/htc__rocky__8.sif
+...
+001 (13006041.000.000) 2024-03-07 00:28:44 Job executing on host: <10.226.104.122:41983?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35710321%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3611627&PrivNet=tempest-epyc022&addrs=10.226.104.122-41983&alias=tempest-epyc022&noUDP>
+	SlotName: slot1_4@tempest-epyc022
+	CondorScratchDir = "/tmp/jobs/2007988/glide_eTvk6t/execute/dir_291542"
+	Cpus = 1
+	Disk = 5122817
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13006042.000.000) 2024-03-07 00:28:45 Finished transferring input files
+...
+006 (13006004.000.000) 2024-03-07 00:28:46 Image size of job updated: 2425296
+	32  -  MemoryUsage of job (MB)
+	32096  -  ResidentSetSize of job (KB)
+...
+021 (13006042.000.000) 2024-03-07 00:28:46 Message from starter on slot1_2@glidein_23023_83949600@lnxfarm308.colorado.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+040 (13006004.000.000) 2024-03-07 00:28:46 Started transferring output files
+...
+001 (13006042.000.000) 2024-03-07 00:28:46 Job executing on host: <192.168.4.108:45701?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14147098%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3603886&PrivNet=lnxfarm308.colorado.edu&addrs=192.168.4.108-45701&alias=lnxfarm308.colorado.edu&noUDP>
+	SlotName: slot1_2@lnxfarm308.colorado.edu
+	CondorScratchDir = "/sge-batch/glide_R5xqvC/execute/dir_4427"
+	Cpus = 1
+	Disk = 4528995
+	GLIDEIN_ResourceName = "UColorado_HEP"
+	Memory = 8192
+...
+040 (13006004.000.000) 2024-03-07 00:28:46 Finished transferring output files
+...
+021 (13006043.000.000) 2024-03-07 00:28:46 Message from starter on slot1_6@glidein_769130_15575040@tempest-epyc017:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2002128/glide_C7ZY9d/images/htc__rocky__8.sif
+...
+001 (13006043.000.000) 2024-03-07 00:28:46 Job executing on host: <10.226.104.117:42977?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14071833%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3535215&PrivNet=tempest-epyc017&addrs=10.226.104.117-42977&alias=tempest-epyc017&noUDP>
+	SlotName: slot1_6@tempest-epyc017
+	CondorScratchDir = "/tmp/jobs/2002128/glide_C7ZY9d/execute/dir_975873"
+	Cpus = 1
+	Disk = 4874968
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+005 (13006004.000.000) 2024-03-07 00:28:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10908  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10908  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1308  4194304  15246307 
+	   Memory (MB)          :       32     8192      8192 
+	   TimeExecute (s)      :      307                    
+	   TimeSlotBusy (s)     :      311                    
+
+	Job terminated of its own accord at 2024-03-07T06:28:46Z with exit-code 0.
+...
+021 (13006040.000.000) 2024-03-07 00:28:46 Message from starter on slot1_1@glidein_2707543_315816765@tempest-epyc004:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008211/glide_yQudYB/images/htc__ubuntu__22.04.sif
+...
+001 (13006040.000.000) 2024-03-07 00:28:46 Job executing on host: <10.226.104.104:40289?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35776932%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3614075&PrivNet=tempest-epyc004&addrs=10.226.104.104-40289&alias=tempest-epyc004&noUDP>
+	SlotName: slot1_1@tempest-epyc004
+	CondorScratchDir = "/tmp/jobs/2008211/glide_yQudYB/execute/dir_912363"
+	Cpus = 1
+	Disk = 4940487
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13006044.000.000) 2024-03-07 00:28:47 Started transferring input files
+	Transferring to host: <172.16.1.24:39095?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35761040%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3662737&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-39095&alias=chpc-compute024.cm.cluster&noUDP>
+...
+040 (13006044.000.000) 2024-03-07 00:28:47 Finished transferring input files
+...
+021 (13006044.000.000) 2024-03-07 00:28:49 Message from starter on slot1_7@glidein_1443281_147006900@chpc-compute024.cm.cluster:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006044.000.000) 2024-03-07 00:28:49 Job executing on host: <172.16.1.24:33925?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14067833%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3533878&PrivNet=chpc-compute024.cm.cluster&addrs=172.16.1.24-33925&alias=chpc-compute024.cm.cluster&noUDP>
+	SlotName: slot1_7@chpc-compute024.cm.cluster
+	CondorScratchDir = "/tmp/glide_ZKMwab/execute/dir_2590574"
+	Cpus = 1
+	Disk = 15246307
+	GLIDEIN_ResourceName = "Alabama-CHPC-CE1"
+	Memory = 8192
+...
+006 (13006041.000.000) 2024-03-07 00:28:54 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5616  -  ResidentSetSize of job (KB)
+...
+006 (13006043.000.000) 2024-03-07 00:28:55 Image size of job updated: 2497840
+	56  -  MemoryUsage of job (MB)
+	56368  -  ResidentSetSize of job (KB)
+...
+006 (13006042.000.000) 2024-03-07 00:28:55 Image size of job updated: 1820536
+	30  -  MemoryUsage of job (MB)
+	29744  -  ResidentSetSize of job (KB)
+...
+006 (13006040.000.000) 2024-03-07 00:28:56 Image size of job updated: 2466128
+	48  -  MemoryUsage of job (MB)
+	49112  -  ResidentSetSize of job (KB)
+...
+006 (13006044.000.000) 2024-03-07 00:28:58 Image size of job updated: 1
+	7  -  MemoryUsage of job (MB)
+	6344  -  ResidentSetSize of job (KB)
+...
+040 (13006005.000.000) 2024-03-07 00:29:05 Started transferring output files
+...
+040 (13006005.000.000) 2024-03-07 00:29:05 Finished transferring output files
+...
+005 (13006005.000.000) 2024-03-07 00:29:06 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1297  4194304   4548010 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      310                    
+	   TimeSlotBusy (s)     :      315                    
+
+	Job terminated of its own accord at 2024-03-07T06:29:05Z with exit-code 0.
+...
+000 (13006045.000.000) 2024-03-07 00:29:15 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+006 (13006011.000.000) 2024-03-07 00:29:15 Image size of job updated: 2387400
+	52  -  MemoryUsage of job (MB)
+	52848  -  ResidentSetSize of job (KB)
+...
+000 (13006046.000.000) 2024-03-07 00:29:16 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006047.000.000) 2024-03-07 00:29:16 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006048.000.000) 2024-03-07 00:29:16 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+006 (13006012.000.000) 2024-03-07 00:29:16 Image size of job updated: 2764144
+	55  -  MemoryUsage of job (MB)
+	55440  -  ResidentSetSize of job (KB)
+...
+040 (13006011.000.000) 2024-03-07 00:29:16 Started transferring output files
+...
+040 (13006011.000.000) 2024-03-07 00:29:16 Finished transferring output files
+...
+040 (13006012.000.000) 2024-03-07 00:29:16 Started transferring output files
+...
+040 (13006012.000.000) 2024-03-07 00:29:16 Finished transferring output files
+...
+005 (13006012.000.000) 2024-03-07 00:29:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10912  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10912  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1315  4194304   4732195 
+	   Memory (MB)          :       55     8192      8192 
+	   TimeExecute (s)      :      306                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:29:16Z with exit-code 0.
+...
+005 (13006011.000.000) 2024-03-07 00:29:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   5388006 
+	   Memory (MB)          :       52     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      309                    
+
+	Job terminated of its own accord at 2024-03-07T06:29:15Z with exit-code 0.
+...
+040 (13006045.000.000) 2024-03-07 00:29:17 Started transferring input files
+	Transferring to host: <10.226.104.104:44403?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14216322%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector9#3666555&PrivNet=tempest-epyc004&addrs=10.226.104.104-44403&alias=tempest-epyc004&noUDP>
+...
+040 (13006045.000.000) 2024-03-07 00:29:18 Finished transferring input files
+...
+021 (13006045.000.000) 2024-03-07 00:29:20 Message from starter on slot1_5@glidein_2838387_551538918@tempest-epyc004:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2008216/glide_xj66wd/images/htc__rocky__8.sif
+...
+001 (13006045.000.000) 2024-03-07 00:29:20 Job executing on host: <10.226.104.104:41457?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14176534%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3614982&PrivNet=tempest-epyc004&addrs=10.226.104.104-41457&alias=tempest-epyc004&noUDP>
+	SlotName: slot1_5@tempest-epyc004
+	CondorScratchDir = "/tmp/jobs/2008216/glide_xj66wd/execute/dir_920308"
+	Cpus = 1
+	Disk = 4548010
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+040 (13006047.000.000) 2024-03-07 00:29:25 Started transferring input files
+	Transferring to host: <172.18.91.111:36249?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221851%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659737&PrivNet=a869.anvil.rcac.purdue.edu&addrs=172.18.91.111-36249&alias=a869.anvil.rcac.purdue.edu&noUDP>
+...
+040 (13006047.000.000) 2024-03-07 00:29:25 Finished transferring input files
+...
+040 (13006046.000.000) 2024-03-07 00:29:26 Started transferring input files
+	Transferring to host: <137.99.174.24:38791?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14194733%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3659816&PrivNet=cn429.storrs.hpc.uconn.edu&addrs=137.99.174.24-38791&alias=cn429.storrs.hpc.uconn.edu&noUDP>
+...
+040 (13006046.000.000) 2024-03-07 00:29:26 Finished transferring input files
+...
