@@ -62085,3 +62085,897 @@
 ...
 000 (13006052.000.000) 2024-03-07 00:29:52 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
 ...
+040 (13006049.000.000) 2024-03-07 00:30:16 Started transferring input files
+	Transferring to host: <172.16.1.4:45875?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector4#35742262%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659771&PrivNet=chpc-compute004.cm.cluster&addrs=172.16.1.4-45875&alias=chpc-compute004.cm.cluster&noUDP>
+...
+040 (13006049.000.000) 2024-03-07 00:30:16 Finished transferring input files
+...
+040 (13006050.000.000) 2024-03-07 00:30:17 Started transferring input files
+	Transferring to host: <10.226.104.122:46255?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221878%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#3661393&PrivNet=tempest-epyc022&addrs=10.226.104.122-46255&alias=tempest-epyc022&noUDP>
+...
+040 (13006050.000.000) 2024-03-07 00:30:17 Finished transferring input files
+...
+021 (13006049.000.000) 2024-03-07 00:30:17 Message from starter on slot1_4@glidein_2182077_27580040@chpc-compute004.cm.cluster:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006049.000.000) 2024-03-07 00:30:17 Job executing on host: <172.16.1.4:41943?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36478620%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3533701&PrivNet=chpc-compute004.cm.cluster&addrs=172.16.1.4-41943&alias=chpc-compute004.cm.cluster&noUDP>
+	SlotName: slot1_4@chpc-compute004.cm.cluster
+	CondorScratchDir = "/tmp/glide_04XFya/execute/dir_1226366"
+	Cpus = 1
+	Disk = 15239340
+	GLIDEIN_ResourceName = "Alabama-CHPC-CE1"
+	Memory = 8192
+...
+021 (13006050.000.000) 2024-03-07 00:30:19 Message from starter on slot1_4@glidein_125456_95010582@tempest-epyc022:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2006490/glide_SuhICe/images/htc__rocky__8.sif
+...
+001 (13006050.000.000) 2024-03-07 00:30:19 Job executing on host: <10.226.104.122:35365?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14153337%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3591588&PrivNet=tempest-epyc022&addrs=10.226.104.122-35365&alias=tempest-epyc022&noUDP>
+	SlotName: slot1_4@tempest-epyc022
+	CondorScratchDir = "/tmp/jobs/2006490/glide_SuhICe/execute/dir_303229"
+	Cpus = 1
+	Disk = 4621635
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	Memory = 8192
+...
+006 (13005973.000.000) 2024-03-07 00:30:25 Image size of job updated: 3356072
+	69  -  MemoryUsage of job (MB)
+	70104  -  ResidentSetSize of job (KB)
+...
+006 (13006049.000.000) 2024-03-07 00:30:27 Image size of job updated: 2426448
+	32  -  MemoryUsage of job (MB)
+	32440  -  ResidentSetSize of job (KB)
+...
+006 (13006050.000.000) 2024-03-07 00:30:28 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5608  -  ResidentSetSize of job (KB)
+...
+006 (13006019.000.000) 2024-03-07 00:30:29 Image size of job updated: 1881904
+	32  -  MemoryUsage of job (MB)
+	32568  -  ResidentSetSize of job (KB)
+...
+040 (13006019.000.000) 2024-03-07 00:30:29 Started transferring output files
+...
+040 (13006019.000.000) 2024-03-07 00:30:29 Finished transferring output files
+...
+005 (13006019.000.000) 2024-03-07 00:30:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10912  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10912  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1304     4194304   5570588 
+	   Memory (MB)          :    32        8192      8192 
+	   TimeExecute (s)      :   303                       
+	   TimeSlotBusy (s)     :   305                       
+
+	Job terminated of its own accord at 2024-03-07T06:30:29Z with exit-code 0.
+...
+040 (13006051.000.000) 2024-03-07 00:30:30 Started transferring input files
+	Transferring to host: <10.32.86.121:46686?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35761126%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector8#3659807&PrivNet=d12chas563.crc.nd.edu&addrs=10.32.86.121-46686&alias=d12chas563.crc.nd.edu&noUDP>
+...
+040 (13006051.000.000) 2024-03-07 00:30:30 Finished transferring input files
+...
+021 (13006051.000.000) 2024-03-07 00:30:32 Message from starter on slot1_1@glidein_27965_754752200@d12chas563.crc.nd.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+006 (13006017.000.000) 2024-03-07 00:30:32 Image size of job updated: 2390400
+	58  -  MemoryUsage of job (MB)
+	58936  -  ResidentSetSize of job (KB)
+...
+001 (13006051.000.000) 2024-03-07 00:30:32 Job executing on host: <10.32.86.121:40996?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14217180%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3658104&PrivNet=d12chas563.crc.nd.edu&addrs=10.32.86.121-40996&alias=d12chas563.crc.nd.edu&noUDP>
+	SlotName: slot1_1@d12chas563.crc.nd.edu
+	CondorScratchDir = "/var/condor/execute/dir_27963/glide_oJxyyv/execute/dir_5537"
+	Cpus = 1
+	Disk = 5570588
+	GLIDEIN_ResourceName = "NWICG_NDCMS"
+	Memory = 8192
+...
+040 (13006017.000.000) 2024-03-07 00:30:32 Started transferring output files
+...
+040 (13006017.000.000) 2024-03-07 00:30:32 Finished transferring output files
+...
+005 (13006017.000.000) 2024-03-07 00:30:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   4953632 
+	   Memory (MB)          :       58     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:30:32Z with exit-code 0.
+...
+040 (13006052.000.000) 2024-03-07 00:30:32 Started transferring input files
+	Transferring to host: <149.165.224.115:33099?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector6#14221912%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3667170&PrivNet=iut2-c415.iu.edu&addrs=149.165.224.115-33099+[2001-18e8-c02-5-1623-f2ff-fe4f-21a0]-33099&alias=iut2-c415.iu.edu&noUDP>
+...
+040 (13006052.000.000) 2024-03-07 00:30:32 Finished transferring input files
+...
+021 (13006052.000.000) 2024-03-07 00:30:34 Message from starter on slot1_1@glidein_80363_709849374@iut2-c415.iu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/centos:7
+...
+001 (13006052.000.000) 2024-03-07 00:30:34 Job executing on host: <149.165.224.115:39559?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14186013%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#3647698&PrivNet=iut2-c415.iu.edu&addrs=149.165.224.115-39559+[2001-18e8-c02-5-1623-f2ff-fe4f-21a0]-39559&alias=iut2-c415.iu.edu&noUDP>
+	SlotName: slot1_1@iut2-c415.iu.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_80206/glide_JyVdd7/execute/dir_3272898"
+	Cpus = 1
+	Disk = 4953632
+	GLIDEIN_ResourceName = "MWT2"
+	Memory = 8192
+...
+040 (13006018.000.000) 2024-03-07 00:30:36 Started transferring output files
+...
+040 (13006018.000.000) 2024-03-07 00:30:36 Finished transferring output files
+...
+005 (13006018.000.000) 2024-03-07 00:30:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10908  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10908  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1307  4194304  15246307 
+	   Memory (MB)          :       54     8192      8192 
+	   TimeExecute (s)      :      307                    
+	   TimeSlotBusy (s)     :      310                    
+
+	Job terminated of its own accord at 2024-03-07T06:30:35Z with exit-code 0.
+...
+006 (13006020.000.000) 2024-03-07 00:30:40 Image size of job updated: 2465872
+	47  -  MemoryUsage of job (MB)
+	47780  -  ResidentSetSize of job (KB)
+...
+006 (13006051.000.000) 2024-03-07 00:30:41 Image size of job updated: 1881904
+	35  -  MemoryUsage of job (MB)
+	35620  -  ResidentSetSize of job (KB)
+...
+040 (13006020.000.000) 2024-03-07 00:30:43 Started transferring output files
+...
+040 (13006020.000.000) 2024-03-07 00:30:43 Finished transferring output files
+...
+006 (13006052.000.000) 2024-03-07 00:30:43 Image size of job updated: 2389312
+	59  -  MemoryUsage of job (MB)
+	59508  -  ResidentSetSize of job (KB)
+...
+005 (13006020.000.000) 2024-03-07 00:30:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10911  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10911  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.01        1         1 
+	   Disk (KB)            :  1297     4194304   4594460 
+	   Memory (MB)          :    47        8192      8192 
+	   TimeExecute (s)      :   312                       
+	   TimeSlotBusy (s)     :   317                       
+
+	Job terminated of its own accord at 2024-03-07T06:30:42Z with exit-code 0.
+...
+006 (13006025.000.000) 2024-03-07 00:30:55 Image size of job updated: 2391840
+	60  -  MemoryUsage of job (MB)
+	60604  -  ResidentSetSize of job (KB)
+...
+040 (13006025.000.000) 2024-03-07 00:30:55 Started transferring output files
+...
+040 (13006025.000.000) 2024-03-07 00:30:55 Finished transferring output files
+...
+005 (13006025.000.000) 2024-03-07 00:30:56 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   5048065 
+	   Memory (MB)          :       60     8192      8192 
+	   TimeExecute (s)      :      305                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:30:55Z with exit-code 0.
+...
+000 (13006157.000.000) 2024-03-07 00:31:02 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+006 (13006024.000.000) 2024-03-07 00:31:02 Image size of job updated: 2391384
+	59  -  MemoryUsage of job (MB)
+	60312  -  ResidentSetSize of job (KB)
+...
+040 (13006024.000.000) 2024-03-07 00:31:03 Started transferring output files
+...
+040 (13006024.000.000) 2024-03-07 00:31:03 Finished transferring output files
+...
+005 (13006024.000.000) 2024-03-07 00:31:03 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10907  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10907  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   7999507 
+	   Memory (MB)          :       59     8192      8192 
+	   TimeExecute (s)      :      309                    
+	   TimeSlotBusy (s)     :      314                    
+
+	Job terminated of its own accord at 2024-03-07T06:31:02Z with exit-code 0.
+...
+040 (13006157.000.000) 2024-03-07 00:31:05 Started transferring input files
+	Transferring to host: <128.186.19.150:43773?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector5#36604651%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3666627&PrivNet=scigrid9.physics.fsu.edu&addrs=128.186.19.150-43773&alias=scigrid9.physics.fsu.edu&noUDP>
+...
+040 (13006157.000.000) 2024-03-07 00:31:06 Finished transferring input files
+...
+021 (13006157.000.000) 2024-03-07 00:31:07 Message from starter on slot1_5@glidein_2369679_857995892@scigrid9.physics.fsu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006157.000.000) 2024-03-07 00:31:07 Job executing on host: <128.186.19.150:45881?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#14136461%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3601339&PrivNet=scigrid9.physics.fsu.edu&addrs=128.186.19.150-45881&alias=scigrid9.physics.fsu.edu&noUDP>
+	SlotName: slot1_5@scigrid9.physics.fsu.edu
+	CondorScratchDir = "/scratch/glide_6TJRvO/execute/dir_427524"
+	Cpus = 1
+	Disk = 7999507
+	GLIDEIN_ResourceName = "OSG_US_FSU_HNPGRID"
+	Memory = 8192
+...
+006 (13006157.000.000) 2024-03-07 00:31:18 Image size of job updated: 1
+	4  -  MemoryUsage of job (MB)
+	3864  -  ResidentSetSize of job (KB)
+...
+006 (13006027.000.000) 2024-03-07 00:31:23 Image size of job updated: 2370444
+	55  -  MemoryUsage of job (MB)
+	56244  -  ResidentSetSize of job (KB)
+...
+040 (13006027.000.000) 2024-03-07 00:31:23 Started transferring output files
+...
+040 (13006027.000.000) 2024-03-07 00:31:23 Finished transferring output files
+...
+005 (13006027.000.000) 2024-03-07 00:31:23 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1305  4194304   4926592 
+	   Memory (MB)          :       55     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      306                    
+
+	Job terminated of its own accord at 2024-03-07T06:31:23Z with exit-code 0.
+...
+006 (13006028.000.000) 2024-03-07 00:31:25 Image size of job updated: 1883124
+	49  -  MemoryUsage of job (MB)
+	49500  -  ResidentSetSize of job (KB)
+...
+040 (13006028.000.000) 2024-03-07 00:31:25 Started transferring output files
+...
+040 (13006028.000.000) 2024-03-07 00:31:25 Finished transferring output files
+...
+005 (13006028.000.000) 2024-03-07 00:31:26 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	10910  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	10910  -  Total Bytes Sent By Job
+	1181034  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1325  4194304   5128956 
+	   Memory (MB)          :       49     8192      8192 
+	   TimeExecute (s)      :      304                    
+	   TimeSlotBusy (s)     :      308                    
+
+	Job terminated of its own accord at 2024-03-07T06:31:25Z with exit-code 0.
+...
+000 (13006261.000.000) 2024-03-07 00:31:37 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006262.000.000) 2024-03-07 00:31:37 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006263.000.000) 2024-03-07 00:31:37 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006264.000.000) 2024-03-07 00:31:37 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+000 (13006265.000.000) 2024-03-07 00:31:37 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_1465546_3c4f>
+...
+040 (13006261.000.000) 2024-03-07 00:31:38 Started transferring input files
+	Transferring to host: <172.19.0.2:46279?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#14203596%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#3662877&PrivNet=osg-1365650.0-red-c5409.unl.edu&addrs=172.19.0.2-46279&alias=osg-1365650.0-red-c5409.unl.edu&noUDP>
+...
+040 (13006261.000.000) 2024-03-07 00:31:39 Finished transferring input files
+...
+021 (13006261.000.000) 2024-03-07 00:31:41 Message from starter on slot1_7@glidein_7_153835136@osg-1365650.0-red-c5409.unl.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006261.000.000) 2024-03-07 00:31:41 Job executing on host: <172.19.0.2:42981?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35671525%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#3576525&PrivNet=osg-1365650.0-red-c5409.unl.edu&addrs=172.19.0.2-42981&alias=osg-1365650.0-red-c5409.unl.edu&noUDP>
+	SlotName: slot1_7@osg-1365650.0-red-c5409.unl.edu
+	CondorScratchDir = "/var/lib/condor/execute/dir_595704/glide_cuVcl4/execute/dir_2004222"
+	Cpus = 1
+	Disk = 5128956
+	GLIDEIN_ResourceName = "Nebraska"
+	Memory = 8192
+...
+006 (13006261.000.000) 2024-03-07 00:31:50 Image size of job updated: 1
+	8  -  MemoryUsage of job (MB)
+	7944  -  ResidentSetSize of job (KB)
+...
+009 (13006262.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+...
+009 (13006263.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+...
+009 (13006264.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+...
+009 (13006265.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+...
+006 (13006032.000.000) 2024-03-07 00:31:52 Image size of job updated: 1945000
+	49  -  MemoryUsage of job (MB)
+	49496  -  ResidentSetSize of job (KB)
+...
+006 (13006033.000.000) 2024-03-07 00:31:52 Image size of job updated: 2392156
+	58  -  MemoryUsage of job (MB)
+	58704  -  ResidentSetSize of job (KB)
+...
+006 (13006036.000.000) 2024-03-07 00:31:52 Image size of job updated: 2391200
+	59  -  MemoryUsage of job (MB)
+	59480  -  ResidentSetSize of job (KB)
+...
+006 (13006031.000.000) 2024-03-07 00:31:52 Image size of job updated: 2395612
+	52  -  MemoryUsage of job (MB)
+	52800  -  ResidentSetSize of job (KB)
+...
+006 (13006052.000.000) 2024-03-07 00:31:52 Image size of job updated: 2389312
+	59  -  MemoryUsage of job (MB)
+	59784  -  ResidentSetSize of job (KB)
+...
+004 (13006031.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.01        1         1 
+	   Disk (KB)            :  1312     4194304   6061510 
+	   Memory (MB)          :    52        8192      8192 
+	   TimeExecute (s)      :   297                       
+	   TimeSlotBusy (s)     :   298                       
+...
+004 (13006032.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1304  4194304   5766286 
+	   Memory (MB)          :       49     8192      8192 
+	   TimeExecute (s)      :      287                    
+	   TimeSlotBusy (s)     :      289                    
+...
+009 (13006031.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82387> on <192.170.231.142:32585> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_45851_ed62_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+009 (13006032.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82391> on <192.170.231.142:13583> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_49482_4b95_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006047.000.000) 2024-03-07 00:31:52 Image size of job updated: 2764400
+	57  -  MemoryUsage of job (MB)
+	58216  -  ResidentSetSize of job (KB)
+...
+004 (13006036.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1304     4194304   5436404 
+	   Memory (MB)          :    59        8192      8192 
+	   TimeExecute (s)      :   260                       
+	   TimeSlotBusy (s)     :   262                       
+...
+009 (13006036.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82452> on <192.170.231.142:22909> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_55527_8b6b_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006048.000.000) 2024-03-07 00:31:52 Image size of job updated: 2833092
+	58  -  MemoryUsage of job (MB)
+	59092  -  ResidentSetSize of job (KB)
+...
+004 (13006052.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1299  4194304   4953632 
+	   Memory (MB)          :       59     8192      8192 
+	   TimeExecute (s)      :       78                    
+	   TimeSlotBusy (s)     :       80                    
+...
+009 (13006052.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82309> on <192.170.231.142:22483> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_26708_f3b7_4> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006033.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1302  4194304   7811869 
+	   Memory (MB)          :       58     8192      8192 
+	   TimeExecute (s)      :      287                    
+	   TimeSlotBusy (s)     :      289                    
+...
+009 (13006033.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82392> on <192.170.231.142:1629> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_49494_c016_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006047.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1311  4194304   4732195 
+	   Memory (MB)          :       57     8192      8192 
+	   TimeExecute (s)      :      145                    
+	   TimeSlotBusy (s)     :      147                    
+...
+009 (13006047.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82529> on <192.170.231.142:27747> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_86863_9765_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006048.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1314  4194304   4732198 
+	   Memory (MB)          :       58     8192      8192 
+	   TimeExecute (s)      :      144                    
+	   TimeSlotBusy (s)     :      146                    
+...
+009 (13006048.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82288> on <192.170.231.142:32105> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_4180601_596c_4> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006044.000.000) 2024-03-07 00:31:52 Image size of job updated: 2492884
+	30  -  MemoryUsage of job (MB)
+	30544  -  ResidentSetSize of job (KB)
+...
+004 (13006049.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1302  4194304  15239340 
+	   Memory (MB)          :       32     8192      8192 
+	   TimeExecute (s)      :       95                    
+	   TimeSlotBusy (s)     :       97                    
+...
+009 (13006049.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_81678> on <192.170.231.142:4101> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_3873308_a1bc_10> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006157.000.000) 2024-03-07 00:31:52 Image size of job updated: 2391064
+	63  -  MemoryUsage of job (MB)
+	64256  -  ResidentSetSize of job (KB)
+...
+004 (13006044.000.000) 2024-03-07 00:31:52 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.01        1         1 
+	   Disk (KB)            :  1303     4194304  15246307 
+	   Memory (MB)          :    30        8192      8192 
+	   TimeExecute (s)      :   183                       
+	   TimeSlotBusy (s)     :   186                       
+...
+009 (13006044.000.000) 2024-03-07 00:31:52 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82052> on <192.170.231.142:26595> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_4078249_1b2a_6> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006261.000.000) 2024-03-07 00:31:52 Image size of job updated: 1950392
+	46  -  MemoryUsage of job (MB)
+	46512  -  ResidentSetSize of job (KB)
+...
+004 (13006051.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1299  4194304   5570588 
+	   Memory (MB)          :       35     8192      8192 
+	   TimeExecute (s)      :       80                    
+	   TimeSlotBusy (s)     :       84                    
+...
+009 (13006051.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82307> on <192.170.231.142:4265> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_24920_24ee_4> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006045.000.000) 2024-03-07 00:31:53 Image size of job updated: 2497584
+	51  -  MemoryUsage of job (MB)
+	51980  -  ResidentSetSize of job (KB)
+...
+006 (13006035.000.000) 2024-03-07 00:31:53 Image size of job updated: 2470548
+	54  -  MemoryUsage of job (MB)
+	54804  -  ResidentSetSize of job (KB)
+...
+006 (13006037.000.000) 2024-03-07 00:31:53 Image size of job updated: 2487920
+	50  -  MemoryUsage of job (MB)
+	50340  -  ResidentSetSize of job (KB)
+...
+004 (13006261.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1318  4194304   5128956 
+	   Memory (MB)          :       46     8192      8192 
+	   TimeExecute (s)      :       12                    
+	   TimeSlotBusy (s)     :       15                    
+...
+006 (13006030.000.000) 2024-03-07 00:31:53 Image size of job updated: 2498864
+	55  -  MemoryUsage of job (MB)
+	55724  -  ResidentSetSize of job (KB)
+...
+009 (13006261.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82545> on <192.170.231.142:31511> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_153798_5aa7_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006040.000.000) 2024-03-07 00:31:53 Image size of job updated: 2466128
+	49  -  MemoryUsage of job (MB)
+	49436  -  ResidentSetSize of job (KB)
+...
+006 (13006039.000.000) 2024-03-07 00:31:53 Image size of job updated: 2319812
+	53  -  MemoryUsage of job (MB)
+	54052  -  ResidentSetSize of job (KB)
+...
+006 (13006041.000.000) 2024-03-07 00:31:53 Image size of job updated: 2349864
+	51  -  MemoryUsage of job (MB)
+	52008  -  ResidentSetSize of job (KB)
+...
+006 (13006046.000.000) 2024-03-07 00:31:53 Image size of job updated: 2387912
+	53  -  MemoryUsage of job (MB)
+	53696  -  ResidentSetSize of job (KB)
+...
+006 (13006038.000.000) 2024-03-07 00:31:53 Image size of job updated: 2319812
+	53  -  MemoryUsage of job (MB)
+	53520  -  ResidentSetSize of job (KB)
+...
+004 (13006157.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     1274  4194304   7999507 
+	   Memory (MB)          :       63     8192      8192 
+	   TimeExecute (s)      :       46                    
+	   TimeSlotBusy (s)     :       49                    
+...
+009 (13006157.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82372> on <192.170.231.142:14159> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_34531_f695_4> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13006050.000.000) 2024-03-07 00:31:53 Image size of job updated: 2424620
+	52  -  MemoryUsage of job (MB)
+	53020  -  ResidentSetSize of job (KB)
+...
+004 (13006039.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1302  4194304   5496021 
+	   Memory (MB)          :       53     8192      8192 
+	   TimeExecute (s)      :      223                    
+	   TimeSlotBusy (s)     :      225                    
+...
+009 (13006039.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82459> on <192.170.231.142:10389> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_66478_83c8_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006046.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1301  4194304   5388006 
+	   Memory (MB)          :       53     8192      8192 
+	   TimeExecute (s)      :      146                    
+	   TimeSlotBusy (s)     :      148                    
+...
+009 (13006046.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82528> on <192.170.231.142:31957> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_86862_e305_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006038.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1302  4194304   5384161 
+	   Memory (MB)          :       53     8192      8192 
+	   TimeExecute (s)      :      223                    
+	   TimeSlotBusy (s)     :      225                    
+...
+009 (13006038.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82458> on <192.170.231.142:2899> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_66476_1b08_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006043.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1295     4194304   4874968 
+	   Memory (MB)          :    56        8192      8192 
+	   TimeExecute (s)      :   187                       
+	   TimeSlotBusy (s)     :   191                       
+...
+009 (13006043.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82467> on <192.170.231.142:11689> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_75625_675c_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006042.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     1279  4194304   4528995 
+	   Memory (MB)          :       30     8192      8192 
+	   TimeExecute (s)      :      187                    
+	   TimeSlotBusy (s)     :      191                    
+...
+004 (13006030.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1296  4194304   5328905 
+	   Memory (MB)          :       55     8192      8192 
+	   TimeExecute (s)      :      295                    
+	   TimeSlotBusy (s)     :      299                    
+...
+009 (13006042.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82466> on <192.170.231.142:1693> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_75624_b2fc_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006045.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     1274  4194304   4548010 
+	   Memory (MB)          :       51     8192      8192 
+	   TimeExecute (s)      :      153                    
+	   TimeSlotBusy (s)     :      157                    
+...
+009 (13006030.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82386> on <192.170.231.142:26941> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_45850_3902_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006035.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1296  4194304   5011577 
+	   Memory (MB)          :       54     8192      8192 
+	   TimeExecute (s)      :      260                    
+	   TimeSlotBusy (s)     :      264                    
+...
+009 (13006045.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82527> on <192.170.231.142:3543> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_84344_ba5f_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+009 (13006035.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82450> on <192.170.231.142:30577> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_55245_d9a0_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006041.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1294     4194304   5122817 
+	   Memory (MB)          :    51        8192      8192 
+	   TimeExecute (s)      :   189                       
+	   TimeSlotBusy (s)     :   193                       
+...
+009 (13006041.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82464> on <192.170.231.142:28091> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_75016_4ee4_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006037.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1296  4194304   4868285 
+	   Memory (MB)          :       50     8192      8192 
+	   TimeExecute (s)      :      225                    
+	   TimeSlotBusy (s)     :      228                    
+...
+009 (13006037.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82457> on <192.170.231.142:3007> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_65609_39c5_2> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+004 (13006050.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  1292     4194304   4621635 
+	   Memory (MB)          :    52        8192      8192 
+	   TimeExecute (s)      :    94                       
+	   TimeSlotBusy (s)     :    98                       
+...
+004 (13006040.000.000) 2024-03-07 00:31:53 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1293  4194304   4940487 
+	   Memory (MB)          :       49     8192      8192 
+	   TimeExecute (s)      :      187                    
+	   TimeSlotBusy (s)     :      193                    
+...
+009 (13006050.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82097> on <192.170.231.142:3591> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_4095595_eeab_6> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+009 (13006040.000.000) 2024-03-07 00:31:53 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_82179> on <192.170.231.142:20997> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_4170309_b449_4> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
+006 (13005973.000.000) 2024-03-07 00:31:57 Image size of job updated: 3356200
+	69  -  MemoryUsage of job (MB)
+	70104  -  ResidentSetSize of job (KB)
+...
+004 (13005973.000.000) 2024-03-07 00:31:57 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	1181034  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1295  4194304   7463013 
+	   Memory (MB)          :       69     8192      8192 
+	   TimeExecute (s)      :      686                    
+	   TimeSlotBusy (s)     :      692                    
+...
+009 (13005973.000.000) 2024-03-07 00:31:57 Job was aborted.
+	via condor_rm (by user chodges)
+
+	Job terminated by SHADOW <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_1465921_b534_80237> on <192.170.231.142:19939> with reverse connect address <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=shadow_3441035_32b2_6> at 2024-03-07T06:31:52Z (using method 1: DEACTIVATE_CLAIM).
+...
