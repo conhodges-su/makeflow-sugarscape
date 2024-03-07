@@ -62023,3 +62023,57 @@
 ...
 040 (13006046.000.000) 2024-03-07 00:29:26 Finished transferring input files
 ...
+040 (13006048.000.000) 2024-03-07 00:29:26 Started transferring input files
+	Transferring to host: <172.18.90.166:33249?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#35754688%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3659206&PrivNet=a668.anvil.rcac.purdue.edu&addrs=172.18.90.166-33249&alias=a668.anvil.rcac.purdue.edu&noUDP>
+...
+040 (13006048.000.000) 2024-03-07 00:29:26 Finished transferring input files
+...
+021 (13006047.000.000) 2024-03-07 00:29:27 Message from starter on slot1_21@glidein_1493169_164195598@a869.anvil.rcac.purdue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_n92mOy/images/htc__rocky__8.sif
+...
+001 (13006047.000.000) 2024-03-07 00:29:27 Job executing on host: <172.18.91.111:43365?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#35696307%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#3533284&PrivNet=a869.anvil.rcac.purdue.edu&addrs=172.18.91.111-43365&alias=a869.anvil.rcac.purdue.edu&noUDP>
+	SlotName: slot1_21@a869.anvil.rcac.purdue.edu
+	CondorScratchDir = "/tmp/glide_n92mOy/execute/dir_2901982"
+	Cpus = 1
+	Disk = 4732195
+	GLIDEIN_ResourceName = "Purdue-Anvil-CE1"
+	Memory = 8192
+...
+021 (13006046.000.000) 2024-03-07 00:29:27 Message from starter on slot1_4@glidein_2234639_719179968@cn429.storrs.hpc.uconn.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /cvmfs/singularity.opensciencegrid.org/htc/rocky:8
+...
+001 (13006046.000.000) 2024-03-07 00:29:27 Job executing on host: <137.99.174.24:37805?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#35738074%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector10#3643885&PrivNet=cn429.storrs.hpc.uconn.edu&addrs=137.99.174.24-37805&alias=cn429.storrs.hpc.uconn.edu&noUDP>
+	SlotName: slot1_4@cn429.storrs.hpc.uconn.edu
+	CondorScratchDir = "/local/slurm-job-6197470/glide_gXCpJB/execute/dir_128144"
+	Cpus = 1
+	Disk = 5388006
+	GLIDEIN_ResourceName = "UConn-HPC"
+	Memory = 8192
+...
+021 (13006048.000.000) 2024-03-07 00:29:28 Message from starter on slot1_4@glidein_2067070_476681088@a668.anvil.rcac.purdue.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_to42NH/images/htc__rocky__8.sif
+...
+001 (13006048.000.000) 2024-03-07 00:29:28 Job executing on host: <172.18.90.166:45271?CCBID=128.104.103.162:9618%3faddrs%3d128.104.103.162-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#14089765%20192.170.231.9:9618%3faddrs%3d192.170.231.9-9618+[fd85-ee78-d8a6-8607--1-d55b]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#3539982&PrivNet=a668.anvil.rcac.purdue.edu&addrs=172.18.90.166-45271&alias=a668.anvil.rcac.purdue.edu&noUDP>
+	SlotName: slot1_4@a668.anvil.rcac.purdue.edu
+	CondorScratchDir = "/tmp/glide_to42NH/execute/dir_623928"
+	Cpus = 1
+	Disk = 4732198
+	GLIDEIN_ResourceName = "Purdue-Anvil-CE1"
+	Memory = 8192
+...
+006 (13006045.000.000) 2024-03-07 00:29:30 Image size of job updated: 1
+	6  -  MemoryUsage of job (MB)
+	5740  -  ResidentSetSize of job (KB)
+...
+006 (13006046.000.000) 2024-03-07 00:29:36 Image size of job updated: 2387592
+	52  -  MemoryUsage of job (MB)
+	53240  -  ResidentSetSize of job (KB)
+...
+006 (13006047.000.000) 2024-03-07 00:29:37 Image size of job updated: 2764080
+	57  -  MemoryUsage of job (MB)
+	57996  -  ResidentSetSize of job (KB)
+...
+006 (13006048.000.000) 2024-03-07 00:29:37 Image size of job updated: 2833028
+	58  -  MemoryUsage of job (MB)
+	59092  -  ResidentSetSize of job (KB)
+...
