@@ -128,7 +128,6 @@ dmypy.json
 .pyre/
 
 #Files related to graphing
-data/*.json
 plots/*.pdf
 plots/*.dat
 
