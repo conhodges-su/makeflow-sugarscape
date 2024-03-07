@@ -7,9 +7,11 @@ REMOTEMAKECHECK = data/remote.complete
 OUTPUTFOLDER = data/RENAMETHEFOLDER
 
 LOCALDATASET = $(LOCALMAKECHECK) \
-				data/*makeflowlog
+				data/*makeflowlog \
+				data/output.txt
 
 REMOTEDATASET = $(REMOTEMAKECHECK) \
+		data/output.txt \
 		data/*.sh \
 		data/*makeflowlog \
 		data/*.condor* \
@@ -25,7 +27,8 @@ CLEAN = log.json \
 		data/*.json \
 		data/*.sh \
 		data/*.condor* \
-		data/*.failed*
+		data/*.failed* \
+		data/output.txt
 
 # Change to python3 (or other alias) if needed
 PYTHON = python3
@@ -44,14 +47,14 @@ $(MAKEFLOW):
 	cd data && $(PYTHON) run_mf.py --conf ../$(CONFIG)
 
 $(LOCALMAKECHECK): $(MAKEFLOW)
-	cd data && time makeflow $(MAKEFLOW) -j 64
+	cd data && time makeflow $(MAKEFLOW) -j 64 > output.txt 2>&1
 	touch $(LOCALMAKECHECK)
 	mkdir $(OUTPUTFOLDER) && mv $(LOCALDATASET) $(OUTPUTFOLDER)
 
 $(REMOTEMAKECHECK): $(MAKEFLOW)
-	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 100 --workers-per-cycle 64 --disk=4096 --memory=8192 --cores=1 &
+	work_queue_factory -T condor --password=mypwfile -M nessie -w 16 -W 16 --workers-per-cycle 64 --disk=4096 --memory=8192 --cores=1 &
 	sleep 5m
-	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log --cache-mode never $(MAKEFLOW)
+	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 16 -L sugarscape.condor.log --cache-mode never $(MAKEFLOW) > output.txt 2>&1 
 	touch $(REMOTEMAKECHECK)
 	mkdir $(OUTPUTFOLDER) && mv $(REMOTEDATASET) $(OUTPUTFOLDER)
 	perl cleanup
