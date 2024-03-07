@@ -1,0 +1,1747 @@
+cd data && python3 run_mf.py --conf ../config.json
+{'config': '../config.json', 'path': None}
+Searching for incomplete logs from previously created seeds.
+Configuration file ./rawSugarscape7386318672645948043.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape9052922689582711903.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3269364730032685739.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3689749988600396019.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3901083446497447310.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8457762041749761812.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape540009695520315991.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6232538417706224.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape983905946281970364.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8004937932008838430.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6581668282387114390.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4433649168997221627.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7036872097479550364.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4923099659922821611.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape172188595576260593.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape1878197474807590639.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7552656520629772822.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5016038946370619243.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4121243680342666474.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4521033295017606966.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6498143067402953206.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5650195616884554835.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6587851318623098213.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4896579661826251386.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8187191187104250778.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8289881087697865668.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape1168521870708554979.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape2346924792442382896.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3256051468544963382.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3548224385753520188.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5304482546808596536.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5706402318630467580.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7263734854760912736.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape573707951821846276.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape1245685850532367934.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6196693324640390028.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3554369210726194921.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape2400532392040845568.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape2624570541535133587.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape221817755936552913.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5308966669465555698.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8087266769365635867.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3273634677454576928.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape2364089815624248121.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5440196527678712508.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6858596454424967325.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape2998803153839462434.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6678046584119295194.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4289336381400220623.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5767776571146758113.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5953209564949996818.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4191237357442031151.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3242220394201503843.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8358822316843886379.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5420778471681055118.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3565779803561500854.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape9016206905184510166.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4055599248687894795.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4081635221871169963.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4108052519403077131.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape1202152756552736379.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7025933428738576022.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7330417537053540131.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5161108480637562053.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape427774707671552849.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7369240768182413633.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5034269184253305694.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4577374179685933793.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6235819315582204318.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3061700883141768471.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3248388574907006154.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape9039203931608830613.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3699030404674204087.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3466620120763421278.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3142300589744215072.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8791919965034414236.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5253112737944379929.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape1820021090754564972.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape121655798940275440.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape967383231415436120.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7228160274171527655.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5633995995955751384.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4830762173865392990.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape9094722585110510007.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape3360717569847968034.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape2171909775374752923.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape649111542122622473.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7773174601670611936.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6259531866873373001.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8880008559625237561.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8178307003731496261.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5936888668823162466.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4019260758439484970.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape4791881461028015051.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape5592418397235530151.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7665692696168308873.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape6863325374722341332.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape2018786746203715649.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape8712728388294020382.config has no matching log. Adding it to be rerun
+Configuration file ./rawSugarscape7247392017372309838.config has no matching log. Adding it to be rerun
+work_queue_factory -T condor --password=mypwfile -M nessie_c16 -w 16 -W 16 --workers-per-cycle 64 --disk=4096 --memory=8192 --cores=1 &
+sleep 3m
+2024/03/07 11:02:30: |submitted: 0 |needed: 16 |waiting connection: 0 |requested: 16 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 11:03:06: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 11:03:41: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 11:04:17: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 11:04:52: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 11:05:27: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+cd data && time makeflow -T wq --password=mypwfile -M nessie_c16 -J 16 -L sugarscape.condor.log --cache-mode never sugarscape.mf > 16.txt
+2024/03/07 11:06:02: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002      16       0        0       0 
+
+2024/03/07 11:06:37: |submitted: 16 |needed: 16 |waiting connection: 15 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002      15       1        4       1 
+
+2024/03/07 11:07:12: |submitted: 16 |needed: 16 |waiting connection: 15 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002      15       1        4       1 
+
+2024/03/07 11:07:48: |submitted: 16 |needed: 16 |waiting connection: 15 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002      15       1        4       1 
+
+2024/03/07 11:08:23: |submitted: 16 |needed: 16 |waiting connection: 15 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002      15       1        4       1 
+
+2024/03/07 11:08:58: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       7       9       13      10 
+
+2024/03/07 11:09:33: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      18 
+
+2024/03/07 11:10:08: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      18 
+
+2024/03/07 11:10:43: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      19 
+
+2024/03/07 11:11:19: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      19 
+
+2024/03/07 11:11:54: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      18 
+
+2024/03/07 11:12:29: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      18 
+
+2024/03/07 11:13:04: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      19 
+
+2024/03/07 11:13:39: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      21 
+
+2024/03/07 11:14:14: |submitted: 16 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       31      21 
+
+2024/03/07 11:14:50: |submitted: 14 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       32      19 
+
+2024/03/07 11:15:25: |submitted: 14 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       32      19 
+
+2024/03/07 11:16:00: |submitted: 14 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      19 
+
+2024/03/07 11:16:35: |submitted: 14 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      19 
+
+2024/03/07 11:17:10: |submitted: 14 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      19 
+
+2024/03/07 11:17:45: |submitted: 13 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      18 
+
+2024/03/07 11:18:21: |submitted: 13 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      18 
+
+2024/03/07 11:18:56: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      16 
+
+2024/03/07 11:19:31: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      16 
+
+2024/03/07 11:20:07: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      16 
+
+2024/03/07 11:20:42: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      16 
+
+2024/03/07 11:21:18: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      16 
+
+2024/03/07 11:21:53: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      16 
+
+2024/03/07 11:22:29: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       35      16 
+
+2024/03/07 11:23:04: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       40      16 
+
+2024/03/07 11:23:40: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       40      16 
+
+2024/03/07 11:24:15: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       40      16 
+
+2024/03/07 11:24:51: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       42      16 
+
+2024/03/07 11:25:27: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       42      16 
+
+2024/03/07 11:26:02: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       42      16 
+
+2024/03/07 11:26:38: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       43      16 
+
+2024/03/07 11:27:14: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       43      16 
+
+2024/03/07 11:27:49: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       43      16 
+
+2024/03/07 11:28:25: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       43      16 
+
+2024/03/07 11:29:01: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       45      16 
+
+2024/03/07 11:29:36: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       45      16 
+
+2024/03/07 11:30:12: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       45      16 
+
+2024/03/07 11:30:47: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       45      16 
+
+2024/03/07 11:31:23: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       45      16 
+
+2024/03/07 11:31:58: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       45      16 
+
+2024/03/07 11:32:34: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       48      16 
+
+2024/03/07 11:33:09: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       48      16 
+
+2024/03/07 11:33:45: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       48      16 
+
+2024/03/07 11:34:21: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       48      16 
+
+2024/03/07 11:34:57: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       54      16 
+
+2024/03/07 11:35:32: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       54      16 
+
+2024/03/07 11:36:08: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       54      16 
+
+2024/03/07 11:36:43: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       54      16 
+
+2024/03/07 11:37:19: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       54      16 
+
+2024/03/07 11:37:54: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       54      16 
+
+2024/03/07 11:38:29: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       54      16 
+
+2024/03/07 11:39:05: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       60      16 
+
+2024/03/07 11:39:40: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       60      16 
+
+2024/03/07 11:40:16: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       60      16 
+
+2024/03/07 11:40:51: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       60      16 
+
+2024/03/07 11:41:27: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       60      16 
+
+2024/03/07 11:42:03: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       1      15       64      16 
+
+2024/03/07 11:42:39: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       68      16 
+
+2024/03/07 11:43:14: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       68      16 
+
+2024/03/07 11:43:50: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       69      16 
+
+2024/03/07 11:44:26: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       69      16 
+
+2024/03/07 11:45:02: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       69      16 
+
+2024/03/07 11:45:37: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       69      16 
+
+2024/03/07 11:46:13: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       69      16 
+
+2024/03/07 11:46:49: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       74      16 
+
+2024/03/07 11:47:25: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       74      16 
+
+2024/03/07 11:48:00: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       74      16 
+
+2024/03/07 11:48:36: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       74      16 
+
+2024/03/07 11:49:12: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       74      16 
+
+2024/03/07 11:49:47: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       77      16 
+
+2024/03/07 11:50:23: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       77      16 
+
+2024/03/07 11:50:58: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       77      16 
+
+2024/03/07 11:51:34: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       78      16 
+
+2024/03/07 11:52:10: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       78      16 
+
+2024/03/07 11:52:45: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       80      16 
+
+2024/03/07 11:53:21: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       80      16 
+
+2024/03/07 11:53:57: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       80      16 
+
+2024/03/07 11:54:33: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       83      16 
+
+2024/03/07 11:55:08: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       83      16 
+
+2024/03/07 11:55:44: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       83      16 
+
+2024/03/07 11:56:20: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       83      16 
+
+2024/03/07 11:56:56: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       83      16 
+
+2024/03/07 11:57:32: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       83      16 
+
+2024/03/07 11:58:07: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      16       83      16 
+
+2024/03/07 11:58:43: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      15       85      16 
+
+2024/03/07 11:59:18: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      15       85      16 
+
+2024/03/07 11:59:54: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      15       85      16 
+
+2024/03/07 12:00:30: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      15       85      16 
+
+2024/03/07 12:01:06: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      15       85      16 
+
+2024/03/07 12:01:42: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      13       87      16 
+
+2024/03/07 12:02:18: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      13       87      16 
+
+2024/03/07 12:02:54: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      12       88      16 
+
+2024/03/07 12:03:29: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      12       88      16 
+
+2024/03/07 12:04:06: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      16 
+
+2024/03/07 12:04:41: |submitted: 12 |needed: 16 |waiting connection: 0 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      15 
+
+2024/03/07 12:05:17: |submitted: 13 |needed: 16 |waiting connection: 0 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      15 
+
+2024/03/07 12:05:53: |submitted: 14 |needed: 16 |waiting connection: 0 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      15 
+
+2024/03/07 12:06:29: |submitted: 14 |needed: 16 |waiting connection: 0 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      15 
+
+2024/03/07 12:07:05: |submitted: 15 |needed: 16 |waiting connection: 2 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      13 
+
+2024/03/07 12:07:41: |submitted: 15 |needed: 16 |waiting connection: 3 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      12 
+
+2024/03/07 12:08:17: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      12 
+
+2024/03/07 12:08:53: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      12 
+
+2024/03/07 12:09:28: |submitted: 15 |needed: 16 |waiting connection: 3 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      12 
+
+2024/03/07 12:10:04: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      13 
+
+2024/03/07 12:10:39: |submitted: 16 |needed: 16 |waiting connection: 2 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      14 
+
+2024/03/07 12:11:15: |submitted: 16 |needed: 16 |waiting connection: 2 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      14 
+
+2024/03/07 12:11:50: |submitted: 16 |needed: 16 |waiting connection: 1 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      15 
+
+2024/03/07 12:12:26: |submitted: 16 |needed: 16 |waiting connection: 1 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      15 
+
+2024/03/07 12:13:01: |submitted: 16 |needed: 16 |waiting connection: 1 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      15 
+
+2024/03/07 12:13:37: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      13 
+
+2024/03/07 12:14:13: |submitted: 14 |needed: 16 |waiting connection: 1 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0      10       90      13 
+
+2024/03/07 12:14:48: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       9       91      12 
+
+2024/03/07 12:15:24: |submitted: 15 |needed: 16 |waiting connection: 3 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       9       91      12 
+
+2024/03/07 12:15:59: |submitted: 15 |needed: 16 |waiting connection: 4 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      11 
+
+2024/03/07 12:16:34: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      10 
+
+2024/03/07 12:17:09: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      10 
+
+2024/03/07 12:17:45: |submitted: 16 |needed: 16 |waiting connection: 5 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      11 
+
+2024/03/07 12:18:20: |submitted: 16 |needed: 16 |waiting connection: 5 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      11 
+
+2024/03/07 12:18:55: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      13 
+
+2024/03/07 12:19:30: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      13 
+
+2024/03/07 12:20:05: |submitted: 15 |needed: 16 |waiting connection: 3 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      12 
+
+2024/03/07 12:20:41: |submitted: 16 |needed: 16 |waiting connection: 5 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      11 
+
+2024/03/07 12:21:16: |submitted: 15 |needed: 16 |waiting connection: 4 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      11 
+
+2024/03/07 12:21:51: |submitted: 16 |needed: 16 |waiting connection: 2 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      14 
+
+2024/03/07 12:22:27: |submitted: 15 |needed: 16 |waiting connection: 1 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      14 
+
+2024/03/07 12:23:02: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      13 
+
+2024/03/07 12:23:37: |submitted: 15 |needed: 16 |waiting connection: 4 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      11 
+
+2024/03/07 12:24:12: |submitted: 15 |needed: 16 |waiting connection: 4 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       8       92      11 
+
+2024/03/07 12:24:48: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:25:23: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:25:58: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      13 
+
+2024/03/07 12:26:33: |submitted: 15 |needed: 16 |waiting connection: 3 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:27:08: |submitted: 14 |needed: 16 |waiting connection: 2 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:27:44: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:28:19: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:28:54: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:29:29: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      12 
+
+2024/03/07 12:30:05: |submitted: 14 |needed: 16 |waiting connection: 3 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       7       93      11 
+
+2024/03/07 12:30:40: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       6       94      10 
+
+2024/03/07 12:31:15: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       6       94      10 
+
+2024/03/07 12:31:50: |submitted: 14 |needed: 16 |waiting connection: 4 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       4       96      10 
+
+2024/03/07 12:32:26: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       4       96      10 
+
+2024/03/07 12:33:01: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      12 
+
+2024/03/07 12:33:36: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      13 
+
+2024/03/07 12:34:11: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      13 
+
+2024/03/07 12:34:46: |submitted: 15 |needed: 16 |waiting connection: 1 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      14 
+
+2024/03/07 12:35:22: |submitted: 15 |needed: 16 |waiting connection: 1 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      14 
+
+2024/03/07 12:35:57: |submitted: 16 |needed: 16 |waiting connection: 3 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      13 
+
+2024/03/07 12:36:32: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      10 
+
+2024/03/07 12:37:07: |submitted: 13 |needed: 16 |waiting connection: 3 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98      10 
+
+2024/03/07 12:37:42: |submitted: 13 |needed: 16 |waiting connection: 7 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98       6 
+
+2024/03/07 12:38:18: |submitted: 15 |needed: 16 |waiting connection: 9 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98       6 
+
+2024/03/07 12:38:53: |submitted: 16 |needed: 16 |waiting connection: 11 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98       5 
+
+2024/03/07 12:39:28: |submitted: 15 |needed: 16 |waiting connection: 10 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98       5 
+
+2024/03/07 12:40:03: |submitted: 15 |needed: 16 |waiting connection: 10 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98       5 
+
+2024/03/07 12:40:38: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98       7 
+
+2024/03/07 12:41:14: |submitted: 16 |needed: 16 |waiting connection: 9 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       2       98       7 
+
+2024/03/07 12:41:49: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 12:42:24: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 12:42:59: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      12 
+
+2024/03/07 12:43:34: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      12 
+
+2024/03/07 12:44:09: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      12 
+
+2024/03/07 12:44:45: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 12:45:20: |submitted: 14 |needed: 16 |waiting connection: 4 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 12:45:55: |submitted: 15 |needed: 16 |waiting connection: 7 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 12:46:30: |submitted: 15 |needed: 16 |waiting connection: 9 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       6 
+
+2024/03/07 12:47:06: |submitted: 14 |needed: 16 |waiting connection: 8 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       6 
+
+2024/03/07 12:47:41: |submitted: 13 |needed: 16 |waiting connection: 9 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       4 
+
+2024/03/07 12:48:16: |submitted: 15 |needed: 16 |waiting connection: 11 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       4 
+
+2024/03/07 12:48:52: |submitted: 16 |needed: 16 |waiting connection: 9 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 12:49:27: |submitted: 16 |needed: 16 |waiting connection: 9 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 12:50:02: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 12:50:37: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      12 
+
+2024/03/07 12:51:12: |submitted: 16 |needed: 16 |waiting connection: 4 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      12 
+
+2024/03/07 12:51:47: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 12:52:23: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 12:52:58: |submitted: 15 |needed: 16 |waiting connection: 4 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      11 
+
+2024/03/07 12:53:33: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 12:54:08: |submitted: 14 |needed: 16 |waiting connection: 5 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 12:54:44: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 12:55:19: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 12:55:54: |submitted: 13 |needed: 16 |waiting connection: 7 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       6 
+
+2024/03/07 12:56:29: |submitted: 16 |needed: 16 |waiting connection: 10 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       6 
+
+2024/03/07 12:57:04: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 12:57:40: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 12:58:15: |submitted: 14 |needed: 16 |waiting connection: 5 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 12:58:50: |submitted: 15 |needed: 16 |waiting connection: 7 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 12:59:25: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:00:01: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:00:36: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:01:11: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:01:46: |submitted: 14 |needed: 16 |waiting connection: 4 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:02:22: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:02:57: |submitted: 15 |needed: 16 |waiting connection: 7 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:03:32: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:04:07: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:04:43: |submitted: 15 |needed: 16 |waiting connection: 4 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      11 
+
+2024/03/07 13:05:18: |submitted: 15 |needed: 16 |waiting connection: 4 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      11 
+
+2024/03/07 13:05:53: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:06:28: |submitted: 13 |needed: 16 |waiting connection: 3 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:07:04: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:07:39: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:08:14: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:08:49: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:09:25: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:10:00: |submitted: 14 |needed: 16 |waiting connection: 6 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:10:35: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:11:10: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:11:45: |submitted: 15 |needed: 16 |waiting connection: 7 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:12:21: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:12:56: |submitted: 14 |needed: 16 |waiting connection: 6 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:13:31: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:14:06: |submitted: 15 |needed: 16 |waiting connection: 7 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:14:42: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:15:17: |submitted: 14 |needed: 16 |waiting connection: 6 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:15:52: |submitted: 16 |needed: 16 |waiting connection: 5 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      11 
+
+2024/03/07 13:16:27: |submitted: 16 |needed: 16 |waiting connection: 5 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      11 
+
+2024/03/07 13:17:02: |submitted: 14 |needed: 16 |waiting connection: 5 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:17:38: |submitted: 14 |needed: 16 |waiting connection: 5 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:18:13: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:18:48: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:19:24: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:19:59: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:20:34: |submitted: 14 |needed: 16 |waiting connection: 7 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:21:09: |submitted: 14 |needed: 16 |waiting connection: 7 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:21:45: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:22:20: |submitted: 15 |needed: 16 |waiting connection: 7 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:22:55: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:23:30: |submitted: 16 |needed: 16 |waiting connection: 9 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:24:05: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:24:41: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:25:16: |submitted: 14 |needed: 16 |waiting connection: 5 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:25:51: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:26:26: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:27:02: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:27:37: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:28:12: |submitted: 16 |needed: 16 |waiting connection: 6 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:28:47: |submitted: 13 |needed: 16 |waiting connection: 5 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:29:23: |submitted: 14 |needed: 16 |waiting connection: 6 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:29:58: |submitted: 16 |needed: 16 |waiting connection: 8 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:30:33: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:31:09: |submitted: 15 |needed: 16 |waiting connection: 8 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+2024/03/07 13:31:44: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:32:19: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:32:54: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:33:29: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:34:05: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:34:40: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:35:15: |submitted: 15 |needed: 16 |waiting connection: 5 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99      10 
+
+2024/03/07 13:35:50: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:36:25: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:37:01: |submitted: 14 |needed: 16 |waiting connection: 6 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       8 
+
+2024/03/07 13:37:36: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:38:11: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:38:46: |submitted: 16 |needed: 16 |waiting connection: 7 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:39:22: |submitted: 15 |needed: 16 |waiting connection: 6 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       9 
+
+2024/03/07 13:39:57: |submitted: 14 |needed: 16 |waiting connection: 7 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       1       99       7 
+
+touch data/remote.complete
+mkdir data/RENAMETHEFOLDER && mv data/remote.complete data/*.sh data/*makeflowlog data/*.condor* wq-factory* data/RENAMETHEFOLDER
+2024/03/07 13:40:32: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:41:07: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:41:43: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:42:18: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:42:53: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:43:28: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:44:03: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:44:38: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:45:14: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:45:49: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:46:24: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:46:59: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:47:34: |submitted: 9 |needed: 16 |waiting connection: 9 |requested: 7 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:48:10: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:48:45: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:49:20: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:49:55: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:50:31: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:51:06: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:51:41: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:52:16: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:52:51: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:53:26: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:54:02: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:54:37: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:55:12: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:55:48: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:56:23: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:56:58: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:57:33: |submitted: 12 |needed: 16 |waiting connection: 12 |requested: 4 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:58:08: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:58:44: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:59:19: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 13:59:54: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:00:30: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:01:05: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:01:40: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:02:15: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:02:50: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:03:26: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:04:01: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:04:36: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:05:11: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:05:46: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:06:22: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:06:57: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:07:32: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:08:08: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:08:43: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:09:18: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:09:54: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+nessie_c16         ap21.uc.osg-htc.org    9002       0       0      100       0 
+
+2024/03/07 14:10:29: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:11:04: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:11:39: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:12:14: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:12:50: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:13:25: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:14:00: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:14:36: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:15:11: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:15:46: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:16:22: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:16:57: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:17:32: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:18:07: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:18:43: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:19:18: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:19:53: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:20:28: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:21:04: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:21:39: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:22:14: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:22:49: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:23:24: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:24:00: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:24:35: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:25:11: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:25:46: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:26:21: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:26:57: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:27:32: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:28:07: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:28:42: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:29:17: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:29:53: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:30:28: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:31:03: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:31:39: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:32:14: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:32:49: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:33:24: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:34:00: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:34:35: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:35:10: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:35:45: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:36:21: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:36:56: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:37:31: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:38:07: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:38:42: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:39:17: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:39:52: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:40:28: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:41:03: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:41:38: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:42:13: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:42:48: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:43:24: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:43:59: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:44:34: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:45:10: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:45:45: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:46:20: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:46:56: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:47:31: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:48:06: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:48:41: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:49:16: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:49:52: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:50:27: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:51:02: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:51:38: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:52:13: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:52:48: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:53:24: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:53:59: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:54:34: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:55:10: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:55:45: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:56:21: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:56:56: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:57:31: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:58:06: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:58:41: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:59:17: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 14:59:52: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:00:27: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:01:03: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:01:38: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:02:13: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:02:48: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:03:24: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:03:59: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:04:34: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:05:09: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:05:45: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:06:20: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:06:55: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:07:31: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:08:06: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:08:41: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:09:16: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:09:52: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:10:27: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:11:02: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:11:37: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:12:13: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:12:48: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:13:23: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:13:58: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:14:34: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:15:09: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:15:44: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:16:20: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:16:55: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:17:30: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:18:05: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:18:41: |submitted: 14 |needed: 16 |waiting connection: 14 |requested: 2 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:19:16: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:19:51: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:20:26: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:21:01: |submitted: 15 |needed: 16 |waiting connection: 15 |requested: 1 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:21:37: |submitted: 16 |needed: 16 |waiting connection: 16 |requested: 0 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
+2024/03/07 15:22:12: |submitted: 13 |needed: 16 |waiting connection: 13 |requested: 3 
+PROJECT            HOST                   PORT WAITING RUNNING COMPLETE WORKERS 
+
