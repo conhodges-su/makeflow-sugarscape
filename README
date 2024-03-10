@@ -12,17 +12,17 @@ python sugarscape.py
 
 Makefile Options:
 make local 
-    This command runs a local-only makeflow using the `.conf` files in the `/data` folder of the repository.Ouput is placed in the folder specifed by `OUTPUTFOLDER`. Run folders should be renamed before running another set of jobs to collect information
+    This command runs a local-only makeflow using the ```.conf``` files in the ```/data``` folder of the repository.Ouput is placed in the folder specifed by `OUTPUTFOLDER`. Run folders should be renamed before running another set of jobs to collect information
 
 make remote
     This command runs a WorkQueue-enabled job. You **must** change the the following command line arguments to run X # of workers
-    - `-w` sets minimum workers in `work_queue_factory`
-    - `-W` sets maximum workers in `work_queue_factory` (we use the same to try and force equal workers throughout execution of a single run)
+    - ```-w``` sets minimum workers in ```work_queue_factory```
+    - ```-W``` sets maximum workers in ```work_queue_factory``` (we use the same to try and force equal workers throughout execution of a single run)
     - `-J` sets maximum number of concurrent makeflow processes at a time
     - `-M` sets the name of the project. We suggest using a name to indicate the # of workers subscribed
 
 SUGGESTIONS
-- use a `>` command to output terminal output to a designated file for long running jobs that may clear out your terminal if left unattended
-- e.g. `make remote > details.txt` to output terminal commands to `details.txt`
+- use a ```>``` command to output terminal output to a designated file for long running jobs that may clear out your terminal if left unattended
+- e.g. ```make remote > details.txt``` to output terminal commands to ```details.txt```
 
 
