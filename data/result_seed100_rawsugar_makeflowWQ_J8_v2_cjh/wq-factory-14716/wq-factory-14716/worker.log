@@ -1,0 +1,977 @@
+2024/03/08 11:41:10.27 work_queue_worker[16] debug: ./work_queue_worker version 8.0.0 DEVELOPMENT (released 2024-03-05 22:47:58 -0600)
+2024/03/08 11:41:10.27 work_queue_worker[16] debug: Built by chodges@ap21.uc.osg-htc.org on 2024-03-05 22:47:58 -0600
+2024/03/08 11:41:10.27 work_queue_worker[16] debug: System: Linux ap21.uc.osg-htc.org 5.4.240-1.el8.elrepo.x86_64 #1 SMP Tue Apr 4 13:26:38 EDT 2023 x86_64 x86_64 x86_64 GNU/Linux
+2024/03/08 11:41:10.28 work_queue_worker[16] debug: Configuration: --prefix /home/chodges/cctools --strict --without-system-parrot --tcp-low-port 9000 --tcp-high-port 9500
+2024/03/08 11:41:10.39 work_queue_worker[16] wq: WORK_QUEUE_SANDBOX set to /srv/worker-21039-16.
+2024/03/08 11:41:10.40 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:41:10.40 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 11:41:10.41 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 11:41:10.41 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 11:41:10.41 work_queue_worker[16] dns: looking up name catalog.cse.nd.edu
+2024/03/08 11:41:10.51 work_queue_worker[16] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/08 11:41:10.51 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 11:41:10.53 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 11:41:10.53 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 11:41:10.55 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 11:41:10.56 work_queue_worker[16] http: Date: Fri Mar  8 12:41:10 2024
+2024/03/08 11:41:10.56 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 11:41:10.57 work_queue_worker[16] http: Connection: close
+2024/03/08 11:41:10.57 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 11:41:10.57 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 11:41:10.58 work_queue_worker[16] http:
+2024/03/08 11:41:10.64 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 11:41:10.66 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:41:12.66 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:41:16.66 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:41:16.66 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:41:24.67 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:41:24.67 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:41:40.67 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:41:40.68 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:42:12.68 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:42:12.68 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 11:42:12.68 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 11:42:12.68 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 11:42:12.68 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 11:42:12.70 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 11:42:12.70 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 11:42:12.71 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 11:42:12.71 work_queue_worker[16] http: Date: Fri Mar  8 12:42:12 2024
+2024/03/08 11:42:12.71 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 11:42:12.71 work_queue_worker[16] http: Connection: close
+2024/03/08 11:42:12.71 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 11:42:12.71 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 11:42:12.71 work_queue_worker[16] http:
+2024/03/08 11:42:12.80 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 11:42:12.80 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:43:12.81 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:43:12.83 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 11:43:12.84 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 11:43:12.84 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 11:43:12.85 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 11:43:12.86 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 11:43:12.87 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 11:43:12.89 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 11:43:12.89 work_queue_worker[16] http: Date: Fri Mar  8 12:43:12 2024
+2024/03/08 11:43:12.89 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 11:43:12.89 work_queue_worker[16] http: Connection: close
+2024/03/08 11:43:12.89 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 11:43:12.89 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 11:43:12.89 work_queue_worker[16] http:
+2024/03/08 11:43:12.96 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 11:43:12.97 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:44:12.97 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:44:12.97 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 11:44:12.97 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 11:44:12.97 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 11:44:12.97 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 11:44:12.98 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 11:44:12.98 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 11:44:13.00 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 11:44:13.00 work_queue_worker[16] http: Date: Fri Mar  8 12:44:12 2024
+2024/03/08 11:44:13.00 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 11:44:13.00 work_queue_worker[16] http: Connection: close
+2024/03/08 11:44:13.00 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 11:44:13.00 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 11:44:13.00 work_queue_worker[16] http:
+2024/03/08 11:44:13.08 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 11:44:13.09 work_queue_worker[16] wq: project name nessie_c8_2 matches 0 managers
+2024/03/08 11:45:13.09 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 11:45:13.10 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 11:45:13.10 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 11:45:13.10 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 11:45:13.10 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 11:45:13.11 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 11:45:13.11 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 11:45:13.13 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 11:45:13.13 work_queue_worker[16] http: Date: Fri Mar  8 12:45:13 2024
+2024/03/08 11:45:13.13 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 11:45:13.13 work_queue_worker[16] http: Connection: close
+2024/03/08 11:45:13.13 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 11:45:13.13 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 11:45:13.13 work_queue_worker[16] http:
+2024/03/08 11:45:13.21 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 11:45:13.22 work_queue_worker[16] wq: project name nessie_c8_2 matches 1 managers
+2024/03/08 11:45:13.23 work_queue_worker[16] wq: selected manager with project=nessie_c8_2 addr=192.170.231.142 port=9001
+2024/03/08 11:45:13.23 work_queue_worker[16] dns: looking up name 192.168.131.142
+2024/03/08 11:45:13.23 work_queue_worker[16] dns: 192.168.131.142 is 192.168.131.142
+2024/03/08 11:45:13.24 work_queue_worker[16] tcp: connecting to 192.168.131.142 port 9001
+2024/03/08 11:47:20.42 work_queue_worker[16] tcp: connection to 192.168.131.142 port 9001 failed (Connection timed out)
+2024/03/08 11:47:20.42 work_queue_worker[16] tcp: disconnected from 192.168.131.142 port 9001
+2024/03/08 11:47:20.42 work_queue_worker[16] dns: looking up name 192.170.231.142
+2024/03/08 11:47:20.42 work_queue_worker[16] dns: 192.170.231.142 is 192.170.231.142
+2024/03/08 11:47:20.42 work_queue_worker[16] tcp: connecting to 192.170.231.142 port 9001
+2024/03/08 11:47:20.43 work_queue_worker[16] tcp: made connection to 192.170.231.142 port 9001
+2024/03/08 11:47:20.43 work_queue_worker[16] wq: connected to manager 192.170.231.142:9001 via local address 72.36.96.142:48834
+2024/03/08 11:47:20.43 work_queue_worker[16] wq: authenticating to manager
+2024/03/08 11:47:20.44 work_queue_worker[16] auth: sending challenge data
+2024/03/08 11:47:20.44 work_queue_worker[16] auth: receiving peer's challenge data
+2024/03/08 11:47:20.44 work_queue_worker[16] auth: sending my response
+2024/03/08 11:47:20.44 work_queue_worker[16] auth: getting peer's response
+2024/03/08 11:47:20.44 work_queue_worker[16] auth: peer sent correct response
+2024/03/08 11:47:20.45 work_queue_worker[16] auth: peer accepted my response
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: preparing workspace /srv/worker-21039-16
+2024/03/08 11:47:20.45 work_queue_worker[16] dns: looking up name mwt2-c013.campuscluster.illinois.edu
+2024/03/08 11:47:20.45 work_queue_worker[16] dns: mwt2-c013.campuscluster.illinois.edu is 72.36.96.142
+2024/03/08 11:47:20.45 work_queue_worker[16] dns: looking up addr 72.36.96.142
+2024/03/08 11:47:20.45 work_queue_worker[16] dns: 72.36.96.142 is mwt2-c013.campuscluster.illinois.edu
+2024/03/08 11:47:20.45 work_queue_worker[16] dns: finding my hostname: uname = mwt2-c013.campuscluster.illinois.edu, address = 72.36.96.142, hostname = mwt2-c013.campuscluster.illinois.edu
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: tx: workqueue 11 mwt2-c013.campuscluster.illinois.edu Linux x86_64 8.0.0
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: tx: info worker-id worker-a507af0b0fa1ea49a5f5ec498424fbed
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: tx: alive
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: Sending resource description to manager:
+2024/03/08 11:47:20.45 work_queue_worker[16] wq:  workers      0 inuse      1 total      1 smallest      1 largest
+2024/03/08 11:47:20.45 work_queue_worker[16] wq:     disk      0 inuse   4605 total   4605 smallest   4605 largest
+2024/03/08 11:47:20.45 work_queue_worker[16] wq:   memory      0 inuse   8192 total   8192 smallest   8192 largest
+2024/03/08 11:47:20.45 work_queue_worker[16] wq:     gpus      0 inuse      0 total      0 smallest      0 largest
+2024/03/08 11:47:20.45 work_queue_worker[16] wq:    cores      0 inuse      1 total      1 smallest      1 largest
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: tx: info end_of_resource_update 0
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: tx: info worker-end-time 0
+2024/03/08 11:47:20.45 work_queue_worker[16] wq: working for manager at 192.170.231.142:9001.
+2024/03/08 11:47:20.48 work_queue_worker[16] wq: rx: put file-57-05b1a4892667b4d4a36c7ac84208c8c0-agent.py 62551 0644
+2024/03/08 11:47:20.49 work_queue_worker[16] wq: rx: put file-58-41d77a6b27c485c3d04d058412cf7a81-cell.py 4095 0644
+2024/03/08 11:47:20.49 work_queue_worker[16] wq: rx: put file-59-7db128f6b252f1f673a45cc58f79072f-environment.py 7879 0644
+2024/03/08 11:47:20.49 work_queue_worker[16] wq: rx: put file-60-c367cdab952830ef3c5c03268cce089b-ethics.py 4940 0644
+2024/03/08 11:47:20.50 work_queue_worker[16] wq: rx: put file-61-8c6b1af042119c8370fe34e4d3a113dc-disease.py 706 0644
+2024/03/08 11:47:20.50 work_queue_worker[16] wq: rx: put file-62-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py 50961 0644
+2024/03/08 11:47:20.50 work_queue_worker[16] wq: rx: put file-63-51b693431050fe4b57521dd6c8281140-rawSugarscape4019260758439484970.config 2335 0644
+2024/03/08 11:47:20.50 work_queue_worker[16] wq: rx: task 8
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: cmd 68
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: python3 sugarscape.py --conf rawSugarscape4019260758439484970.config
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: category default
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: cores 1.000
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: gpus 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: memory 8192
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: disk 4605
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: env 7
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: env 17
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: infile file-57-05b1a4892667b4d4a36c7ac84208c8c0-agent.py agent.py 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: infile file-58-41d77a6b27c485c3d04d058412cf7a81-cell.py cell.py 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: infile file-59-7db128f6b252f1f673a45cc58f79072f-environment.py environment.py 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: infile file-60-c367cdab952830ef3c5c03268cce089b-ethics.py ethics.py 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: infile file-61-8c6b1af042119c8370fe34e4d3a113dc-disease.py disease.py 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: infile file-62-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py sugarscape.py 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: infile file-63-51b693431050fe4b57521dd6c8281140-rawSugarscape4019260758439484970.config rawSugarscape4019260758439484970.config 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: outfile file-64-e7655af1dc8b1c88c372165a6774fe66-rawSugarscape4019260758439484970.json rawSugarscape4019260758439484970.json 0
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: rx: end
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: cache: file-57-05b1a4892667b4d4a36c7ac84208c8c0-agent.py is already present.
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-57-05b1a4892667b4d4a36c7ac84208c8c0-agent.py -> /srv/worker-21039-16/t.8/agent.py
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: cache: file-58-41d77a6b27c485c3d04d058412cf7a81-cell.py is already present.
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-58-41d77a6b27c485c3d04d058412cf7a81-cell.py -> /srv/worker-21039-16/t.8/cell.py
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: cache: file-59-7db128f6b252f1f673a45cc58f79072f-environment.py is already present.
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-59-7db128f6b252f1f673a45cc58f79072f-environment.py -> /srv/worker-21039-16/t.8/environment.py
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: cache: file-60-c367cdab952830ef3c5c03268cce089b-ethics.py is already present.
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-60-c367cdab952830ef3c5c03268cce089b-ethics.py -> /srv/worker-21039-16/t.8/ethics.py
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: cache: file-61-8c6b1af042119c8370fe34e4d3a113dc-disease.py is already present.
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-61-8c6b1af042119c8370fe34e4d3a113dc-disease.py -> /srv/worker-21039-16/t.8/disease.py
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: cache: file-62-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py is already present.
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-62-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py -> /srv/worker-21039-16/t.8/sugarscape.py
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: cache: file-63-51b693431050fe4b57521dd6c8281140-rawSugarscape4019260758439484970.config is already present.
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-63-51b693431050fe4b57521dd6c8281140-rawSugarscape4019260758439484970.config -> /srv/worker-21039-16/t.8/rawSugarscape4019260758439484970.config
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: started process 19: python3 sugarscape.py --conf rawSugarscape4019260758439484970.config
+2024/03/08 11:47:20.51 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 11:47:34.95 work_queue_worker[16] wq: task 8 (pid 19) exited normally with exit code 0
+2024/03/08 11:47:34.95 work_queue_worker[16] wq: output: moving /srv/worker-21039-16/t.8/rawSugarscape4019260758439484970.json to /srv/worker-21039-16/cache/file-64-e7655af1dc8b1c88c372165a6774fe66-rawSugarscape4019260758439484970.json
+2024/03/08 11:47:34.95 work_queue_worker[16] wq: tx: available_results
+2024/03/08 11:47:34.96 work_queue_worker[16] wq: rx: send_results -1
+2024/03/08 11:47:34.96 work_queue_worker[16] wq: tx: result 0 0 0 14447627 8
+2024/03/08 11:47:34.96 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 11:47:34.96 work_queue_worker[16] wq: tx: end
+2024/03/08 11:47:34.97 work_queue_worker[16] wq: rx: get file-64-e7655af1dc8b1c88c372165a6774fe66-rawSugarscape4019260758439484970.json 1
+2024/03/08 11:47:34.97 work_queue_worker[16] wq: tx: file file-64-e7655af1dc8b1c88c372165a6774fe66-rawSugarscape4019260758439484970.json 205948
+2024/03/08 11:47:34.97 work_queue_worker[16] wq: tx: end
+2024/03/08 11:47:34.99 work_queue_worker[16] wq: rx: kill 8
+2024/03/08 11:47:34.99 work_queue_worker[16] debug: trashing file ./worker.stdout.e6rn2l
+2024/03/08 11:47:35.00 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/t.8
+2024/03/08 11:47:35.00 work_queue_worker[16] wq: rx: unlink file-57-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 11:47:35.00 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-57-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 11:47:35.01 work_queue_worker[16] wq: rx: unlink file-58-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 11:47:35.01 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-58-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 11:47:35.01 work_queue_worker[16] wq: rx: unlink file-59-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 11:47:35.01 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-59-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 11:47:35.01 work_queue_worker[16] wq: rx: unlink file-60-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 11:47:35.01 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-60-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 11:47:35.01 work_queue_worker[16] wq: rx: unlink file-61-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 11:47:35.01 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-61-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 11:47:35.01 work_queue_worker[16] wq: rx: unlink file-62-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 11:47:35.02 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-62-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: unlink file-63-51b693431050fe4b57521dd6c8281140-rawSugarscape4019260758439484970.config
+2024/03/08 11:47:35.02 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-63-51b693431050fe4b57521dd6c8281140-rawSugarscape4019260758439484970.config
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: unlink file-64-e7655af1dc8b1c88c372165a6774fe66-rawSugarscape4019260758439484970.json
+2024/03/08 11:47:35.02 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-64-e7655af1dc8b1c88c372165a6774fe66-rawSugarscape4019260758439484970.json
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: put file-169-05b1a4892667b4d4a36c7ac84208c8c0-agent.py 62551 0644
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: put file-170-41d77a6b27c485c3d04d058412cf7a81-cell.py 4095 0644
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: put file-171-7db128f6b252f1f673a45cc58f79072f-environment.py 7879 0644
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: put file-172-c367cdab952830ef3c5c03268cce089b-ethics.py 4940 0644
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: put file-173-8c6b1af042119c8370fe34e4d3a113dc-disease.py 706 0644
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: put file-174-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py 50961 0644
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: put file-175-6774c8840bb1e46457ec4b52ea38d7fb-rawSugarscape121655798940275440.config 2333 0644
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: task 22
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: cmd 67
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: python3 sugarscape.py --conf rawSugarscape121655798940275440.config
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: category default
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: cores 1.000
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: gpus 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: memory 8192
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: disk 4605
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: env 7
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: env 17
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: infile file-169-05b1a4892667b4d4a36c7ac84208c8c0-agent.py agent.py 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: infile file-170-41d77a6b27c485c3d04d058412cf7a81-cell.py cell.py 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: infile file-171-7db128f6b252f1f673a45cc58f79072f-environment.py environment.py 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: infile file-172-c367cdab952830ef3c5c03268cce089b-ethics.py ethics.py 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: infile file-173-8c6b1af042119c8370fe34e4d3a113dc-disease.py disease.py 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: infile file-174-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py sugarscape.py 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: infile file-175-6774c8840bb1e46457ec4b52ea38d7fb-rawSugarscape121655798940275440.config rawSugarscape121655798940275440.config 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: outfile file-176-d5a547c6504d136a7a73e8d9197b5991-rawSugarscape121655798940275440.json rawSugarscape121655798940275440.json 0
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: rx: end
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: cache: file-169-05b1a4892667b4d4a36c7ac84208c8c0-agent.py is already present.
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-169-05b1a4892667b4d4a36c7ac84208c8c0-agent.py -> /srv/worker-21039-16/t.22/agent.py
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: cache: file-170-41d77a6b27c485c3d04d058412cf7a81-cell.py is already present.
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-170-41d77a6b27c485c3d04d058412cf7a81-cell.py -> /srv/worker-21039-16/t.22/cell.py
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: cache: file-171-7db128f6b252f1f673a45cc58f79072f-environment.py is already present.
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-171-7db128f6b252f1f673a45cc58f79072f-environment.py -> /srv/worker-21039-16/t.22/environment.py
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: cache: file-172-c367cdab952830ef3c5c03268cce089b-ethics.py is already present.
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-172-c367cdab952830ef3c5c03268cce089b-ethics.py -> /srv/worker-21039-16/t.22/ethics.py
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: cache: file-173-8c6b1af042119c8370fe34e4d3a113dc-disease.py is already present.
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-173-8c6b1af042119c8370fe34e4d3a113dc-disease.py -> /srv/worker-21039-16/t.22/disease.py
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: cache: file-174-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py is already present.
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-174-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py -> /srv/worker-21039-16/t.22/sugarscape.py
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: cache: file-175-6774c8840bb1e46457ec4b52ea38d7fb-rawSugarscape121655798940275440.config is already present.
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-175-6774c8840bb1e46457ec4b52ea38d7fb-rawSugarscape121655798940275440.config -> /srv/worker-21039-16/t.22/rawSugarscape121655798940275440.config
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: started process 20: python3 sugarscape.py --conf rawSugarscape121655798940275440.config
+2024/03/08 11:47:35.02 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 11:49:20.54 work_queue_worker[16] wq: rx: check
+2024/03/08 11:49:20.56 work_queue_worker[16] wq: tx: alive
+2024/03/08 11:49:20.57 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 11:51:20.77 work_queue_worker[16] wq: rx: check
+2024/03/08 11:51:20.79 work_queue_worker[16] wq: tx: alive
+2024/03/08 11:51:20.80 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 11:53:21.01 work_queue_worker[16] wq: rx: check
+2024/03/08 11:53:21.01 work_queue_worker[16] wq: tx: alive
+2024/03/08 11:53:21.01 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 11:55:21.21 work_queue_worker[16] wq: rx: check
+2024/03/08 11:55:21.21 work_queue_worker[16] wq: tx: alive
+2024/03/08 11:55:21.21 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 11:57:21.41 work_queue_worker[16] wq: rx: check
+2024/03/08 11:57:21.44 work_queue_worker[16] wq: tx: alive
+2024/03/08 11:57:21.44 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 11:59:21.64 work_queue_worker[16] wq: rx: check
+2024/03/08 11:59:21.64 work_queue_worker[16] wq: tx: alive
+2024/03/08 11:59:21.64 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:01:21.85 work_queue_worker[16] wq: rx: check
+2024/03/08 12:01:21.85 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:01:21.85 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:03:22.21 work_queue_worker[16] wq: rx: check
+2024/03/08 12:03:22.24 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:03:22.24 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:05:22.34 work_queue_worker[16] wq: rx: check
+2024/03/08 12:05:22.34 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:05:22.34 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:07:22.56 work_queue_worker[16] wq: rx: check
+2024/03/08 12:07:22.58 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:07:22.59 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:09:23.45 work_queue_worker[16] wq: rx: check
+2024/03/08 12:09:23.45 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:09:23.45 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:11:23.67 work_queue_worker[16] wq: rx: check
+2024/03/08 12:11:23.68 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:11:23.68 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:13:23.86 work_queue_worker[16] wq: rx: check
+2024/03/08 12:13:23.87 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:13:23.87 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:15:24.06 work_queue_worker[16] wq: rx: check
+2024/03/08 12:15:24.08 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:15:24.08 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:17:24.31 work_queue_worker[16] wq: rx: check
+2024/03/08 12:17:24.33 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:17:24.34 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:19:24.71 work_queue_worker[16] wq: rx: check
+2024/03/08 12:19:24.72 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:19:24.72 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:21:25.56 work_queue_worker[16] wq: rx: check
+2024/03/08 12:21:25.58 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:21:25.58 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:23:25.78 work_queue_worker[16] wq: rx: check
+2024/03/08 12:23:25.78 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:23:25.78 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:25:25.97 work_queue_worker[16] wq: rx: check
+2024/03/08 12:25:25.99 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:25:25.99 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:27:26.19 work_queue_worker[16] wq: rx: check
+2024/03/08 12:27:26.20 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:27:26.20 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:29:26.39 work_queue_worker[16] wq: rx: check
+2024/03/08 12:29:26.39 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:29:26.39 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:31:26.82 work_queue_worker[16] wq: rx: check
+2024/03/08 12:31:26.84 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:31:26.85 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:33:27.12 work_queue_worker[16] wq: rx: check
+2024/03/08 12:33:27.15 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:33:27.15 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:35:27.34 work_queue_worker[16] wq: rx: check
+2024/03/08 12:35:27.36 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:35:27.36 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:37:28.19 work_queue_worker[16] wq: rx: check
+2024/03/08 12:37:28.21 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:37:28.22 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:39:28.72 work_queue_worker[16] wq: rx: check
+2024/03/08 12:39:28.74 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:39:28.74 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:41:28.92 work_queue_worker[16] wq: rx: check
+2024/03/08 12:41:28.95 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:41:28.95 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:43:29.16 work_queue_worker[16] wq: rx: check
+2024/03/08 12:43:29.17 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:43:29.17 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:45:29.36 work_queue_worker[16] wq: rx: check
+2024/03/08 12:45:29.36 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:45:29.36 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:47:30.04 work_queue_worker[16] wq: rx: check
+2024/03/08 12:47:30.06 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:47:30.07 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:49:30.36 work_queue_worker[16] wq: rx: check
+2024/03/08 12:49:30.38 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:49:30.39 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:51:30.40 work_queue_worker[16] wq: rx: check
+2024/03/08 12:51:30.43 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:51:30.43 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:53:30.85 work_queue_worker[16] wq: rx: check
+2024/03/08 12:53:30.87 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:53:30.88 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:55:31.68 work_queue_worker[16] wq: rx: check
+2024/03/08 12:55:31.68 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:55:31.68 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:56:13.69 work_queue_worker[16] wq: task 22 (pid 20) exited normally with exit code 0
+2024/03/08 12:56:13.69 work_queue_worker[16] wq: output: moving /srv/worker-21039-16/t.22/rawSugarscape121655798940275440.json to /srv/worker-21039-16/cache/file-176-d5a547c6504d136a7a73e8d9197b5991-rawSugarscape121655798940275440.json
+2024/03/08 12:56:13.70 work_queue_worker[16] wq: tx: available_results
+2024/03/08 12:56:13.71 work_queue_worker[16] wq: rx: send_results -1
+2024/03/08 12:56:13.71 work_queue_worker[16] wq: tx: result 0 0 0 4118673047 22
+2024/03/08 12:56:13.72 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 12:56:13.72 work_queue_worker[16] wq: tx: end
+2024/03/08 12:56:13.73 work_queue_worker[16] wq: rx: get file-176-d5a547c6504d136a7a73e8d9197b5991-rawSugarscape121655798940275440.json 1
+2024/03/08 12:56:13.73 work_queue_worker[16] wq: tx: file file-176-d5a547c6504d136a7a73e8d9197b5991-rawSugarscape121655798940275440.json 10018773
+2024/03/08 12:56:13.76 work_queue_worker[16] wq: tx: end
+2024/03/08 12:56:13.77 work_queue_worker[16] wq: rx: kill 22
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file ./worker.stdout.DvkN5m
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/t.22
+2024/03/08 12:56:13.78 work_queue_worker[16] wq: rx: unlink file-169-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-169-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 12:56:13.78 work_queue_worker[16] wq: rx: unlink file-170-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-170-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 12:56:13.78 work_queue_worker[16] wq: rx: unlink file-171-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-171-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 12:56:13.78 work_queue_worker[16] wq: rx: unlink file-172-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-172-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 12:56:13.78 work_queue_worker[16] wq: rx: unlink file-173-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-173-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 12:56:13.78 work_queue_worker[16] wq: rx: unlink file-174-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 12:56:13.78 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-174-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 12:56:13.79 work_queue_worker[16] wq: rx: unlink file-175-6774c8840bb1e46457ec4b52ea38d7fb-rawSugarscape121655798940275440.config
+2024/03/08 12:56:13.79 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-175-6774c8840bb1e46457ec4b52ea38d7fb-rawSugarscape121655798940275440.config
+2024/03/08 12:56:13.79 work_queue_worker[16] wq: rx: unlink file-176-d5a547c6504d136a7a73e8d9197b5991-rawSugarscape121655798940275440.json
+2024/03/08 12:56:13.79 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-176-d5a547c6504d136a7a73e8d9197b5991-rawSugarscape121655798940275440.json
+2024/03/08 12:56:13.80 work_queue_worker[16] wq: rx: put file-465-05b1a4892667b4d4a36c7ac84208c8c0-agent.py 62551 0644
+2024/03/08 12:56:13.80 work_queue_worker[16] wq: rx: put file-466-41d77a6b27c485c3d04d058412cf7a81-cell.py 4095 0644
+2024/03/08 12:56:13.81 work_queue_worker[16] wq: rx: put file-467-7db128f6b252f1f673a45cc58f79072f-environment.py 7879 0644
+2024/03/08 12:56:13.81 work_queue_worker[16] wq: rx: put file-468-c367cdab952830ef3c5c03268cce089b-ethics.py 4940 0644
+2024/03/08 12:56:13.81 work_queue_worker[16] wq: rx: put file-469-8c6b1af042119c8370fe34e4d3a113dc-disease.py 706 0644
+2024/03/08 12:56:13.81 work_queue_worker[16] wq: rx: put file-470-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py 50961 0644
+2024/03/08 12:56:13.82 work_queue_worker[16] wq: rx: put file-471-5ed67c98d5c84c94ef28b179392d0093-rawSugarscape8087266769365635867.config 2335 0644
+2024/03/08 12:56:13.82 work_queue_worker[16] wq: rx: task 59
+2024/03/08 12:56:13.82 work_queue_worker[16] wq: rx: cmd 68
+2024/03/08 12:56:13.83 work_queue_worker[16] wq: rx: python3 sugarscape.py --conf rawSugarscape8087266769365635867.config
+2024/03/08 12:56:13.83 work_queue_worker[16] wq: rx: category default
+2024/03/08 12:56:13.83 work_queue_worker[16] wq: rx: cores 1.000
+2024/03/08 12:56:13.84 work_queue_worker[16] wq: rx: gpus 0
+2024/03/08 12:56:13.84 work_queue_worker[16] wq: rx: memory 8192
+2024/03/08 12:56:13.85 work_queue_worker[16] wq: rx: disk 4605
+2024/03/08 12:56:13.85 work_queue_worker[16] wq: rx: env 7
+2024/03/08 12:56:13.85 work_queue_worker[16] wq: rx: env 17
+2024/03/08 12:56:13.85 work_queue_worker[16] wq: rx: infile file-465-05b1a4892667b4d4a36c7ac84208c8c0-agent.py agent.py 0
+2024/03/08 12:56:13.86 work_queue_worker[16] wq: rx: infile file-466-41d77a6b27c485c3d04d058412cf7a81-cell.py cell.py 0
+2024/03/08 12:56:13.86 work_queue_worker[16] wq: rx: infile file-467-7db128f6b252f1f673a45cc58f79072f-environment.py environment.py 0
+2024/03/08 12:56:13.86 work_queue_worker[16] wq: rx: infile file-468-c367cdab952830ef3c5c03268cce089b-ethics.py ethics.py 0
+2024/03/08 12:56:13.86 work_queue_worker[16] wq: rx: infile file-469-8c6b1af042119c8370fe34e4d3a113dc-disease.py disease.py 0
+2024/03/08 12:56:13.87 work_queue_worker[16] wq: rx: infile file-470-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py sugarscape.py 0
+2024/03/08 12:56:13.87 work_queue_worker[16] wq: rx: infile file-471-5ed67c98d5c84c94ef28b179392d0093-rawSugarscape8087266769365635867.config rawSugarscape8087266769365635867.config 0
+2024/03/08 12:56:13.87 work_queue_worker[16] wq: rx: outfile file-472-c375dc4a937d3a24327aad6d46540a76-rawSugarscape8087266769365635867.json rawSugarscape8087266769365635867.json 0
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: rx: end
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: cache: file-465-05b1a4892667b4d4a36c7ac84208c8c0-agent.py is already present.
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-465-05b1a4892667b4d4a36c7ac84208c8c0-agent.py -> /srv/worker-21039-16/t.59/agent.py
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: cache: file-466-41d77a6b27c485c3d04d058412cf7a81-cell.py is already present.
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-466-41d77a6b27c485c3d04d058412cf7a81-cell.py -> /srv/worker-21039-16/t.59/cell.py
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: cache: file-467-7db128f6b252f1f673a45cc58f79072f-environment.py is already present.
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-467-7db128f6b252f1f673a45cc58f79072f-environment.py -> /srv/worker-21039-16/t.59/environment.py
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: cache: file-468-c367cdab952830ef3c5c03268cce089b-ethics.py is already present.
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-468-c367cdab952830ef3c5c03268cce089b-ethics.py -> /srv/worker-21039-16/t.59/ethics.py
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: cache: file-469-8c6b1af042119c8370fe34e4d3a113dc-disease.py is already present.
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-469-8c6b1af042119c8370fe34e4d3a113dc-disease.py -> /srv/worker-21039-16/t.59/disease.py
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: cache: file-470-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py is already present.
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-470-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py -> /srv/worker-21039-16/t.59/sugarscape.py
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: cache: file-471-5ed67c98d5c84c94ef28b179392d0093-rawSugarscape8087266769365635867.config is already present.
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-471-5ed67c98d5c84c94ef28b179392d0093-rawSugarscape8087266769365635867.config -> /srv/worker-21039-16/t.59/rawSugarscape8087266769365635867.config
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: started process 21: python3 sugarscape.py --conf rawSugarscape8087266769365635867.config
+2024/03/08 12:56:13.88 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:57:32.01 work_queue_worker[16] wq: rx: check
+2024/03/08 12:57:32.04 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:57:32.04 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 12:59:32.42 work_queue_worker[16] wq: rx: check
+2024/03/08 12:59:32.45 work_queue_worker[16] wq: tx: alive
+2024/03/08 12:59:32.45 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:01:33.30 work_queue_worker[16] wq: rx: check
+2024/03/08 13:01:33.33 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:01:33.33 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:03:34.27 work_queue_worker[16] wq: rx: check
+2024/03/08 13:03:34.27 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:03:34.27 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:05:34.50 work_queue_worker[16] wq: rx: check
+2024/03/08 13:05:34.53 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:05:34.53 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:07:35.29 work_queue_worker[16] wq: rx: check
+2024/03/08 13:07:35.30 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:07:35.31 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:09:36.27 work_queue_worker[16] wq: rx: check
+2024/03/08 13:09:36.27 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:09:36.27 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:11:36.96 work_queue_worker[16] wq: rx: check
+2024/03/08 13:11:36.96 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:11:36.96 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:13:37.40 work_queue_worker[16] wq: rx: check
+2024/03/08 13:13:37.43 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:13:37.44 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:15:38.27 work_queue_worker[16] wq: rx: check
+2024/03/08 13:15:38.30 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:15:38.31 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:17:38.30 work_queue_worker[16] wq: rx: check
+2024/03/08 13:17:38.31 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:17:38.31 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:19:38.54 work_queue_worker[16] wq: rx: check
+2024/03/08 13:19:38.55 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:19:38.55 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:21:38.83 work_queue_worker[16] wq: rx: check
+2024/03/08 13:21:38.85 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:21:38.86 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:23:39.08 work_queue_worker[16] wq: rx: check
+2024/03/08 13:23:39.11 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:23:39.11 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:25:39.61 work_queue_worker[16] wq: rx: check
+2024/03/08 13:25:39.63 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:25:39.63 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:25:48.43 work_queue_worker[16] wq: task 59 (pid 21) exited normally with exit code 0
+2024/03/08 13:25:48.43 work_queue_worker[16] wq: output: moving /srv/worker-21039-16/t.59/rawSugarscape8087266769365635867.json to /srv/worker-21039-16/cache/file-472-c375dc4a937d3a24327aad6d46540a76-rawSugarscape8087266769365635867.json
+2024/03/08 13:25:48.44 work_queue_worker[16] wq: tx: available_results
+2024/03/08 13:25:48.45 work_queue_worker[16] wq: rx: send_results -1
+2024/03/08 13:25:48.45 work_queue_worker[16] wq: tx: result 0 0 0 1774551978 59
+2024/03/08 13:25:48.46 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 13:25:48.46 work_queue_worker[16] wq: tx: end
+2024/03/08 13:25:48.47 work_queue_worker[16] wq: rx: get file-472-c375dc4a937d3a24327aad6d46540a76-rawSugarscape8087266769365635867.json 1
+2024/03/08 13:25:48.47 work_queue_worker[16] wq: tx: file file-472-c375dc4a937d3a24327aad6d46540a76-rawSugarscape8087266769365635867.json 9892097
+2024/03/08 13:25:48.48 work_queue_worker[16] wq: tx: end
+2024/03/08 13:25:48.52 work_queue_worker[16] wq: rx: kill 59
+2024/03/08 13:25:48.52 work_queue_worker[16] debug: trashing file ./worker.stdout.nhDe7t
+2024/03/08 13:25:48.52 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/t.59
+2024/03/08 13:25:48.53 work_queue_worker[16] wq: rx: unlink file-465-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 13:25:48.53 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-465-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 13:25:48.53 work_queue_worker[16] wq: rx: unlink file-466-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 13:25:48.53 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-466-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 13:25:48.54 work_queue_worker[16] wq: rx: unlink file-467-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 13:25:48.54 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-467-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 13:25:48.55 work_queue_worker[16] wq: rx: unlink file-468-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 13:25:48.55 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-468-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 13:25:48.55 work_queue_worker[16] wq: rx: unlink file-469-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 13:25:48.56 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-469-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 13:25:48.56 work_queue_worker[16] wq: rx: unlink file-470-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 13:25:48.56 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-470-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 13:25:48.56 work_queue_worker[16] wq: rx: unlink file-471-5ed67c98d5c84c94ef28b179392d0093-rawSugarscape8087266769365635867.config
+2024/03/08 13:25:48.57 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-471-5ed67c98d5c84c94ef28b179392d0093-rawSugarscape8087266769365635867.config
+2024/03/08 13:25:48.57 work_queue_worker[16] wq: rx: unlink file-472-c375dc4a937d3a24327aad6d46540a76-rawSugarscape8087266769365635867.json
+2024/03/08 13:25:48.58 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-472-c375dc4a937d3a24327aad6d46540a76-rawSugarscape8087266769365635867.json
+2024/03/08 13:25:48.58 work_queue_worker[16] wq: rx: put file-673-05b1a4892667b4d4a36c7ac84208c8c0-agent.py 62551 0644
+2024/03/08 13:25:48.59 work_queue_worker[16] wq: rx: put file-674-41d77a6b27c485c3d04d058412cf7a81-cell.py 4095 0644
+2024/03/08 13:25:48.59 work_queue_worker[16] wq: rx: put file-675-7db128f6b252f1f673a45cc58f79072f-environment.py 7879 0644
+2024/03/08 13:25:48.59 work_queue_worker[16] wq: rx: put file-676-c367cdab952830ef3c5c03268cce089b-ethics.py 4940 0644
+2024/03/08 13:25:48.60 work_queue_worker[16] wq: rx: put file-677-8c6b1af042119c8370fe34e4d3a113dc-disease.py 706 0644
+2024/03/08 13:25:48.60 work_queue_worker[16] wq: rx: put file-678-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py 50961 0644
+2024/03/08 13:25:48.61 work_queue_worker[16] wq: rx: put file-679-62f80c958711e5611168ac7b599dea08-rawSugarscape1878197474807590639.config 2335 0644
+2024/03/08 13:25:48.61 work_queue_worker[16] wq: rx: task 85
+2024/03/08 13:25:48.61 work_queue_worker[16] wq: rx: cmd 68
+2024/03/08 13:25:48.62 work_queue_worker[16] wq: rx: python3 sugarscape.py --conf rawSugarscape1878197474807590639.config
+2024/03/08 13:25:48.62 work_queue_worker[16] wq: rx: category default
+2024/03/08 13:25:48.63 work_queue_worker[16] wq: rx: cores 1.000
+2024/03/08 13:25:48.63 work_queue_worker[16] wq: rx: gpus 0
+2024/03/08 13:25:48.63 work_queue_worker[16] wq: rx: memory 8192
+2024/03/08 13:25:48.63 work_queue_worker[16] wq: rx: disk 4605
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: env 7
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: env 17
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: infile file-673-05b1a4892667b4d4a36c7ac84208c8c0-agent.py agent.py 0
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: infile file-674-41d77a6b27c485c3d04d058412cf7a81-cell.py cell.py 0
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: infile file-675-7db128f6b252f1f673a45cc58f79072f-environment.py environment.py 0
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: infile file-676-c367cdab952830ef3c5c03268cce089b-ethics.py ethics.py 0
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: infile file-677-8c6b1af042119c8370fe34e4d3a113dc-disease.py disease.py 0
+2024/03/08 13:25:48.64 work_queue_worker[16] wq: rx: infile file-678-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py sugarscape.py 0
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: rx: infile file-679-62f80c958711e5611168ac7b599dea08-rawSugarscape1878197474807590639.config rawSugarscape1878197474807590639.config 0
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: rx: outfile file-680-c14e40bfa1daa74b9a14cd568b73e6a4-rawSugarscape1878197474807590639.json rawSugarscape1878197474807590639.json 0
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: rx: end
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: cache: file-673-05b1a4892667b4d4a36c7ac84208c8c0-agent.py is already present.
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-673-05b1a4892667b4d4a36c7ac84208c8c0-agent.py -> /srv/worker-21039-16/t.85/agent.py
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: cache: file-674-41d77a6b27c485c3d04d058412cf7a81-cell.py is already present.
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-674-41d77a6b27c485c3d04d058412cf7a81-cell.py -> /srv/worker-21039-16/t.85/cell.py
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: cache: file-675-7db128f6b252f1f673a45cc58f79072f-environment.py is already present.
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-675-7db128f6b252f1f673a45cc58f79072f-environment.py -> /srv/worker-21039-16/t.85/environment.py
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: cache: file-676-c367cdab952830ef3c5c03268cce089b-ethics.py is already present.
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-676-c367cdab952830ef3c5c03268cce089b-ethics.py -> /srv/worker-21039-16/t.85/ethics.py
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: cache: file-677-8c6b1af042119c8370fe34e4d3a113dc-disease.py is already present.
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-677-8c6b1af042119c8370fe34e4d3a113dc-disease.py -> /srv/worker-21039-16/t.85/disease.py
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: cache: file-678-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py is already present.
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-678-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py -> /srv/worker-21039-16/t.85/sugarscape.py
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: cache: file-679-62f80c958711e5611168ac7b599dea08-rawSugarscape1878197474807590639.config is already present.
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-679-62f80c958711e5611168ac7b599dea08-rawSugarscape1878197474807590639.config -> /srv/worker-21039-16/t.85/rawSugarscape1878197474807590639.config
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: started process 22: python3 sugarscape.py --conf rawSugarscape1878197474807590639.config
+2024/03/08 13:25:48.65 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:27:39.80 work_queue_worker[16] wq: rx: check
+2024/03/08 13:27:39.82 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:27:39.82 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:29:40.63 work_queue_worker[16] wq: rx: check
+2024/03/08 13:29:40.64 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:29:40.64 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:31:40.86 work_queue_worker[16] wq: rx: check
+2024/03/08 13:31:40.89 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:31:40.89 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:33:41.11 work_queue_worker[16] wq: rx: check
+2024/03/08 13:33:41.13 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:33:41.13 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:35:41.54 work_queue_worker[16] wq: rx: check
+2024/03/08 13:35:41.57 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:35:41.57 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:37:41.80 work_queue_worker[16] wq: rx: check
+2024/03/08 13:37:41.81 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:37:41.81 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:39:42.05 work_queue_worker[16] wq: rx: check
+2024/03/08 13:39:42.08 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:39:42.08 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:41:42.34 work_queue_worker[16] wq: rx: check
+2024/03/08 13:41:42.36 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:41:42.36 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:43:42.61 work_queue_worker[16] wq: rx: check
+2024/03/08 13:43:42.61 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:43:42.61 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:45:43.57 work_queue_worker[16] wq: rx: check
+2024/03/08 13:45:43.60 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:45:43.60 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:47:44.36 work_queue_worker[16] wq: rx: check
+2024/03/08 13:47:44.38 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:47:44.38 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:49:45.27 work_queue_worker[16] wq: rx: check
+2024/03/08 13:49:45.27 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:49:45.27 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:51:46.25 work_queue_worker[16] wq: rx: check
+2024/03/08 13:51:46.27 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:51:46.27 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:53:46.43 work_queue_worker[16] wq: rx: check
+2024/03/08 13:53:46.43 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:53:46.43 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:55:46.57 work_queue_worker[16] wq: rx: check
+2024/03/08 13:55:46.57 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:55:46.57 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:57:47.26 work_queue_worker[16] wq: rx: check
+2024/03/08 13:57:47.29 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:57:47.29 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 13:59:47.29 work_queue_worker[16] wq: rx: check
+2024/03/08 13:59:47.31 work_queue_worker[16] wq: tx: alive
+2024/03/08 13:59:47.31 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:01:48.25 work_queue_worker[16] wq: rx: check
+2024/03/08 14:01:48.27 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:01:48.27 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:03:49.22 work_queue_worker[16] wq: rx: check
+2024/03/08 14:03:49.24 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:03:49.24 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:05:50.18 work_queue_worker[16] wq: rx: check
+2024/03/08 14:05:50.20 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:05:50.21 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:07:50.21 work_queue_worker[16] wq: rx: check
+2024/03/08 14:07:50.22 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:07:50.22 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:09:50.23 work_queue_worker[16] wq: rx: check
+2024/03/08 14:09:50.25 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:09:50.25 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:11:51.22 work_queue_worker[16] wq: rx: check
+2024/03/08 14:11:51.24 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:11:51.24 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:13:51.39 work_queue_worker[16] wq: rx: check
+2024/03/08 14:13:51.39 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:13:51.39 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:15:51.67 work_queue_worker[16] wq: rx: check
+2024/03/08 14:15:51.69 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:15:51.69 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:17:51.94 work_queue_worker[16] wq: rx: check
+2024/03/08 14:17:51.96 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:17:51.96 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:19:52.43 work_queue_worker[16] wq: rx: check
+2024/03/08 14:19:52.45 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:19:52.46 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:21:52.90 work_queue_worker[16] wq: rx: check
+2024/03/08 14:21:52.93 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:21:52.94 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:21:53.47 work_queue_worker[16] wq: task 85 (pid 22) exited normally with exit code 0
+2024/03/08 14:21:53.47 work_queue_worker[16] wq: output: moving /srv/worker-21039-16/t.85/rawSugarscape1878197474807590639.json to /srv/worker-21039-16/cache/file-680-c14e40bfa1daa74b9a14cd568b73e6a4-rawSugarscape1878197474807590639.json
+2024/03/08 14:21:53.48 work_queue_worker[16] wq: tx: available_results
+2024/03/08 14:21:53.49 work_queue_worker[16] wq: rx: send_results -1
+2024/03/08 14:21:53.49 work_queue_worker[16] wq: tx: result 0 0 0 3364824636 85
+2024/03/08 14:21:53.49 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 14:21:53.50 work_queue_worker[16] wq: tx: end
+2024/03/08 14:21:53.51 work_queue_worker[16] wq: rx: get file-680-c14e40bfa1daa74b9a14cd568b73e6a4-rawSugarscape1878197474807590639.json 1
+2024/03/08 14:21:53.51 work_queue_worker[16] wq: tx: file file-680-c14e40bfa1daa74b9a14cd568b73e6a4-rawSugarscape1878197474807590639.json 10001443
+2024/03/08 14:21:53.52 work_queue_worker[16] wq: tx: end
+2024/03/08 14:21:53.56 work_queue_worker[16] wq: rx: kill 85
+2024/03/08 14:21:53.56 work_queue_worker[16] debug: trashing file ./worker.stdout.vQJ041
+2024/03/08 14:21:53.57 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/t.85
+2024/03/08 14:21:53.57 work_queue_worker[16] wq: rx: unlink file-673-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 14:21:53.58 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-673-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 14:21:53.58 work_queue_worker[16] wq: rx: unlink file-674-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 14:21:53.58 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-674-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 14:21:53.59 work_queue_worker[16] wq: rx: unlink file-675-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 14:21:53.59 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-675-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 14:21:53.60 work_queue_worker[16] wq: rx: unlink file-676-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 14:21:53.60 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-676-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 14:21:53.60 work_queue_worker[16] wq: rx: unlink file-677-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 14:21:53.61 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-677-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 14:21:53.61 work_queue_worker[16] wq: rx: unlink file-678-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 14:21:53.61 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-678-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 14:21:53.61 work_queue_worker[16] wq: rx: unlink file-679-62f80c958711e5611168ac7b599dea08-rawSugarscape1878197474807590639.config
+2024/03/08 14:21:53.62 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-679-62f80c958711e5611168ac7b599dea08-rawSugarscape1878197474807590639.config
+2024/03/08 14:21:53.62 work_queue_worker[16] wq: rx: unlink file-680-c14e40bfa1daa74b9a14cd568b73e6a4-rawSugarscape1878197474807590639.json
+2024/03/08 14:21:53.62 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-680-c14e40bfa1daa74b9a14cd568b73e6a4-rawSugarscape1878197474807590639.json
+2024/03/08 14:23:53.02 work_queue_worker[16] wq: rx: check
+2024/03/08 14:23:53.03 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:23:53.03 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 14:25:53.36 work_queue_worker[16] wq: rx: check
+2024/03/08 14:25:53.38 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:25:53.39 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 14:26:29.06 work_queue_worker[16] wq: rx: put file-665-05b1a4892667b4d4a36c7ac84208c8c0-agent.py 62551 0644
+2024/03/08 14:26:29.06 work_queue_worker[16] wq: rx: put file-666-41d77a6b27c485c3d04d058412cf7a81-cell.py 4095 0644
+2024/03/08 14:26:29.06 work_queue_worker[16] wq: rx: put file-667-7db128f6b252f1f673a45cc58f79072f-environment.py 7879 0644
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: put file-668-c367cdab952830ef3c5c03268cce089b-ethics.py 4940 0644
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: put file-669-8c6b1af042119c8370fe34e4d3a113dc-disease.py 706 0644
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: put file-670-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py 50961 0644
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: put file-671-c6102f237b5ff2d7d99444620b51c6d2-rawSugarscape7552656520629772822.config 2335 0644
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: task 84
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: cmd 68
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: python3 sugarscape.py --conf rawSugarscape7552656520629772822.config
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: category default
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: cores 1.000
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: gpus 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: memory 8192
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: disk 4605
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: env 7
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: env 17
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: infile file-665-05b1a4892667b4d4a36c7ac84208c8c0-agent.py agent.py 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: infile file-666-41d77a6b27c485c3d04d058412cf7a81-cell.py cell.py 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: infile file-667-7db128f6b252f1f673a45cc58f79072f-environment.py environment.py 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: infile file-668-c367cdab952830ef3c5c03268cce089b-ethics.py ethics.py 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: infile file-669-8c6b1af042119c8370fe34e4d3a113dc-disease.py disease.py 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: infile file-670-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py sugarscape.py 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: infile file-671-c6102f237b5ff2d7d99444620b51c6d2-rawSugarscape7552656520629772822.config rawSugarscape7552656520629772822.config 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: outfile file-672-48f91f8a35627a5589c36746afca9b1b-rawSugarscape7552656520629772822.json rawSugarscape7552656520629772822.json 0
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: rx: end
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: cache: file-665-05b1a4892667b4d4a36c7ac84208c8c0-agent.py is already present.
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-665-05b1a4892667b4d4a36c7ac84208c8c0-agent.py -> /srv/worker-21039-16/t.84/agent.py
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: cache: file-666-41d77a6b27c485c3d04d058412cf7a81-cell.py is already present.
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-666-41d77a6b27c485c3d04d058412cf7a81-cell.py -> /srv/worker-21039-16/t.84/cell.py
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: cache: file-667-7db128f6b252f1f673a45cc58f79072f-environment.py is already present.
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-667-7db128f6b252f1f673a45cc58f79072f-environment.py -> /srv/worker-21039-16/t.84/environment.py
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: cache: file-668-c367cdab952830ef3c5c03268cce089b-ethics.py is already present.
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-668-c367cdab952830ef3c5c03268cce089b-ethics.py -> /srv/worker-21039-16/t.84/ethics.py
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: cache: file-669-8c6b1af042119c8370fe34e4d3a113dc-disease.py is already present.
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-669-8c6b1af042119c8370fe34e4d3a113dc-disease.py -> /srv/worker-21039-16/t.84/disease.py
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: cache: file-670-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py is already present.
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-670-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py -> /srv/worker-21039-16/t.84/sugarscape.py
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: cache: file-671-c6102f237b5ff2d7d99444620b51c6d2-rawSugarscape7552656520629772822.config is already present.
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: input: link /srv/worker-21039-16/cache/file-671-c6102f237b5ff2d7d99444620b51c6d2-rawSugarscape7552656520629772822.config -> /srv/worker-21039-16/t.84/rawSugarscape7552656520629772822.config
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: started process 23: python3 sugarscape.py --conf rawSugarscape7552656520629772822.config
+2024/03/08 14:26:29.07 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:27:54.19 work_queue_worker[16] wq: rx: check
+2024/03/08 14:27:54.19 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:27:54.19 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:29:54.46 work_queue_worker[16] wq: rx: check
+2024/03/08 14:29:54.48 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:29:54.48 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:31:54.61 work_queue_worker[16] wq: rx: check
+2024/03/08 14:31:54.64 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:31:54.64 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:33:58.96 work_queue_worker[16] wq: rx: check
+2024/03/08 14:33:58.96 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:33:58.96 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:35:59.08 work_queue_worker[16] wq: rx: check
+2024/03/08 14:35:59.10 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:35:59.11 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:37:59.46 work_queue_worker[16] wq: rx: check
+2024/03/08 14:37:59.49 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:37:59.50 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:39:59.68 work_queue_worker[16] wq: rx: check
+2024/03/08 14:39:59.70 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:39:59.71 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:42:00.48 work_queue_worker[16] wq: rx: check
+2024/03/08 14:42:00.51 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:42:00.51 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:44:01.10 work_queue_worker[16] wq: rx: check
+2024/03/08 14:44:01.12 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:44:01.12 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:46:01.31 work_queue_worker[16] wq: rx: check
+2024/03/08 14:46:01.33 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:46:01.33 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:48:01.58 work_queue_worker[16] wq: rx: check
+2024/03/08 14:48:01.61 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:48:01.61 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:50:01.79 work_queue_worker[16] wq: rx: check
+2024/03/08 14:50:01.81 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:50:01.81 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:52:01.98 work_queue_worker[16] wq: rx: check
+2024/03/08 14:52:02.00 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:52:02.01 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:54:02.50 work_queue_worker[16] wq: rx: check
+2024/03/08 14:54:02.53 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:54:02.54 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:56:03.11 work_queue_worker[16] wq: rx: check
+2024/03/08 14:56:03.12 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:56:03.12 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 14:58:03.92 work_queue_worker[16] wq: rx: check
+2024/03/08 14:58:03.94 work_queue_worker[16] wq: tx: alive
+2024/03/08 14:58:03.94 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:00:04.21 work_queue_worker[16] wq: rx: check
+2024/03/08 15:00:04.21 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:00:04.21 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:02:04.35 work_queue_worker[16] wq: rx: check
+2024/03/08 15:02:04.37 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:02:04.37 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:04:04.49 work_queue_worker[16] wq: rx: check
+2024/03/08 15:04:04.49 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:04:04.49 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:06:04.65 work_queue_worker[16] wq: rx: check
+2024/03/08 15:06:04.67 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:06:04.67 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:08:04.83 work_queue_worker[16] wq: rx: check
+2024/03/08 15:08:04.86 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:08:04.87 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:10:05.01 work_queue_worker[16] wq: rx: check
+2024/03/08 15:10:05.01 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:10:05.01 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:12:05.16 work_queue_worker[16] wq: rx: check
+2024/03/08 15:12:05.16 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:12:05.16 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:14:05.32 work_queue_worker[16] wq: rx: check
+2024/03/08 15:14:05.32 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:14:05.33 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:16:05.47 work_queue_worker[16] wq: rx: check
+2024/03/08 15:16:05.48 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:16:05.48 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:18:06.00 work_queue_worker[16] wq: rx: check
+2024/03/08 15:18:06.00 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:18:06.00 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:20:06.85 work_queue_worker[16] wq: rx: check
+2024/03/08 15:20:06.85 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:20:06.85 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:22:07.24 work_queue_worker[16] wq: rx: check
+2024/03/08 15:22:07.24 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:22:07.24 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:24:07.48 work_queue_worker[16] wq: rx: check
+2024/03/08 15:24:07.48 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:24:07.48 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:26:07.74 work_queue_worker[16] wq: rx: check
+2024/03/08 15:26:07.74 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:26:07.74 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:28:08.28 work_queue_worker[16] wq: rx: check
+2024/03/08 15:28:08.31 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:28:08.31 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:30:08.47 work_queue_worker[16] wq: rx: check
+2024/03/08 15:30:08.47 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:30:08.47 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:32:08.64 work_queue_worker[16] wq: rx: check
+2024/03/08 15:32:08.65 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:32:08.65 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:34:08.83 work_queue_worker[16] wq: rx: check
+2024/03/08 15:34:08.85 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:34:08.86 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:36:09.71 work_queue_worker[16] wq: rx: check
+2024/03/08 15:36:09.73 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:36:09.74 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:38:10.08 work_queue_worker[16] wq: rx: check
+2024/03/08 15:38:10.09 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:38:10.09 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:40:10.27 work_queue_worker[16] wq: rx: check
+2024/03/08 15:40:10.29 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:40:10.29 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:42:10.59 work_queue_worker[16] wq: rx: check
+2024/03/08 15:42:10.61 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:42:10.62 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:44:10.76 work_queue_worker[16] wq: rx: check
+2024/03/08 15:44:10.76 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:44:10.76 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:46:10.90 work_queue_worker[16] wq: rx: check
+2024/03/08 15:46:10.91 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:46:10.91 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:48:11.51 work_queue_worker[16] wq: rx: check
+2024/03/08 15:48:11.51 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:48:11.51 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:50:11.80 work_queue_worker[16] wq: rx: check
+2024/03/08 15:50:11.82 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:50:11.82 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:52:12.03 work_queue_worker[16] wq: rx: check
+2024/03/08 15:52:12.03 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:52:12.03 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:54:12.29 work_queue_worker[16] wq: rx: check
+2024/03/08 15:54:12.29 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:54:12.29 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:56:12.44 work_queue_worker[16] wq: rx: check
+2024/03/08 15:56:12.44 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:56:12.44 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 15:58:12.57 work_queue_worker[16] wq: rx: check
+2024/03/08 15:58:12.57 work_queue_worker[16] wq: tx: alive
+2024/03/08 15:58:12.57 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 16:00:12.71 work_queue_worker[16] wq: rx: check
+2024/03/08 16:00:12.71 work_queue_worker[16] wq: tx: alive
+2024/03/08 16:00:12.71 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 16:02:12.86 work_queue_worker[16] wq: rx: check
+2024/03/08 16:02:12.86 work_queue_worker[16] wq: tx: alive
+2024/03/08 16:02:12.86 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 16:04:13.01 work_queue_worker[16] wq: rx: check
+2024/03/08 16:04:13.01 work_queue_worker[16] wq: tx: alive
+2024/03/08 16:04:13.01 work_queue_worker[16] wq: tx: info tasks_running 1
+2024/03/08 16:05:09.26 work_queue_worker[16] wq: task 84 (pid 23) exited normally with exit code 0
+2024/03/08 16:05:09.26 work_queue_worker[16] wq: output: moving /srv/worker-21039-16/t.84/rawSugarscape7552656520629772822.json to /srv/worker-21039-16/cache/file-672-48f91f8a35627a5589c36746afca9b1b-rawSugarscape7552656520629772822.json
+2024/03/08 16:05:09.26 work_queue_worker[16] wq: tx: available_results
+2024/03/08 16:05:09.27 work_queue_worker[16] wq: rx: send_results -1
+2024/03/08 16:05:09.27 work_queue_worker[16] wq: tx: result 0 0 0 5920188979 84
+2024/03/08 16:05:09.27 work_queue_worker[16] wq: tx: info tasks_running 0
+2024/03/08 16:05:09.27 work_queue_worker[16] wq: tx: end
+2024/03/08 16:05:09.27 work_queue_worker[16] wq: rx: get file-672-48f91f8a35627a5589c36746afca9b1b-rawSugarscape7552656520629772822.json 1
+2024/03/08 16:05:09.27 work_queue_worker[16] wq: tx: file file-672-48f91f8a35627a5589c36746afca9b1b-rawSugarscape7552656520629772822.json 10117133
+2024/03/08 16:05:09.29 work_queue_worker[16] wq: tx: end
+2024/03/08 16:05:09.31 work_queue_worker[16] wq: rx: kill 84
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file ./worker.stdout.rUEaKM
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/t.84
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-665-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-665-05b1a4892667b4d4a36c7ac84208c8c0-agent.py
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-666-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-666-41d77a6b27c485c3d04d058412cf7a81-cell.py
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-667-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-667-7db128f6b252f1f673a45cc58f79072f-environment.py
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-668-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-668-c367cdab952830ef3c5c03268cce089b-ethics.py
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-669-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-669-8c6b1af042119c8370fe34e4d3a113dc-disease.py
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-670-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-670-4da60dcb21a0ae1c6fa99e3756eeb461-sugarscape.py
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-671-c6102f237b5ff2d7d99444620b51c6d2-rawSugarscape7552656520629772822.config
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-671-c6102f237b5ff2d7d99444620b51c6d2-rawSugarscape7552656520629772822.config
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: unlink file-672-48f91f8a35627a5589c36746afca9b1b-rawSugarscape7552656520629772822.json
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file /srv/worker-21039-16/cache/file-672-48f91f8a35627a5589c36746afca9b1b-rawSugarscape7552656520629772822.json
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: rx: release
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: released by manager 192.170.231.142:9001.
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: disconnecting from manager 192.170.231.142:9001
+2024/03/08 16:05:09.32 work_queue_worker[16] tcp: disconnected from 192.170.231.142 port 9001
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: killing all outstanding tasks
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: all data structures are clean
+2024/03/08 16:05:09.32 work_queue_worker[16] wq: cleaning workspace /srv/worker-21039-16
+2024/03/08 16:05:09.32 work_queue_worker[16] debug: trashing file cache
+2024/03/08 16:05:10.32 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 16:05:10.32 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 16:05:10.32 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 16:05:10.32 work_queue_worker[16] dns: looking up name catalog.cse.nd.edu
+2024/03/08 16:05:10.38 work_queue_worker[16] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/08 16:05:10.39 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 16:05:10.40 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 16:05:10.40 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 16:05:10.42 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 16:05:10.42 work_queue_worker[16] http: Date: Fri Mar  8 17:05:10 2024
+2024/03/08 16:05:10.42 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 16:05:10.42 work_queue_worker[16] http: Connection: close
+2024/03/08 16:05:10.42 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 16:05:10.42 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 16:05:10.42 work_queue_worker[16] http:
+2024/03/08 16:05:10.50 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 16:05:10.50 work_queue_worker[16] wq: project name nessie_c8_2 matches 1 managers
+2024/03/08 16:05:10.50 work_queue_worker[16] wq: selected manager with project=nessie_c8_2 addr=192.170.231.142 port=9001
+2024/03/08 16:05:10.50 work_queue_worker[16] dns: looking up name 192.168.131.142
+2024/03/08 16:05:10.50 work_queue_worker[16] dns: 192.168.131.142 is 192.168.131.142
+2024/03/08 16:05:10.50 work_queue_worker[16] tcp: connecting to 192.168.131.142 port 9001
+2024/03/08 16:07:17.73 work_queue_worker[16] tcp: connection to 192.168.131.142 port 9001 failed (Connection timed out)
+2024/03/08 16:07:17.74 work_queue_worker[16] tcp: disconnected from 192.168.131.142 port 9001
+2024/03/08 16:07:17.74 work_queue_worker[16] dns: looking up name 192.170.231.142
+2024/03/08 16:07:17.74 work_queue_worker[16] dns: 192.170.231.142 is 192.170.231.142
+2024/03/08 16:07:17.74 work_queue_worker[16] tcp: connecting to 192.170.231.142 port 9001
+2024/03/08 16:07:17.74 work_queue_worker[16] tcp: connection to 192.170.231.142 port 9001 failed (Connection refused)
+2024/03/08 16:07:17.74 work_queue_worker[16] tcp: disconnected from 192.170.231.142 port 9001
+2024/03/08 16:07:19.74 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 16:07:19.74 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 16:07:19.74 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 16:07:19.74 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 16:07:19.74 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 16:07:19.76 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 16:07:19.76 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 16:07:19.77 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 16:07:19.77 work_queue_worker[16] http: Date: Fri Mar  8 17:07:19 2024
+2024/03/08 16:07:19.77 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 16:07:19.77 work_queue_worker[16] http: Connection: close
+2024/03/08 16:07:19.77 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 16:07:19.77 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 16:07:19.77 work_queue_worker[16] http:
+2024/03/08 16:07:19.84 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 16:07:19.84 work_queue_worker[16] wq: project name nessie_c8_2 matches 1 managers
+2024/03/08 16:07:19.84 work_queue_worker[16] wq: selected manager with project=nessie_c8_2 addr=192.170.231.142 port=9001
+2024/03/08 16:07:19.84 work_queue_worker[16] tcp: connecting to 192.168.131.142 port 9001
+2024/03/08 16:09:27.14 work_queue_worker[16] tcp: connection to 192.168.131.142 port 9001 failed (Connection timed out)
+2024/03/08 16:09:27.14 work_queue_worker[16] tcp: disconnected from 192.168.131.142 port 9001
+2024/03/08 16:09:27.14 work_queue_worker[16] tcp: connecting to 192.170.231.142 port 9001
+2024/03/08 16:09:27.14 work_queue_worker[16] tcp: connection to 192.170.231.142 port 9001 failed (Connection refused)
+2024/03/08 16:09:27.14 work_queue_worker[16] tcp: disconnected from 192.170.231.142 port 9001
+2024/03/08 16:09:31.14 work_queue_worker[16] debug: error reading disk usage on directory: ./cache.
+2024/03/08 16:09:31.14 work_queue_worker[16] wq: querying catalog for managers with project=nessie_c8_2
+2024/03/08 16:09:31.14 work_queue_worker[16] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 16:09:31.14 work_queue_worker[16] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 16:09:31.14 work_queue_worker[16] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 16:09:31.16 work_queue_worker[16] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 16:09:31.16 work_queue_worker[16] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 16:09:31.17 work_queue_worker[16] http: HTTP/1.1 200 OK
+2024/03/08 16:09:31.17 work_queue_worker[16] http: Date: Fri Mar  8 17:09:31 2024
+2024/03/08 16:09:31.17 work_queue_worker[16] http: Server: catalog_server
+2024/03/08 16:09:31.17 work_queue_worker[16] http: Connection: close
+2024/03/08 16:09:31.17 work_queue_worker[16] http: Access-Control-Allow-Origin: *
+2024/03/08 16:09:31.18 work_queue_worker[16] http: Content-type: text/plain; charset=utf-8
+2024/03/08 16:09:31.18 work_queue_worker[16] http:
+2024/03/08 16:09:31.25 work_queue_worker[16] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 16:09:31.26 work_queue_worker[16] wq: project name nessie_c8_2 matches 1 managers
+2024/03/08 16:09:31.26 work_queue_worker[16] wq: selected manager with project=nessie_c8_2 addr=192.170.231.142 port=9001
+2024/03/08 16:09:31.26 work_queue_worker[16] tcp: connecting to 192.168.131.142 port 9001
+2024/03/08 16:11:38.59 work_queue_worker[16] tcp: connection to 192.168.131.142 port 9001 failed (Connection timed out)
+2024/03/08 16:11:38.60 work_queue_worker[16] tcp: disconnected from 192.168.131.142 port 9001
+2024/03/08 16:11:38.60 work_queue_worker[16] tcp: connecting to 192.170.231.142 port 9001
+2024/03/08 16:11:38.60 work_queue_worker[16] tcp: connection to 192.170.231.142 port 9001 failed (Connection refused)
+2024/03/08 16:11:38.60 work_queue_worker[16] tcp: disconnected from 192.170.231.142 port 9001
+2024/03/08 16:11:38.60 work_queue_worker[16] notice: stopping: could not connect after 300 seconds.

@@ -132,4 +132,6 @@ data/*.json
 plots/*.pdf
 plots/*.dat
 
+
 # Files related to running simulations or makeflows
+data/*/*.json

@@ -1,131 +1,131 @@
-2024/03/07 16:16:57.92 work_queue_worker[15] debug: ./work_queue_worker version 8.0.0 DEVELOPMENT (released 2024-03-05 22:47:58 -0600)
-2024/03/07 16:16:57.92 work_queue_worker[15] debug: Built by chodges@ap21.uc.osg-htc.org on 2024-03-05 22:47:58 -0600
-2024/03/07 16:16:57.92 work_queue_worker[15] debug: System: Linux ap21.uc.osg-htc.org 5.4.240-1.el8.elrepo.x86_64 #1 SMP Tue Apr 4 13:26:38 EDT 2023 x86_64 x86_64 x86_64 GNU/Linux
-2024/03/07 16:16:57.92 work_queue_worker[15] debug: Configuration: --prefix /home/chodges/cctools --strict --without-system-parrot --tcp-low-port 9000 --tcp-high-port 9500
-2024/03/07 16:16:57.93 work_queue_worker[15] wq: WORK_QUEUE_SANDBOX set to /srv/worker-100194-15.
-2024/03/07 16:16:57.93 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:16:57.93 work_queue_worker[15] wq: querying catalog for managers with project=nessie_c16
-2024/03/07 16:16:57.93 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
-2024/03/07 16:16:57.93 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
-2024/03/07 16:16:57.93 work_queue_worker[15] dns: looking up name catalog.cse.nd.edu
-2024/03/07 16:16:57.94 work_queue_worker[15] dns: catalog.cse.nd.edu is 129.74.152.177
-2024/03/07 16:16:57.94 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
-2024/03/07 16:16:57.95 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
-2024/03/07 16:16:57.95 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+2024/03/08 12:30:49.51 work_queue_worker[10617] debug: ./work_queue_worker version 8.0.0 DEVELOPMENT (released 2024-03-05 22:47:58 -0600)
+2024/03/08 12:30:49.51 work_queue_worker[10617] debug: Built by chodges@ap21.uc.osg-htc.org on 2024-03-05 22:47:58 -0600
+2024/03/08 12:30:49.51 work_queue_worker[10617] debug: System: Linux ap21.uc.osg-htc.org 5.4.240-1.el8.elrepo.x86_64 #1 SMP Tue Apr 4 13:26:38 EDT 2023 x86_64 x86_64 x86_64 GNU/Linux
+2024/03/08 12:30:49.51 work_queue_worker[10617] debug: Configuration: --prefix /home/chodges/cctools --strict --without-system-parrot --tcp-low-port 9000 --tcp-high-port 9500
+2024/03/08 12:30:49.51 work_queue_worker[10617] wq: WORK_QUEUE_SANDBOX set to /scratch/glide_p4n0I6/execute/dir_10253/worker-1010-10617.
+2024/03/08 12:30:49.51 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:30:49.51 work_queue_worker[10617] wq: querying catalog for managers with project=nessie_c16
+2024/03/08 12:30:49.51 work_queue_worker[10617] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 12:30:49.51 work_queue_worker[10617] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 12:30:49.51 work_queue_worker[10617] dns: looking up name catalog.cse.nd.edu
+2024/03/08 12:30:49.51 work_queue_worker[10617] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/08 12:30:49.52 work_queue_worker[10617] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 12:30:49.55 work_queue_worker[10617] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 12:30:49.55 work_queue_worker[10617] http: GET /query/dHJ1ZQ== HTTP/1.1
 Connection: close
 Host: catalog.cse.nd.edu
 User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
-2024/03/07 16:16:57.97 work_queue_worker[15] http: HTTP/1.1 200 OK
-2024/03/07 16:16:57.97 work_queue_worker[15] http: Date: Thu Mar  7 16:16:57 2024
-2024/03/07 16:16:57.97 work_queue_worker[15] http: Server: catalog_server
-2024/03/07 16:16:57.97 work_queue_worker[15] http: Connection: close
-2024/03/07 16:16:57.97 work_queue_worker[15] http: Access-Control-Allow-Origin: *
-2024/03/07 16:16:57.97 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
-2024/03/07 16:16:57.97 work_queue_worker[15] http:
-2024/03/07 16:16:58.05 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
-2024/03/07 16:16:58.06 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:17:00.06 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:17:04.06 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:17:04.06 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:17:12.06 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:17:12.06 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:17:28.06 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:17:28.06 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:18:00.06 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:18:00.06 work_queue_worker[15] wq: querying catalog for managers with project=nessie_c16
-2024/03/07 16:18:00.06 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
-2024/03/07 16:18:00.06 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
-2024/03/07 16:18:00.06 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
-2024/03/07 16:18:00.08 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
-2024/03/07 16:18:00.08 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+2024/03/08 12:30:49.59 work_queue_worker[10617] http: HTTP/1.1 200 OK
+2024/03/08 12:30:49.59 work_queue_worker[10617] http: Date: Fri Mar  8 12:30:49 2024
+2024/03/08 12:30:49.59 work_queue_worker[10617] http: Server: catalog_server
+2024/03/08 12:30:49.59 work_queue_worker[10617] http: Connection: close
+2024/03/08 12:30:49.59 work_queue_worker[10617] http: Access-Control-Allow-Origin: *
+2024/03/08 12:30:49.59 work_queue_worker[10617] http: Content-type: text/plain; charset=utf-8
+2024/03/08 12:30:49.59 work_queue_worker[10617] http:
+2024/03/08 12:30:49.83 work_queue_worker[10617] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 12:30:49.84 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:30:51.84 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:30:55.85 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:30:55.85 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:31:03.85 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:31:03.85 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:31:19.85 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:31:19.85 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:31:51.85 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:31:51.85 work_queue_worker[10617] wq: querying catalog for managers with project=nessie_c16
+2024/03/08 12:31:51.85 work_queue_worker[10617] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 12:31:51.85 work_queue_worker[10617] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 12:31:51.85 work_queue_worker[10617] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 12:31:51.89 work_queue_worker[10617] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 12:31:51.89 work_queue_worker[10617] http: GET /query/dHJ1ZQ== HTTP/1.1
 Connection: close
 Host: catalog.cse.nd.edu
 User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
-2024/03/07 16:18:00.10 work_queue_worker[15] http: HTTP/1.1 200 OK
-2024/03/07 16:18:00.10 work_queue_worker[15] http: Date: Thu Mar  7 16:18:00 2024
-2024/03/07 16:18:00.10 work_queue_worker[15] http: Server: catalog_server
-2024/03/07 16:18:00.10 work_queue_worker[15] http: Connection: close
-2024/03/07 16:18:00.10 work_queue_worker[15] http: Access-Control-Allow-Origin: *
-2024/03/07 16:18:00.10 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
-2024/03/07 16:18:00.10 work_queue_worker[15] http:
-2024/03/07 16:18:00.18 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
-2024/03/07 16:18:00.19 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:19:00.19 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:19:00.19 work_queue_worker[15] wq: querying catalog for managers with project=nessie_c16
-2024/03/07 16:19:00.19 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
-2024/03/07 16:19:00.19 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
-2024/03/07 16:19:00.19 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
-2024/03/07 16:19:00.20 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
-2024/03/07 16:19:00.21 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+2024/03/08 12:31:51.92 work_queue_worker[10617] http: HTTP/1.1 200 OK
+2024/03/08 12:31:51.92 work_queue_worker[10617] http: Date: Fri Mar  8 12:31:51 2024
+2024/03/08 12:31:51.92 work_queue_worker[10617] http: Server: catalog_server
+2024/03/08 12:31:51.92 work_queue_worker[10617] http: Connection: close
+2024/03/08 12:31:51.92 work_queue_worker[10617] http: Access-Control-Allow-Origin: *
+2024/03/08 12:31:51.92 work_queue_worker[10617] http: Content-type: text/plain; charset=utf-8
+2024/03/08 12:31:51.92 work_queue_worker[10617] http:
+2024/03/08 12:31:52.10 work_queue_worker[10617] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 12:31:52.11 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:32:52.11 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:32:52.11 work_queue_worker[10617] wq: querying catalog for managers with project=nessie_c16
+2024/03/08 12:32:52.11 work_queue_worker[10617] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 12:32:52.11 work_queue_worker[10617] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 12:32:52.11 work_queue_worker[10617] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 12:32:52.15 work_queue_worker[10617] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 12:32:52.15 work_queue_worker[10617] http: GET /query/dHJ1ZQ== HTTP/1.1
 Connection: close
 Host: catalog.cse.nd.edu
 User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
-2024/03/07 16:19:00.23 work_queue_worker[15] http: HTTP/1.1 200 OK
-2024/03/07 16:19:00.23 work_queue_worker[15] http: Date: Thu Mar  7 16:19:00 2024
-2024/03/07 16:19:00.23 work_queue_worker[15] http: Server: catalog_server
-2024/03/07 16:19:00.23 work_queue_worker[15] http: Connection: close
-2024/03/07 16:19:00.23 work_queue_worker[15] http: Access-Control-Allow-Origin: *
-2024/03/07 16:19:00.23 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
-2024/03/07 16:19:00.23 work_queue_worker[15] http:
-2024/03/07 16:19:00.31 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
-2024/03/07 16:19:00.32 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:20:00.32 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:20:00.32 work_queue_worker[15] wq: querying catalog for managers with project=nessie_c16
-2024/03/07 16:20:00.32 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
-2024/03/07 16:20:00.32 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
-2024/03/07 16:20:00.32 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
-2024/03/07 16:20:00.34 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
-2024/03/07 16:20:00.34 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+2024/03/08 12:32:52.22 work_queue_worker[10617] http: HTTP/1.1 200 OK
+2024/03/08 12:32:52.22 work_queue_worker[10617] http: Date: Fri Mar  8 12:32:52 2024
+2024/03/08 12:32:52.22 work_queue_worker[10617] http: Server: catalog_server
+2024/03/08 12:32:52.22 work_queue_worker[10617] http: Connection: close
+2024/03/08 12:32:52.22 work_queue_worker[10617] http: Access-Control-Allow-Origin: *
+2024/03/08 12:32:52.22 work_queue_worker[10617] http: Content-type: text/plain; charset=utf-8
+2024/03/08 12:32:52.22 work_queue_worker[10617] http:
+2024/03/08 12:32:52.74 work_queue_worker[10617] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 12:32:52.75 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:33:52.76 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:33:52.76 work_queue_worker[10617] wq: querying catalog for managers with project=nessie_c16
+2024/03/08 12:33:52.76 work_queue_worker[10617] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 12:33:52.76 work_queue_worker[10617] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 12:33:52.76 work_queue_worker[10617] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 12:33:52.79 work_queue_worker[10617] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 12:33:52.79 work_queue_worker[10617] http: GET /query/dHJ1ZQ== HTTP/1.1
 Connection: close
 Host: catalog.cse.nd.edu
 User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
-2024/03/07 16:20:00.35 work_queue_worker[15] http: HTTP/1.1 200 OK
-2024/03/07 16:20:00.35 work_queue_worker[15] http: Date: Thu Mar  7 16:20:00 2024
-2024/03/07 16:20:00.35 work_queue_worker[15] http: Server: catalog_server
-2024/03/07 16:20:00.35 work_queue_worker[15] http: Connection: close
-2024/03/07 16:20:00.35 work_queue_worker[15] http: Access-Control-Allow-Origin: *
-2024/03/07 16:20:00.35 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
-2024/03/07 16:20:00.35 work_queue_worker[15] http:
-2024/03/07 16:20:00.44 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
-2024/03/07 16:20:00.45 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:21:00.45 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:21:00.45 work_queue_worker[15] wq: querying catalog for managers with project=nessie_c16
-2024/03/07 16:21:00.45 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
-2024/03/07 16:21:00.45 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
-2024/03/07 16:21:00.45 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
-2024/03/07 16:21:00.47 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
-2024/03/07 16:21:00.47 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+2024/03/08 12:33:52.83 work_queue_worker[10617] http: HTTP/1.1 200 OK
+2024/03/08 12:33:52.83 work_queue_worker[10617] http: Date: Fri Mar  8 12:33:52 2024
+2024/03/08 12:33:52.83 work_queue_worker[10617] http: Server: catalog_server
+2024/03/08 12:33:52.83 work_queue_worker[10617] http: Connection: close
+2024/03/08 12:33:52.83 work_queue_worker[10617] http: Access-Control-Allow-Origin: *
+2024/03/08 12:33:52.83 work_queue_worker[10617] http: Content-type: text/plain; charset=utf-8
+2024/03/08 12:33:52.83 work_queue_worker[10617] http:
+2024/03/08 12:33:53.05 work_queue_worker[10617] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 12:33:53.06 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:34:53.06 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:34:53.06 work_queue_worker[10617] wq: querying catalog for managers with project=nessie_c16
+2024/03/08 12:34:53.06 work_queue_worker[10617] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 12:34:53.06 work_queue_worker[10617] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 12:34:53.06 work_queue_worker[10617] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 12:34:53.10 work_queue_worker[10617] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 12:34:53.10 work_queue_worker[10617] http: GET /query/dHJ1ZQ== HTTP/1.1
 Connection: close
 Host: catalog.cse.nd.edu
 User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
-2024/03/07 16:21:00.48 work_queue_worker[15] http: HTTP/1.1 200 OK
-2024/03/07 16:21:00.49 work_queue_worker[15] http: Date: Thu Mar  7 16:21:00 2024
-2024/03/07 16:21:00.49 work_queue_worker[15] http: Server: catalog_server
-2024/03/07 16:21:00.49 work_queue_worker[15] http: Connection: close
-2024/03/07 16:21:00.49 work_queue_worker[15] http: Access-Control-Allow-Origin: *
-2024/03/07 16:21:00.49 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
-2024/03/07 16:21:00.49 work_queue_worker[15] http:
-2024/03/07 16:21:00.56 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
-2024/03/07 16:21:00.57 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:22:00.57 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
-2024/03/07 16:22:00.57 work_queue_worker[15] wq: querying catalog for managers with project=nessie_c16
-2024/03/07 16:22:00.57 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
-2024/03/07 16:22:00.57 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
-2024/03/07 16:22:00.57 work_queue_worker[15] dns: looking up name catalog.cse.nd.edu
-2024/03/07 16:22:00.57 work_queue_worker[15] dns: catalog.cse.nd.edu is 129.74.152.177
-2024/03/07 16:22:00.57 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
-2024/03/07 16:22:00.59 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
-2024/03/07 16:22:00.59 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+2024/03/08 12:34:53.13 work_queue_worker[10617] http: HTTP/1.1 200 OK
+2024/03/08 12:34:53.13 work_queue_worker[10617] http: Date: Fri Mar  8 12:34:53 2024
+2024/03/08 12:34:53.13 work_queue_worker[10617] http: Server: catalog_server
+2024/03/08 12:34:53.13 work_queue_worker[10617] http: Connection: close
+2024/03/08 12:34:53.13 work_queue_worker[10617] http: Access-Control-Allow-Origin: *
+2024/03/08 12:34:53.13 work_queue_worker[10617] http: Content-type: text/plain; charset=utf-8
+2024/03/08 12:34:53.13 work_queue_worker[10617] http:
+2024/03/08 12:34:53.31 work_queue_worker[10617] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 12:34:53.31 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:35:53.32 work_queue_worker[10617] debug: error reading disk usage on directory: ./cache.
+2024/03/08 12:35:53.32 work_queue_worker[10617] wq: querying catalog for managers with project=nessie_c16
+2024/03/08 12:35:53.32 work_queue_worker[10617] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 12:35:53.32 work_queue_worker[10617] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 12:35:53.32 work_queue_worker[10617] dns: looking up name catalog.cse.nd.edu
+2024/03/08 12:35:53.32 work_queue_worker[10617] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/08 12:35:53.32 work_queue_worker[10617] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 12:35:53.35 work_queue_worker[10617] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 12:35:53.35 work_queue_worker[10617] http: GET /query/dHJ1ZQ== HTTP/1.1
 Connection: close
 Host: catalog.cse.nd.edu
 User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
-2024/03/07 16:22:00.61 work_queue_worker[15] http: HTTP/1.1 200 OK
-2024/03/07 16:22:00.61 work_queue_worker[15] http: Date: Thu Mar  7 16:22:00 2024
-2024/03/07 16:22:00.61 work_queue_worker[15] http: Server: catalog_server
-2024/03/07 16:22:00.61 work_queue_worker[15] http: Connection: close
-2024/03/07 16:22:00.61 work_queue_worker[15] http: Access-Control-Allow-Origin: *
-2024/03/07 16:22:00.61 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
-2024/03/07 16:22:00.61 work_queue_worker[15] http:
-2024/03/07 16:22:00.70 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
-2024/03/07 16:22:00.70 work_queue_worker[15] wq: project name nessie_c16 matches 0 managers
-2024/03/07 16:22:00.70 work_queue_worker[15] notice: stopping: could not connect after 300 seconds.
+2024/03/08 12:35:53.39 work_queue_worker[10617] http: HTTP/1.1 200 OK
+2024/03/08 12:35:53.39 work_queue_worker[10617] http: Date: Fri Mar  8 12:35:53 2024
+2024/03/08 12:35:53.39 work_queue_worker[10617] http: Server: catalog_server
+2024/03/08 12:35:53.39 work_queue_worker[10617] http: Connection: close
+2024/03/08 12:35:53.39 work_queue_worker[10617] http: Access-Control-Allow-Origin: *
+2024/03/08 12:35:53.39 work_queue_worker[10617] http: Content-type: text/plain; charset=utf-8
+2024/03/08 12:35:53.39 work_queue_worker[10617] http:
+2024/03/08 12:35:53.88 work_queue_worker[10617] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 12:35:53.89 work_queue_worker[10617] wq: project name nessie_c16 matches 0 managers
+2024/03/08 12:35:53.89 work_queue_worker[10617] notice: stopping: could not connect after 300 seconds.

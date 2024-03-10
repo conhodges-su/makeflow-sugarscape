@@ -49,12 +49,12 @@ $(LOCALMAKECHECK): $(MAKEFLOW)
 	mkdir $(OUTPUTFOLDER) && mv $(LOCALDATASET) $(OUTPUTFOLDER)
 
 $(REMOTEMAKECHECK): $(MAKEFLOW)
-	work_queue_factory -T condor --password=mypwfile -M nessie -w 1 -W 100 --workers-per-cycle 64 --disk=4096 --memory=8192 --cores=1 &
+	work_queue_factory -T condor --password=mypwfile -M nessie_c100_2 -w 100 -W 100 --workers-per-cycle 128 --disk=4096 --memory=8192 --cores=1 &
 	sleep 5m
-	cd data && time makeflow -T wq --password=mypwfile -M nessie -J 64 -L sugarscape.condor.log --cache-mode never $(MAKEFLOW)
+	cd data && time makeflow -T wq --password=mypwfile -M nessie_c100_2 -J 100 -L sugarscape.condor.log --cache-mode never $(MAKEFLOW) > 100.txt
 	touch $(REMOTEMAKECHECK)
 	mkdir $(OUTPUTFOLDER) && mv $(REMOTEDATASET) $(OUTPUTFOLDER)
-	perl cleanup
+	# perl cleanup
 
 
 all: $(DATACHECK) $(PLOTCHECK)
