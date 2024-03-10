@@ -44,7 +44,7 @@ $(MAKEFLOW):
 	cd data && $(PYTHON) run_mf.py --conf ../$(CONFIG)
 
 $(LOCALMAKECHECK): $(MAKEFLOW)
-	cd data && time makeflow $(MAKEFLOW) -j 64
+	cd data && time makeflow $(MAKEFLOW) -j 1
 	touch $(LOCALMAKECHECK)
 	mkdir $(OUTPUTFOLDER) && mv $(LOCALDATASET) $(OUTPUTFOLDER)
 
