@@ -1,47 +1,8 @@
-rawSugarscape4923099659922821611.json : rawSugarscape4923099659922821611.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4923099659922821611.config
+rawSugarscape7386318672645948043.json : rawSugarscape7386318672645948043.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7386318672645948043.config
 
-rawSugarscape7036872097479550364.json : rawSugarscape7036872097479550364.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7036872097479550364.config
-
-rawSugarscape4433649168997221627.json : rawSugarscape4433649168997221627.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4433649168997221627.config
-
-rawSugarscape6581668282387114390.json : rawSugarscape6581668282387114390.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6581668282387114390.config
-
-rawSugarscape8004937932008838430.json : rawSugarscape8004937932008838430.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape8004937932008838430.config
-
-rawSugarscape967383231415436120.json : rawSugarscape967383231415436120.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape967383231415436120.config
-
-rawSugarscape121655798940275440.json : rawSugarscape121655798940275440.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape121655798940275440.config
-
-rawSugarscape4521033295017606966.json : rawSugarscape4521033295017606966.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4521033295017606966.config
-
-rawSugarscape5016038946370619243.json : rawSugarscape5016038946370619243.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5016038946370619243.config
-
-rawSugarscape4121243680342666474.json : rawSugarscape4121243680342666474.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4121243680342666474.config
-
-rawSugarscape7552656520629772822.json : rawSugarscape7552656520629772822.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7552656520629772822.config
-
-rawSugarscape1878197474807590639.json : rawSugarscape1878197474807590639.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape1878197474807590639.config
-
-rawSugarscape5650195616884554835.json : rawSugarscape5650195616884554835.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5650195616884554835.config
-
-rawSugarscape6498143067402953206.json : rawSugarscape6498143067402953206.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6498143067402953206.config
-
-rawSugarscape649111542122622473.json : rawSugarscape649111542122622473.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape649111542122622473.config
+rawSugarscape9052922689582711903.json : rawSugarscape9052922689582711903.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape9052922689582711903.config
 
 rawSugarscape3269364730032685739.json : rawSugarscape3269364730032685739.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape3269364730032685739.config
@@ -49,20 +10,116 @@ rawSugarscape3269364730032685739.json : rawSugarscape3269364730032685739.config 
 rawSugarscape3689749988600396019.json : rawSugarscape3689749988600396019.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape3689749988600396019.config
 
-rawSugarscape7386318672645948043.json : rawSugarscape7386318672645948043.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7386318672645948043.config
-
-rawSugarscape9052922689582711903.json : rawSugarscape9052922689582711903.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape9052922689582711903.config
-
 rawSugarscape3901083446497447310.json : rawSugarscape3901083446497447310.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape3901083446497447310.config
 
 rawSugarscape8457762041749761812.json : rawSugarscape8457762041749761812.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape8457762041749761812.config
 
-rawSugarscape2364089815624248121.json : rawSugarscape2364089815624248121.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape2364089815624248121.config
+rawSugarscape540009695520315991.json : rawSugarscape540009695520315991.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape540009695520315991.config
+
+rawSugarscape6232538417706224.json : rawSugarscape6232538417706224.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6232538417706224.config
+
+rawSugarscape983905946281970364.json : rawSugarscape983905946281970364.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape983905946281970364.config
+
+rawSugarscape8004937932008838430.json : rawSugarscape8004937932008838430.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape8004937932008838430.config
+
+rawSugarscape6581668282387114390.json : rawSugarscape6581668282387114390.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6581668282387114390.config
+
+rawSugarscape4433649168997221627.json : rawSugarscape4433649168997221627.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4433649168997221627.config
+
+rawSugarscape7036872097479550364.json : rawSugarscape7036872097479550364.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7036872097479550364.config
+
+rawSugarscape4923099659922821611.json : rawSugarscape4923099659922821611.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4923099659922821611.config
+
+rawSugarscape172188595576260593.json : rawSugarscape172188595576260593.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape172188595576260593.config
+
+rawSugarscape1878197474807590639.json : rawSugarscape1878197474807590639.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape1878197474807590639.config
+
+rawSugarscape7552656520629772822.json : rawSugarscape7552656520629772822.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7552656520629772822.config
+
+rawSugarscape5016038946370619243.json : rawSugarscape5016038946370619243.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5016038946370619243.config
+
+rawSugarscape4121243680342666474.json : rawSugarscape4121243680342666474.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4121243680342666474.config
+
+rawSugarscape4521033295017606966.json : rawSugarscape4521033295017606966.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4521033295017606966.config
+
+rawSugarscape6498143067402953206.json : rawSugarscape6498143067402953206.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6498143067402953206.config
+
+rawSugarscape5650195616884554835.json : rawSugarscape5650195616884554835.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5650195616884554835.config
+
+rawSugarscape6587851318623098213.json : rawSugarscape6587851318623098213.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6587851318623098213.config
+
+rawSugarscape4896579661826251386.json : rawSugarscape4896579661826251386.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4896579661826251386.config
+
+rawSugarscape8187191187104250778.json : rawSugarscape8187191187104250778.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape8187191187104250778.config
+
+rawSugarscape8289881087697865668.json : rawSugarscape8289881087697865668.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape8289881087697865668.config
+
+rawSugarscape1168521870708554979.json : rawSugarscape1168521870708554979.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape1168521870708554979.config
+
+rawSugarscape2346924792442382896.json : rawSugarscape2346924792442382896.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape2346924792442382896.config
+
+rawSugarscape3256051468544963382.json : rawSugarscape3256051468544963382.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3256051468544963382.config
+
+rawSugarscape3548224385753520188.json : rawSugarscape3548224385753520188.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3548224385753520188.config
+
+rawSugarscape5304482546808596536.json : rawSugarscape5304482546808596536.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5304482546808596536.config
+
+rawSugarscape5706402318630467580.json : rawSugarscape5706402318630467580.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5706402318630467580.config
+
+rawSugarscape7263734854760912736.json : rawSugarscape7263734854760912736.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7263734854760912736.config
+
+rawSugarscape573707951821846276.json : rawSugarscape573707951821846276.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape573707951821846276.config
+
+rawSugarscape1245685850532367934.json : rawSugarscape1245685850532367934.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape1245685850532367934.config
+
+rawSugarscape6196693324640390028.json : rawSugarscape6196693324640390028.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6196693324640390028.config
+
+rawSugarscape3554369210726194921.json : rawSugarscape3554369210726194921.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3554369210726194921.config
+
+rawSugarscape2400532392040845568.json : rawSugarscape2400532392040845568.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape2400532392040845568.config
+
+rawSugarscape2624570541535133587.json : rawSugarscape2624570541535133587.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape2624570541535133587.config
+
+rawSugarscape221817755936552913.json : rawSugarscape221817755936552913.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape221817755936552913.config
+
+rawSugarscape5308966669465555698.json : rawSugarscape5308966669465555698.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5308966669465555698.config
 
 rawSugarscape8087266769365635867.json : rawSugarscape8087266769365635867.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape8087266769365635867.config
@@ -70,29 +127,17 @@ rawSugarscape8087266769365635867.json : rawSugarscape8087266769365635867.config 
 rawSugarscape3273634677454576928.json : rawSugarscape3273634677454576928.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape3273634677454576928.config
 
-rawSugarscape5308966669465555698.json : rawSugarscape5308966669465555698.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5308966669465555698.config
-
-rawSugarscape6858596454424967325.json : rawSugarscape6858596454424967325.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6858596454424967325.config
+rawSugarscape2364089815624248121.json : rawSugarscape2364089815624248121.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape2364089815624248121.config
 
 rawSugarscape5440196527678712508.json : rawSugarscape5440196527678712508.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape5440196527678712508.config
 
-rawSugarscape2400532392040845568.json : rawSugarscape2400532392040845568.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape2400532392040845568.config
+rawSugarscape6858596454424967325.json : rawSugarscape6858596454424967325.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6858596454424967325.config
 
-rawSugarscape3554369210726194921.json : rawSugarscape3554369210726194921.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3554369210726194921.config
-
-rawSugarscape2624570541535133587.json : rawSugarscape2624570541535133587.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape2624570541535133587.config
-
-rawSugarscape427774707671552849.json : rawSugarscape427774707671552849.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape427774707671552849.config
-
-rawSugarscape5767776571146758113.json : rawSugarscape5767776571146758113.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5767776571146758113.config
+rawSugarscape2998803153839462434.json : rawSugarscape2998803153839462434.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape2998803153839462434.config
 
 rawSugarscape6678046584119295194.json : rawSugarscape6678046584119295194.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape6678046584119295194.config
@@ -100,56 +145,56 @@ rawSugarscape6678046584119295194.json : rawSugarscape6678046584119295194.config 
 rawSugarscape4289336381400220623.json : rawSugarscape4289336381400220623.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape4289336381400220623.config
 
-rawSugarscape2998803153839462434.json : rawSugarscape2998803153839462434.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape2998803153839462434.config
+rawSugarscape5767776571146758113.json : rawSugarscape5767776571146758113.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5767776571146758113.config
 
-rawSugarscape8187191187104250778.json : rawSugarscape8187191187104250778.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape8187191187104250778.config
+rawSugarscape5953209564949996818.json : rawSugarscape5953209564949996818.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5953209564949996818.config
 
-rawSugarscape4896579661826251386.json : rawSugarscape4896579661826251386.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4896579661826251386.config
+rawSugarscape4191237357442031151.json : rawSugarscape4191237357442031151.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4191237357442031151.config
 
-rawSugarscape6587851318623098213.json : rawSugarscape6587851318623098213.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6587851318623098213.config
+rawSugarscape3242220394201503843.json : rawSugarscape3242220394201503843.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3242220394201503843.config
 
-rawSugarscape1168521870708554979.json : rawSugarscape1168521870708554979.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape1168521870708554979.config
+rawSugarscape8358822316843886379.json : rawSugarscape8358822316843886379.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape8358822316843886379.config
 
-rawSugarscape8289881087697865668.json : rawSugarscape8289881087697865668.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape8289881087697865668.config
+rawSugarscape5420778471681055118.json : rawSugarscape5420778471681055118.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5420778471681055118.config
 
-rawSugarscape7263734854760912736.json : rawSugarscape7263734854760912736.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7263734854760912736.config
+rawSugarscape3565779803561500854.json : rawSugarscape3565779803561500854.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3565779803561500854.config
 
-rawSugarscape6196693324640390028.json : rawSugarscape6196693324640390028.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6196693324640390028.config
+rawSugarscape9016206905184510166.json : rawSugarscape9016206905184510166.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape9016206905184510166.config
 
-rawSugarscape1245685850532367934.json : rawSugarscape1245685850532367934.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape1245685850532367934.config
+rawSugarscape4055599248687894795.json : rawSugarscape4055599248687894795.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4055599248687894795.config
 
-rawSugarscape3256051468544963382.json : rawSugarscape3256051468544963382.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3256051468544963382.config
+rawSugarscape4081635221871169963.json : rawSugarscape4081635221871169963.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4081635221871169963.config
 
-rawSugarscape2346924792442382896.json : rawSugarscape2346924792442382896.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape2346924792442382896.config
+rawSugarscape4108052519403077131.json : rawSugarscape4108052519403077131.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4108052519403077131.config
 
-rawSugarscape5706402318630467580.json : rawSugarscape5706402318630467580.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5706402318630467580.config
+rawSugarscape1202152756552736379.json : rawSugarscape1202152756552736379.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape1202152756552736379.config
 
-rawSugarscape5304482546808596536.json : rawSugarscape5304482546808596536.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5304482546808596536.config
+rawSugarscape7025933428738576022.json : rawSugarscape7025933428738576022.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7025933428738576022.config
 
-rawSugarscape3548224385753520188.json : rawSugarscape3548224385753520188.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3548224385753520188.config
+rawSugarscape7330417537053540131.json : rawSugarscape7330417537053540131.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7330417537053540131.config
 
-rawSugarscape3061700883141768471.json : rawSugarscape3061700883141768471.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3061700883141768471.config
+rawSugarscape5161108480637562053.json : rawSugarscape5161108480637562053.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5161108480637562053.config
 
-rawSugarscape6235819315582204318.json : rawSugarscape6235819315582204318.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6235819315582204318.config
+rawSugarscape427774707671552849.json : rawSugarscape427774707671552849.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape427774707671552849.config
 
-rawSugarscape3248388574907006154.json : rawSugarscape3248388574907006154.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3248388574907006154.config
+rawSugarscape7369240768182413633.json : rawSugarscape7369240768182413633.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7369240768182413633.config
 
 rawSugarscape5034269184253305694.json : rawSugarscape5034269184253305694.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape5034269184253305694.config
@@ -157,11 +202,14 @@ rawSugarscape5034269184253305694.json : rawSugarscape5034269184253305694.config 
 rawSugarscape4577374179685933793.json : rawSugarscape4577374179685933793.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape4577374179685933793.config
 
-rawSugarscape573707951821846276.json : rawSugarscape573707951821846276.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape573707951821846276.config
+rawSugarscape6235819315582204318.json : rawSugarscape6235819315582204318.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6235819315582204318.config
 
-rawSugarscape3142300589744215072.json : rawSugarscape3142300589744215072.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3142300589744215072.config
+rawSugarscape3061700883141768471.json : rawSugarscape3061700883141768471.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3061700883141768471.config
+
+rawSugarscape3248388574907006154.json : rawSugarscape3248388574907006154.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3248388574907006154.config
 
 rawSugarscape9039203931608830613.json : rawSugarscape9039203931608830613.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape9039203931608830613.config
@@ -172,129 +220,81 @@ rawSugarscape3699030404674204087.json : rawSugarscape3699030404674204087.config 
 rawSugarscape3466620120763421278.json : rawSugarscape3466620120763421278.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape3466620120763421278.config
 
-rawSugarscape3242220394201503843.json : rawSugarscape3242220394201503843.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3242220394201503843.config
-
-rawSugarscape4191237357442031151.json : rawSugarscape4191237357442031151.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4191237357442031151.config
-
-rawSugarscape5953209564949996818.json : rawSugarscape5953209564949996818.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5953209564949996818.config
-
-rawSugarscape3565779803561500854.json : rawSugarscape3565779803561500854.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3565779803561500854.config
-
-rawSugarscape5420778471681055118.json : rawSugarscape5420778471681055118.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5420778471681055118.config
-
-rawSugarscape8358822316843886379.json : rawSugarscape8358822316843886379.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape8358822316843886379.config
-
-rawSugarscape221817755936552913.json : rawSugarscape221817755936552913.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape221817755936552913.config
-
-rawSugarscape7025933428738576022.json : rawSugarscape7025933428738576022.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7025933428738576022.config
-
-rawSugarscape1202152756552736379.json : rawSugarscape1202152756552736379.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape1202152756552736379.config
-
-rawSugarscape4108052519403077131.json : rawSugarscape4108052519403077131.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4108052519403077131.config
-
-rawSugarscape7369240768182413633.json : rawSugarscape7369240768182413633.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7369240768182413633.config
-
-rawSugarscape5161108480637562053.json : rawSugarscape5161108480637562053.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5161108480637562053.config
-
-rawSugarscape7330417537053540131.json : rawSugarscape7330417537053540131.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7330417537053540131.config
-
-rawSugarscape4055599248687894795.json : rawSugarscape4055599248687894795.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4055599248687894795.config
-
-rawSugarscape9016206905184510166.json : rawSugarscape9016206905184510166.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape9016206905184510166.config
-
-rawSugarscape4081635221871169963.json : rawSugarscape4081635221871169963.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4081635221871169963.config
-
-rawSugarscape4019260758439484970.json : rawSugarscape4019260758439484970.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4019260758439484970.config
-
-rawSugarscape5936888668823162466.json : rawSugarscape5936888668823162466.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5936888668823162466.config
-
-rawSugarscape8178307003731496261.json : rawSugarscape8178307003731496261.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape8178307003731496261.config
-
-rawSugarscape8880008559625237561.json : rawSugarscape8880008559625237561.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape8880008559625237561.config
-
-rawSugarscape6232538417706224.json : rawSugarscape6232538417706224.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6232538417706224.config
-
-rawSugarscape8712728388294020382.json : rawSugarscape8712728388294020382.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape8712728388294020382.config
-
-rawSugarscape2018786746203715649.json : rawSugarscape2018786746203715649.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape2018786746203715649.config
-
-rawSugarscape6863325374722341332.json : rawSugarscape6863325374722341332.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6863325374722341332.config
-
-rawSugarscape7247392017372309838.json : rawSugarscape7247392017372309838.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7247392017372309838.config
-
-rawSugarscape983905946281970364.json : rawSugarscape983905946281970364.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape983905946281970364.config
-
-rawSugarscape4791881461028015051.json : rawSugarscape4791881461028015051.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4791881461028015051.config
-
-rawSugarscape7665692696168308873.json : rawSugarscape7665692696168308873.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7665692696168308873.config
-
-rawSugarscape5592418397235530151.json : rawSugarscape5592418397235530151.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5592418397235530151.config
-
-rawSugarscape540009695520315991.json : rawSugarscape540009695520315991.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape540009695520315991.config
-
-rawSugarscape7228160274171527655.json : rawSugarscape7228160274171527655.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7228160274171527655.config
-
-rawSugarscape4830762173865392990.json : rawSugarscape4830762173865392990.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape4830762173865392990.config
-
-rawSugarscape5633995995955751384.json : rawSugarscape5633995995955751384.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape5633995995955751384.config
+rawSugarscape3142300589744215072.json : rawSugarscape3142300589744215072.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3142300589744215072.config
 
 rawSugarscape8791919965034414236.json : rawSugarscape8791919965034414236.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape8791919965034414236.config
 
-rawSugarscape1820021090754564972.json : rawSugarscape1820021090754564972.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape1820021090754564972.config
-
 rawSugarscape5253112737944379929.json : rawSugarscape5253112737944379929.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape5253112737944379929.config
 
-rawSugarscape6259531866873373001.json : rawSugarscape6259531866873373001.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape6259531866873373001.config
+rawSugarscape1820021090754564972.json : rawSugarscape1820021090754564972.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape1820021090754564972.config
 
-rawSugarscape7773174601670611936.json : rawSugarscape7773174601670611936.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape7773174601670611936.config
+rawSugarscape121655798940275440.json : rawSugarscape121655798940275440.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape121655798940275440.config
 
-rawSugarscape172188595576260593.json : rawSugarscape172188595576260593.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape172188595576260593.config
+rawSugarscape967383231415436120.json : rawSugarscape967383231415436120.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape967383231415436120.config
+
+rawSugarscape7228160274171527655.json : rawSugarscape7228160274171527655.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7228160274171527655.config
+
+rawSugarscape5633995995955751384.json : rawSugarscape5633995995955751384.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5633995995955751384.config
+
+rawSugarscape4830762173865392990.json : rawSugarscape4830762173865392990.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4830762173865392990.config
 
 rawSugarscape9094722585110510007.json : rawSugarscape9094722585110510007.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape9094722585110510007.config
 
+rawSugarscape3360717569847968034.json : rawSugarscape3360717569847968034.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape3360717569847968034.config
+
 rawSugarscape2171909775374752923.json : rawSugarscape2171909775374752923.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
 	python3 sugarscape.py --conf rawSugarscape2171909775374752923.config
 
-rawSugarscape3360717569847968034.json : rawSugarscape3360717569847968034.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
-	python3 sugarscape.py --conf rawSugarscape3360717569847968034.config
+rawSugarscape649111542122622473.json : rawSugarscape649111542122622473.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape649111542122622473.config
+
+rawSugarscape7773174601670611936.json : rawSugarscape7773174601670611936.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7773174601670611936.config
+
+rawSugarscape6259531866873373001.json : rawSugarscape6259531866873373001.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6259531866873373001.config
+
+rawSugarscape8880008559625237561.json : rawSugarscape8880008559625237561.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape8880008559625237561.config
+
+rawSugarscape8178307003731496261.json : rawSugarscape8178307003731496261.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape8178307003731496261.config
+
+rawSugarscape5936888668823162466.json : rawSugarscape5936888668823162466.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5936888668823162466.config
+
+rawSugarscape4019260758439484970.json : rawSugarscape4019260758439484970.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4019260758439484970.config
+
+rawSugarscape4791881461028015051.json : rawSugarscape4791881461028015051.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape4791881461028015051.config
+
+rawSugarscape5592418397235530151.json : rawSugarscape5592418397235530151.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape5592418397235530151.config
+
+rawSugarscape7665692696168308873.json : rawSugarscape7665692696168308873.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7665692696168308873.config
+
+rawSugarscape6863325374722341332.json : rawSugarscape6863325374722341332.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape6863325374722341332.config
+
+rawSugarscape2018786746203715649.json : rawSugarscape2018786746203715649.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape2018786746203715649.config
+
+rawSugarscape8712728388294020382.json : rawSugarscape8712728388294020382.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape8712728388294020382.config
+
+rawSugarscape7247392017372309838.json : rawSugarscape7247392017372309838.config sugarscape.py disease.py ethics.py environment.py cell.py agent.py 
+	python3 sugarscape.py --conf rawSugarscape7247392017372309838.config
 
