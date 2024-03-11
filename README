@@ -2,10 +2,13 @@ SUGARSCAPE + MAKEFLOW + WORKQUEUE
 
 A project utilizing WorkQueue and Makeflow (from CCTools) to speedup execution times of a serial sugarscape implementation detailed here: https://github.com/nkremerh/sugarscape 
 
+This implementation runs on Open Science Grid (OSG) which utlizes the HTCondor grid/batch system for it's job management system.
+
 Requirements:
 Bash
 Python 3
 TkInter
+CCTools (Makeflow and WorkQueue)
 
 Usage:
 python sugarscape.py
