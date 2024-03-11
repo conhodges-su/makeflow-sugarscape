@@ -1,0 +1,131 @@
+2024/03/08 05:57:47.27 work_queue_worker[4836] debug: ./work_queue_worker version 8.0.0 DEVELOPMENT (released 2024-01-31 18:33:01 -0600)
+2024/03/08 05:57:47.27 work_queue_worker[4836] debug: Built by sunrise1001@ap21.uc.osg-htc.org on 2024-01-31 18:33:01 -0600
+2024/03/08 05:57:47.27 work_queue_worker[4836] debug: System: Linux ap21.uc.osg-htc.org 5.4.240-1.el8.elrepo.x86_64 #1 SMP Tue Apr 4 13:26:38 EDT 2023 x86_64 x86_64 x86_64 GNU/Linux
+2024/03/08 05:57:47.27 work_queue_worker[4836] debug: Configuration: --prefix /home/sunrise1001/cctools
+2024/03/08 05:57:47.28 work_queue_worker[4836] wq: WORK_QUEUE_SANDBOX set to /scratch/glide_9j9JxT/execute/dir_4070/worker-1010-4836.
+2024/03/08 05:57:47.28 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 05:57:47.28 work_queue_worker[4836] wq: querying catalog for managers with project=joyboy-32-a
+2024/03/08 05:57:47.28 work_queue_worker[4836] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 05:57:47.28 work_queue_worker[4836] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 05:57:47.28 work_queue_worker[4836] dns: looking up name catalog.cse.nd.edu
+2024/03/08 05:57:47.28 work_queue_worker[4836] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/08 05:57:47.28 work_queue_worker[4836] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 05:57:47.31 work_queue_worker[4836] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 05:57:47.31 work_queue_worker[4836] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 05:57:47.35 work_queue_worker[4836] http: HTTP/1.1 200 OK
+2024/03/08 05:57:47.35 work_queue_worker[4836] http: Date: Fri Mar  8 05:57:47 2024
+2024/03/08 05:57:47.35 work_queue_worker[4836] http: Server: catalog_server
+2024/03/08 05:57:47.35 work_queue_worker[4836] http: Connection: close
+2024/03/08 05:57:47.35 work_queue_worker[4836] http: Access-Control-Allow-Origin: *
+2024/03/08 05:57:47.35 work_queue_worker[4836] http: Content-type: text/plain; charset=utf-8
+2024/03/08 05:57:47.35 work_queue_worker[4836] http:
+2024/03/08 05:57:47.84 work_queue_worker[4836] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 05:57:47.85 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 05:57:49.85 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 05:57:53.85 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 05:57:53.85 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 05:58:01.85 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 05:58:01.85 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 05:58:17.85 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 05:58:17.85 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 05:58:49.86 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 05:58:49.86 work_queue_worker[4836] wq: querying catalog for managers with project=joyboy-32-a
+2024/03/08 05:58:49.86 work_queue_worker[4836] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 05:58:49.86 work_queue_worker[4836] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 05:58:49.86 work_queue_worker[4836] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 05:58:49.89 work_queue_worker[4836] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 05:58:49.89 work_queue_worker[4836] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 05:58:49.93 work_queue_worker[4836] http: HTTP/1.1 200 OK
+2024/03/08 05:58:49.93 work_queue_worker[4836] http: Date: Fri Mar  8 05:58:49 2024
+2024/03/08 05:58:49.93 work_queue_worker[4836] http: Server: catalog_server
+2024/03/08 05:58:49.93 work_queue_worker[4836] http: Connection: close
+2024/03/08 05:58:49.93 work_queue_worker[4836] http: Access-Control-Allow-Origin: *
+2024/03/08 05:58:49.93 work_queue_worker[4836] http: Content-type: text/plain; charset=utf-8
+2024/03/08 05:58:49.93 work_queue_worker[4836] http:
+2024/03/08 05:58:50.41 work_queue_worker[4836] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 05:58:50.42 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 05:59:50.43 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 05:59:50.43 work_queue_worker[4836] wq: querying catalog for managers with project=joyboy-32-a
+2024/03/08 05:59:50.43 work_queue_worker[4836] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 05:59:50.43 work_queue_worker[4836] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 05:59:50.43 work_queue_worker[4836] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 05:59:50.46 work_queue_worker[4836] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 05:59:50.46 work_queue_worker[4836] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 05:59:50.50 work_queue_worker[4836] http: HTTP/1.1 200 OK
+2024/03/08 05:59:50.50 work_queue_worker[4836] http: Date: Fri Mar  8 05:59:50 2024
+2024/03/08 05:59:50.50 work_queue_worker[4836] http: Server: catalog_server
+2024/03/08 05:59:50.50 work_queue_worker[4836] http: Connection: close
+2024/03/08 05:59:50.50 work_queue_worker[4836] http: Access-Control-Allow-Origin: *
+2024/03/08 05:59:50.50 work_queue_worker[4836] http: Content-type: text/plain; charset=utf-8
+2024/03/08 05:59:50.50 work_queue_worker[4836] http:
+2024/03/08 05:59:51.02 work_queue_worker[4836] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 05:59:51.03 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 06:00:51.03 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 06:00:51.03 work_queue_worker[4836] wq: querying catalog for managers with project=joyboy-32-a
+2024/03/08 06:00:51.03 work_queue_worker[4836] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 06:00:51.03 work_queue_worker[4836] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 06:00:51.03 work_queue_worker[4836] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 06:00:51.06 work_queue_worker[4836] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 06:00:51.06 work_queue_worker[4836] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 06:00:51.10 work_queue_worker[4836] http: HTTP/1.1 200 OK
+2024/03/08 06:00:51.10 work_queue_worker[4836] http: Date: Fri Mar  8 06:00:51 2024
+2024/03/08 06:00:51.10 work_queue_worker[4836] http: Server: catalog_server
+2024/03/08 06:00:51.10 work_queue_worker[4836] http: Connection: close
+2024/03/08 06:00:51.10 work_queue_worker[4836] http: Access-Control-Allow-Origin: *
+2024/03/08 06:00:51.10 work_queue_worker[4836] http: Content-type: text/plain; charset=utf-8
+2024/03/08 06:00:51.10 work_queue_worker[4836] http:
+2024/03/08 06:00:51.59 work_queue_worker[4836] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 06:00:51.60 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 06:01:51.60 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 06:01:51.60 work_queue_worker[4836] wq: querying catalog for managers with project=joyboy-32-a
+2024/03/08 06:01:51.60 work_queue_worker[4836] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 06:01:51.60 work_queue_worker[4836] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 06:01:51.60 work_queue_worker[4836] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 06:01:51.64 work_queue_worker[4836] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 06:01:51.64 work_queue_worker[4836] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 06:01:51.67 work_queue_worker[4836] http: HTTP/1.1 200 OK
+2024/03/08 06:01:51.67 work_queue_worker[4836] http: Date: Fri Mar  8 06:01:51 2024
+2024/03/08 06:01:51.67 work_queue_worker[4836] http: Server: catalog_server
+2024/03/08 06:01:51.67 work_queue_worker[4836] http: Connection: close
+2024/03/08 06:01:51.67 work_queue_worker[4836] http: Access-Control-Allow-Origin: *
+2024/03/08 06:01:51.67 work_queue_worker[4836] http: Content-type: text/plain; charset=utf-8
+2024/03/08 06:01:51.67 work_queue_worker[4836] http:
+2024/03/08 06:01:52.19 work_queue_worker[4836] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 06:01:52.20 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 06:02:52.21 work_queue_worker[4836] debug: error reading disk usage on directory: ./cache.
+2024/03/08 06:02:52.21 work_queue_worker[4836] wq: querying catalog for managers with project=joyboy-32-a
+2024/03/08 06:02:52.21 work_queue_worker[4836] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/08 06:02:52.21 work_queue_worker[4836] http: connect catalog.cse.nd.edu port 9097
+2024/03/08 06:02:52.21 work_queue_worker[4836] dns: looking up name catalog.cse.nd.edu
+2024/03/08 06:02:52.21 work_queue_worker[4836] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/08 06:02:52.21 work_queue_worker[4836] tcp: connecting to 129.74.152.177 port 9097
+2024/03/08 06:02:52.24 work_queue_worker[4836] tcp: made connection to 129.74.152.177 port 9097
+2024/03/08 06:02:52.24 work_queue_worker[4836] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 8.0.0 DEVELOPMENT Parrot; http://ccl.cse.nd.edu/)
+2024/03/08 06:02:52.28 work_queue_worker[4836] http: HTTP/1.1 200 OK
+2024/03/08 06:02:52.28 work_queue_worker[4836] http: Date: Fri Mar  8 06:02:52 2024
+2024/03/08 06:02:52.28 work_queue_worker[4836] http: Server: catalog_server
+2024/03/08 06:02:52.28 work_queue_worker[4836] http: Connection: close
+2024/03/08 06:02:52.28 work_queue_worker[4836] http: Access-Control-Allow-Origin: *
+2024/03/08 06:02:52.28 work_queue_worker[4836] http: Content-type: text/plain; charset=utf-8
+2024/03/08 06:02:52.28 work_queue_worker[4836] http:
+2024/03/08 06:02:52.76 work_queue_worker[4836] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/08 06:02:52.77 work_queue_worker[4836] wq: project name joyboy-32-a matches 0 managers
+2024/03/08 06:02:52.77 work_queue_worker[4836] notice: stopping: could not connect after 300 seconds.

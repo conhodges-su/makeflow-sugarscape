@@ -1,0 +1,313 @@
+parsing sugarscape.mf...
+local resources: 64.000 cores, 515756 MB memory, 6612084 MB disk
+max running remote jobs: 16
+max running local jobs: 64
+checking sugarscape.mf for consistency...
+sugarscape.mf has 100 rules.
+creating new log file sugarscape.mf.makeflowlog...
+checking files for unexpected changes...  (use --skip-file-check to skip this step)
+starting workflow....
+listening for workers on port 1027.
+submitting job: python3 sugarscape.py --conf rawSugarscape8712728388294020382.config
+submitted job 1
+submitting job: python3 sugarscape.py --conf rawSugarscape6863325374722341332.config
+submitted job 2
+submitting job: python3 sugarscape.py --conf rawSugarscape2018786746203715649.config
+submitted job 3
+submitting job: python3 sugarscape.py --conf rawSugarscape7247392017372309838.config
+submitted job 4
+submitting job: python3 sugarscape.py --conf rawSugarscape4791881461028015051.config
+submitted job 5
+submitting job: python3 sugarscape.py --conf rawSugarscape5592418397235530151.config
+submitted job 6
+submitting job: python3 sugarscape.py --conf rawSugarscape7665692696168308873.config
+submitted job 7
+submitting job: python3 sugarscape.py --conf rawSugarscape4019260758439484970.config
+submitted job 8
+submitting job: python3 sugarscape.py --conf rawSugarscape983905946281970364.config
+submitted job 9
+submitting job: python3 sugarscape.py --conf rawSugarscape5936888668823162466.config
+submitted job 10
+submitting job: python3 sugarscape.py --conf rawSugarscape540009695520315991.config
+submitted job 11
+submitting job: python3 sugarscape.py --conf rawSugarscape8880008559625237561.config
+submitted job 12
+submitting job: python3 sugarscape.py --conf rawSugarscape8178307003731496261.config
+submitted job 13
+submitting job: python3 sugarscape.py --conf rawSugarscape7773174601670611936.config
+submitted job 14
+submitting job: python3 sugarscape.py --conf rawSugarscape6259531866873373001.config
+submitted job 15
+submitting job: python3 sugarscape.py --conf rawSugarscape9094722585110510007.config
+submitted job 16
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.
+job 10 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape2171909775374752923.config
+submitted job 17
+job 5 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3360717569847968034.config
+submitted job 18
+job 1 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7228160274171527655.config
+submitted job 19
+job 9 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5633995995955751384.config
+submitted job 20
+job 4 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4830762173865392990.config
+submitted job 21
+job 7 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape172188595576260593.config
+submitted job 22
+job 14 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape8791919965034414236.config
+submitted job 23
+job 15 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5253112737944379929.config
+submitted job 24
+job 19 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape1820021090754564972.config
+submitted job 25
+job 8 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3142300589744215072.config
+submitted job 26
+job 20 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape9039203931608830613.config
+submitted job 27
+job 25 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3466620120763421278.config
+submitted job 28
+job 28 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3699030404674204087.config
+submitted job 29
+job 12 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6235819315582204318.config
+submitted job 30
+job 18 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3061700883141768471.config
+submitted job 31
+job 17 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape573707951821846276.config
+submitted job 32
+job 22 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3248388574907006154.config
+submitted job 33
+job 30 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5034269184253305694.config
+submitted job 34
+job 31 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4577374179685933793.config
+submitted job 35
+job 32 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape1202152756552736379.config
+submitted job 36
+job 2 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7025933428738576022.config
+submitted job 37
+job 34 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4108052519403077131.config
+submitted job 38
+job 37 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7369240768182413633.config
+submitted job 39
+job 39 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7330417537053540131.config
+submitted job 40
+job 38 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5161108480637562053.config
+submitted job 41
+job 35 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4055599248687894795.config
+submitted job 42
+job 40 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape9016206905184510166.config
+submitted job 43
+job 43 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape221817755936552913.config
+submitted job 44
+job 42 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4081635221871169963.config
+submitted job 45
+job 33 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4191237357442031151.config
+submitted job 46
+job 46 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5953209564949996818.config
+submitted job 47
+job 45 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3242220394201503843.config
+submitted job 48
+job 47 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape8358822316843886379.config
+submitted job 49
+job 26 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5420778471681055118.config
+submitted job 50
+job 50 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3565779803561500854.config
+submitted job 51
+job 6 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5767776571146758113.config
+submitted job 52
+job 44 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape2998803153839462434.config
+submitted job 53
+job 53 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4289336381400220623.config
+submitted job 54
+job 54 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6678046584119295194.config
+submitted job 55
+job 55 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5308966669465555698.config
+submitted job 56
+job 56 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3273634677454576928.config
+submitted job 57
+job 3 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape8087266769365635867.config
+submitted job 58
+job 13 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape2364089815624248121.config
+submitted job 59
+job 59 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6858596454424967325.config
+submitted job 60
+job 60 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5440196527678712508.config
+submitted job 61
+job 11 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape427774707671552849.config
+submitted job 62
+job 62 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape2400532392040845568.config
+submitted job 63
+job 29 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3554369210726194921.config
+submitted job 64
+job 23 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape2624570541535133587.config
+submitted job 65
+job 65 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7263734854760912736.config
+submitted job 66
+job 66 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape1245685850532367934.config
+submitted job 67
+job 67 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6196693324640390028.config
+submitted job 68
+job 27 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3256051468544963382.config
+submitted job 69
+job 68 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape2346924792442382896.config
+submitted job 70
+job 70 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5304482546808596536.config
+submitted job 71
+job 52 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5706402318630467580.config
+submitted job 72
+job 72 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3548224385753520188.config
+submitted job 73
+job 73 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape8187191187104250778.config
+submitted job 74
+job 61 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6587851318623098213.config
+submitted job 75
+job 75 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4896579661826251386.config
+submitted job 76
+job 76 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape1168521870708554979.config
+submitted job 77
+job 77 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape8289881087697865668.config
+submitted job 78
+job 78 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4121243680342666474.config
+submitted job 79
+job 79 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5016038946370619243.config
+submitted job 80
+job 63 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4521033295017606966.config
+submitted job 81
+job 81 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape1878197474807590639.config
+submitted job 82
+job 69 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7552656520629772822.config
+submitted job 83
+job 58 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape5650195616884554835.config
+submitted job 84
+job 71 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6498143067402953206.config
+submitted job 85
+job 84 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6232538417706224.config
+submitted job 86
+job 85 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape967383231415436120.config
+submitted job 87
+job 64 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape121655798940275440.config
+submitted job 88
+job 87 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7036872097479550364.config
+submitted job 89
+job 57 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4923099659922821611.config
+submitted job 90
+job 89 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape4433649168997221627.config
+submitted job 91
+job 90 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape8004937932008838430.config
+submitted job 92
+job 91 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape6581668282387114390.config
+submitted job 93
+job 92 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape649111542122622473.config
+submitted job 94
+job 21 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape8457762041749761812.config
+submitted job 95
+job 86 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3901083446497447310.config
+submitted job 96
+job 49 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3269364730032685739.config
+submitted job 97
+job 82 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape3689749988600396019.config
+submitted job 98
+job 93 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape7386318672645948043.config
+submitted job 99
+job 98 completed
+submitting job: python3 sugarscape.py --conf rawSugarscape9052922689582711903.config
+submitted job 100
+job 80 completed
+job 95 completed
+job 83 completed
+job 96 completed
+job 97 completed
+job 48 completed
+job 100 completed
+job 36 completed
+job 51 completed
+job 94 completed
+job 88 completed
+job 99 completed
+job 74 completed
+job 24 completed
+job 16 completed
+job 41 completed
+nothing left to do.
