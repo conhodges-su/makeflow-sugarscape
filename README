@@ -21,7 +21,9 @@ Makefile Options:
 ***can only run under makeflow-sugarscape folder**
 
 make local 
-    This command runs a local-only makeflow using the ```.conf``` files in the ```/data``` folder of the repository.Output is placed in the folder specifed by `OUTPUTFOLDER`. Run folders should be renamed before running another set of jobs to collect information
+    This command runs a local-only makeflow using the ```.conf``` files in the ```/data``` folder of the repository.Output is placed in the folder specifed by `$(OUTPUTFOLDER)`. Run folders should be renamed before running another set of jobs to collect information. 
+    
+    - Any time results and errors are redirected to ```output.txt``` in `$(OUTPUTFOLDER)`
 
 make remote
     This command runs a WorkQueue-enabled job. You **must** change the the following command line arguments to run X # of workers
@@ -30,6 +32,8 @@ make remote
     - ```-worker-per-cycle``` sets maximum of new workers every 30s in ```work_queue_factory``` (should be same number as -w and -W)
     - `-J` sets maximum number of concurrent makeflow processes at a time
     - `-M` sets the name of the project. We suggest using a name to indicate the # of workers subscribed
+
+    - Any time results and errors are redirected to ```output.txt``` in `$(OUTPUTFOLDER)`
 
 make clean
     This command cleans up artifacts of data simulation in working directory and prep for next run.
